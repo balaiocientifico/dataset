@@ -1,0 +1,5571 @@
+uf	cod_mun	nom_mun	pop_est
+MG	3166600	Serra da Saudade	771
+SP	3507209	Borá	839
+MT	5101209	Araguainha	909
+RS	4306924	Engenho Velho	932
+RS	4322350	União da Serra	1084
+TO	1715507	Oliveira de Fátima	1124
+SP	3555901	Uru	1142
+MG	3115607	Cedro do Abaeté	1150
+GO	5201207	Anhanguera	1171
+SC	4215695	Santiago do Sul	1211
+PI	2206308	Miguel Leão	1239
+RS	4315073	Porto Vera Cruz	1258
+SP	3532868	Nova Castilho	1290
+PR	4112603	Jardim Olinda	1309
+GO	5220058	São João da Paraúna	1312
+RS	4304853	Carlos Gomes	1327
+GO	5204201	Cachoeira de Goiás	1336
+RS	4300661	André da Rocha	1351
+MG	3127909	Grupiara	1386
+SP	3515806	Flora Rica	1397
+SC	4209458	Lajeado Grande	1408
+TO	1704600	Chapada de Areia	1415
+MG	3165800	Senador José Bento	1422
+PR	4100459	Altamira do Paraná	1429
+RS	4312351	Montauri	1430
+SC	4211876	Paial	1444
+RS	4322186	Tupanci do Sul	1447
+SP	3547205	Santana da Ponte Pensa	1448
+GO	5213400	Moiporá	1471
+MG	3164803	São Sebastião do Rio Preto	1478
+RS	4309258	Guabiju	1478
+RS	4305835	Coqueiro Baixo	1490
+RS	4314787	Ponte Preta	1501
+MG	3146602	Paiva	1517
+SC	4208955	Jardinópolis	1520
+MT	5106703	Ponte Branca	1525
+SC	4213906	Presidente Castello Branco	1526
+GO	5204953	Campos Verdes	1526
+MG	3123403	Doresópolis	1539
+RS	4323606	Vista Alegre do Prata	1553
+SP	3547650	Santa Salete	1558
+PR	4116505	Nova Aliança do Ivaí	1560
+PR	4123600	Santa Inês	1568
+SC	4205357	Flor do Sertão	1575
+MG	3103108	Antônio Prado de Minas	1577
+RS	4315131	Pouso Novo	1586
+RS	4300554	Alto Alegre	1590
+RS	4305934	Coronel Pilar	1602
+RS	4311270	Lagoa dos Três Cantos	1604
+SC	4217956	Tigrinhos	1606
+TO	1720150	São Félix do Tocantins	1610
+RS	4312179	Mato Queimado	1611
+MG	3147501	Passabém	1619
+RS	4308854	Gentil	1619
+RS	4301925	Barra do Rio Azul	1621
+SC	4202099	Barra Bonita	1625
+RS	4304622	Capão Bonito do Sul	1628
+RS	4316733	Santa Cecília do Sul	1630
+PR	4107520	Esperança Nova	1633
+GO	5212253	Lagoa Santa	1652
+SP	3555307	Turmalina	1667
+RS	4312674	Nicolau Vergueiro	1667
+GO	5209457	Guarinos	1681
+RS	4304614	Canudos do Vale	1693
+MG	3145406	Olaria	1694
+SC	4210555	Marema	1703
+RS	4313466	Novo Xingu	1705
+MT	5107883	Serra Nova Dourada	1705
+RS	4308250	Floriano Peixoto	1709
+RS	4317251	Santa Tereza	1722
+RS	4311643	Linha Nova	1724
+RN	2414902	Viçosa	1731
+RS	4312955	Nova Boa Vista	1731
+SP	3515657	Fernão	1739
+RN	2413607	Severiano Melo	1743
+PB	2510659	Parari	1747
+TO	1706258	Crixás do Tocantins	1749
+SP	3554755	Trabiju	1752
+AM	1302108	Japurá	1755
+SP	3503356	Arco-Íris	1755
+MG	3160504	Santo Antônio do Rio Abaixo	1756
+SC	4210050	Macieira	1757
+RS	4306130	Cruzaltense	1765
+RS	4322855	Vespasiano Corrêa	1776
+MG	3118502	Consolação	1786
+PR	4116000	Miraselva	1786
+SC	4217154	São Miguel da Boa Vista	1794
+MG	3149408	Pedro Teixeira	1804
+SP	3513850	Dirce Reis	1805
+GO	5200209	Água Limpa	1809
+SP	3503950	Aspásia	1815
+PB	2514651	São José do Brejo do Cruz	1821
+SP	3532843	Nova Canaã Paulista	1824
+SP	3536570	Paulistânia	1835
+SP	3556958	Vitória Brasil	1852
+RS	4310751	Ivorá	1854
+MG	3166402	Seritinga	1857
+RS	4302378	Bom Progresso	1858
+RS	4315313	Quatro Irmãos	1860
+MG	3168200	Tapiraí	1869
+RS	4310462	Ipiranga do Sul	1871
+SP	3555703	União Paulista	1886
+SC	4207858	Irati	1887
+RS	4320453	Sério	1889
+RS	4314464	Pinhal da Serra	1896
+RS	4312625	Muliterno	1901
+SP	3529658	Mesópolis	1903
+GO	5209291	Guaraíta	1905
+MG	3123502	Douradoquara	1915
+SC	4200754	Alto Bela Vista	1915
+RS	4318465	São José do Herval	1917
+SC	4205555	Frei Rogério	1918
+RS	4302055	Benjamin Constant do Sul	1924
+RS	4314175	Pedras Altas	1928
+RS	4315172	Protásio Alves	1929
+RS	4320578	Sete de Setembro	1931
+RS	4300471	Almirante Tamandaré do Sul	1935
+SP	3549250	São João de Iracema	1942
+PB	2504850	Coxixola	1948
+MG	3153806	Queluzito	1948
+MG	3167004	Serranos	1949
+TO	1721257	Tupirama	1952
+SC	4206751	Ibiam	1952
+RS	4322343	Ubiretama	1952
+RS	4306759	Doutor Ricardo	1967
+SC	4204756	Cunhataí	1972
+GO	5200506	Aloândia	1976
+TO	1712157	Lavandeira	1984
+MG	3100708	Água Comprida	1986
+RS	4312005	Mariano Moro	1987
+RS	4306429	Dois Irmãos das Missões	1992
+SP	3518008	Guarani d'Oeste	1996
+PB	2512788	Riacho de Santo Antônio	1999
+MG	3165602	Senador Cortes	2001
+TO	1720853	Sucupira	2007
+PB	2512606	Quixaba	2009
+RS	4317756	Santo Antônio do Planalto	2018
+SP	3513306	Cruzália	2021
+MG	3147808	Passa Vinte	2024
+SP	3555208	Turiúba	2024
+RS	4319364	São Pedro das Missões	2025
+PR	4101853	Ariranha do Ivaí	2026
+MG	3132800	Itambé do Mato Dentro	2032
+PR	4124301	Santo Antônio do Paraíso	2032
+RS	4309126	Gramado dos Loureiros	2036
+MT	5105309	Luciara	2036
+RS	4310579	Itapuca	2037
+RS	4318499	São José do Inhacorá	2040
+GO	5220280	São Patrício	2040
+MG	3103306	Aracitaba	2056
+SC	4205191	Ermo	2059
+RN	2407906	Monte das Gameleiras	2063
+RS	4315453	Relvado	2068
+RS	4323358	Vila Lângaro	2070
+SC	4209177	Jupiá	2083
+RS	4302154	Boa Vista das Missões	2087
+TO	1709807	Ipueiras	2088
+GO	5206909	Davinópolis	2094
+SP	3549300	São João do Pau d'Alho	2095
+RS	4302584	Bozano	2099
+SP	3529104	Marinópolis	2101
+PB	2501153	Areia de Baraúnas	2105
+RS	4314753	Poço das Antas	2105
+SP	3514205	Dolcinópolis	2108
+SP	3546108	Santa Clara d'Oeste	2111
+RS	4317558	Santo Antônio do Palma	2118
+RO	1101468	Pimenteiras do Oeste	2127
+MG	3145703	Oliveira Fortes	2128
+RS	4322558	Vanini	2130
+GO	5216908	Pilar de Goiás	2135
+SC	4202578	Bom Jesus do Oeste	2136
+MG	3170602	Vargem Bonita	2143
+SC	4215604	Santa Rosa de Lima	2151
+PR	4125555	São Manoel do Paraná	2165
+SP	3546256	Santa Cruz da Esperança	2166
+RN	2401651	Bodó	2171
+PI	2209450	Santo Antônio dos Milagres	2172
+TO	1711803	Juarina	2174
+SP	3536257	Parisi	2177
+SC	4215554	Santa Helena	2178
+PR	4115903	Mirador	2180
+TO	1720937	Taipas do Tocantins	2183
+MG	3142502	Monjolos	2184
+RS	4313441	Novo Tiradentes	2189
+RS	4313334	Nova Ramada	2195
+SC	4211850	Ouro Verde	2197
+GO	5219506	Santa Rosa de Goiás	2200
+RS	4314555	Pirapó	2205
+RS	4310413	Inhacorá	2207
+TO	1718659	Rio da Conceição	2211
+PR	4110656	Iracema do Oeste	2216
+GO	5213855	Morro Agudo de Goiás	2217
+TO	1703602	Brasilândia do Tocantins	2221
+SP	3543238	Ribeirão dos Índios	2222
+SC	4201653	Arvoredo	2228
+GO	5214804	Nova Aurora	2236
+PR	4109104	Guaporema	2239
+SC	4215752	São Bernardino	2239
+SC	4209201	Lacerdópolis	2248
+RS	4319711	São Valentim do Sul	2248
+MG	3114907	Casa Grande	2251
+PR	4110052	Iguatu	2251
+GO	5205703	Córrego do Ouro	2254
+RS	4308052	Faxinalzinho	2256
+SC	4210852	Mirim Doce	2257
+MG	3164902	São Sebastião do Rio Verde	2259
+GO	5212907	Marzagão	2263
+RN	2404804	Ipueira	2264
+PB	2500734	Amparo	2264
+PR	4125902	São Pedro do Paraná	2265
+MG	3167301	Silveirânia	2267
+RS	4305850	Coqueiros do Sul	2267
+PB	2517407	Zabelê	2269
+RS	4315958	Rolador	2270
+SP	3531001	Monções	2274
+SC	4214102	Presidente Nereu	2279
+RS	4305157	Cerro Grande	2281
+RS	4317954	Santo Expedito do Sul	2287
+RS	4319752	São Vendelino	2288
+TO	1703826	Cachoeirinha	2293
+GO	5211602	Ivolândia	2295
+RS	4314134	Paulo Bento	2303
+RS	4322376	Unistalda	2306
+MG	3124609	Estrela Dalva	2308
+RS	4307831	Eugênio de Castro	2310
+TO	1713700	Monte Santo do Tocantins	2311
+SP	3527256	Lourdes	2311
+SC	4215687	Santa Terezinha do Progresso	2317
+SC	4202875	Brunópolis	2318
+RS	4306353	Dezesseis de Novembro	2331
+RS	4321626	Travesseiro	2331
+TO	1715150	Novo Alegre	2332
+RS	4315057	Porto Mauá	2332
+SP	3533106	Nova Guataporanga	2333
+MG	3156205	Rochedo de Minas	2335
+SC	4200556	Águas Frias	2341
+SC	4211892	Painel	2352
+GO	5212600	Mairipotaba	2358
+MG	3103207	Araçaí	2360
+GO	5214705	Nova América	2362
+SC	4218855	União do Oeste	2364
+RS	4320651	Silveira Martins	2365
+SC	4211652	Novo Horizonte	2366
+MG	3125200	Fama	2374
+RS	4310652	Itati	2377
+GO	5215801	Palmelo	2382
+SE	2800100	Amparo do São Francisco	2386
+BA	2919959	Maetinga	2386
+SC	4217758	Sul Brasil	2386
+SC	4219150	Vargem	2387
+RS	4308433	Forquetinha	2389
+GO	5202809	Avelinópolis	2401
+TO	1718899	Santa Rita do Tocantins	2407
+TO	1711100	Itaporã do Tocantins	2412
+SP	3527504	Lucianópolis	2412
+MG	3143609	Morro da Garça	2413
+RN	2409605	Pedra Preta	2419
+RN	2414308	Timbaúba dos Batistas	2427
+SP	3544707	Sagres	2427
+SP	3554656	Torre de Pedra	2432
+PR	4103024	Boa Esperança do Iguaçu	2437
+MT	5107198	Ribeirãozinho	2439
+PR	4114351	Manfrinópolis	2442
+SC	4210704	Matos Costa	2442
+SP	3514957	Embaúba	2446
+SP	3533809	Óleo	2447
+SP	3503158	Arapeí	2452
+PB	2510709	Passagem	2453
+SC	4218954	Urupema	2453
+PI	2210383	São Miguel da Baixa Grande	2456
+GO	5202353	Arenópolis	2462
+RS	4318614	São José do Sul	2464
+GO	5203939	Buriti de Goiás	2464
+RS	4302220	Boa Vista do Cadeado	2466
+RS	4305587	Colinas	2466
+SC	4203253	Capão Alto	2467
+SP	3536901	Pedranópolis	2468
+GO	5201454	Aparecida do Rio Doce	2474
+SP	3547403	Santa Rita d'Oeste	2476
+PI	2207108	Olho D'Água do Piauí	2477
+GO	5207105	Diorama	2477
+SC	4205431	Formosa do Sul	2481
+MG	3107000	Biquinhas	2482
+SC	4215059	Rio Rufino	2484
+SP	3510906	Cássia dos Coqueiros	2488
+RS	4318457	São José das Missões	2491
+MG	3158706	Santana do Garambéu	2494
+PB	2513851	Santo André	2496
+GO	5212055	Jesúpolis	2497
+PB	2505303	Curral Velho	2508
+RS	4312385	Monte Belo do Sul	2514
+GO	5200159	Adelândia	2515
+RS	4306551	Dom Pedro de Alcântara	2520
+PR	4103370	Brasilândia do Sul	2521
+RS	4305871	Coronel Barros	2521
+TO	1720002	Santa Terezinha do Tocantins	2530
+SC	4200051	Abdon Batista	2534
+RS	4318432	São João do Polêsine	2535
+MG	3172202	Wenceslau Braz	2543
+RS	4312138	Mato Castelhano	2543
+PI	2200954	Aroeiras do Itaim	2551
+PI	2207934	Pedro Laurentino	2551
+PR	4120200	Porto Rico	2554
+SP	3549201	São João das Duas Pontes	2555
+MG	3149002	Pedra Dourada	2559
+SC	4204459	Coronel Martins	2560
+PI	2203859	Floresta do Piauí	2561
+RS	4301958	Barra Funda	2563
+RS	4313086	Nova Pádua	2563
+RS	4311429	Lajeado do Bugre	2569
+RS	4315552	Rio dos Índios	2571
+GO	5213053	Mimoso de Goiás	2575
+SP	3540309	Pontes Gestal	2576
+MG	3165560	Sem-Peixe	2579
+RS	4314456	Pinhal	2581
+MG	3170305	Umburatiba	2582
+PB	2500577	Algodão de Jandaíra	2588
+PB	2502201	Bom Jesus	2588
+GO	5216007	Panamá	2590
+RS	4316972	Santa Margarida do Sul	2593
+RS	4316436	Saldanha Marinho	2596
+RN	2405504	Jardim de Angicos	2600
+RS	4316428	Sagrada Família	2601
+PR	4121356	Rancho Alegre D'Oeste	2602
+SP	3534500	Oscar Bressane	2603
+RN	2413805	Taboleiro Grande	2606
+TO	1700251	Abreulândia	2609
+PR	4124202	Santo Antônio do Caiuá	2611
+TO	1708254	Tabocão	2615
+SC	4202081	Bandeirante	2618
+RS	4321634	Três Arroios	2620
+MG	3167509	Simão Pereira	2621
+SP	3527900	Lutécia	2623
+PR	4128302	Uniflor	2623
+TO	1703883	Carmolândia	2627
+RS	4302238	Boa Vista do Incra	2628
+MG	3155009	Rio Doce	2630
+PR	4128625	Alto Paraíso	2630
+SP	3516101	Florínea	2631
+MT	5106455	Planalto da Serra	2637
+PB	2513653	Joca Claudino	2640
+RS	4321832	Três Forquilhas	2643
+PB	2513943	São Domingos do Cariri	2645
+SP	3554607	Timburi	2647
+PI	2210375	São Luis do Piauí	2648
+RN	2405900	João Dias	2653
+MG	3101300	Alagoa	2657
+MG	3116209	Chiador	2657
+MG	3113800	Carmésia	2660
+SC	4212056	Palmeira	2673
+RS	4313011	Nova Candelária	2677
+MG	3104403	Argirita	2681
+RN	2411601	São Bento do Norte	2687
+MG	3120003	Córrego Novo	2688
+RO	1101476	Primavera de Rondônia	2697
+PB	2508406	Lastro	2698
+RN	2411429	Santana do Seridó	2699
+PR	4111308	Itaúna do Sul	2700
+MT	5107743	Santa Cruz do Xingu	2700
+MG	3140407	Marmelópolis	2701
+PR	4108106	Flórida	2709
+SC	4204152	Celso Ramos	2709
+SC	4205605	Galvão	2711
+SC	4202156	Belmonte	2712
+SP	3507456	Borebi	2713
+RS	4311791	Maratá	2713
+PB	2504108	Carrapateira	2714
+RS	4306320	Derrubadas	2718
+RS	4310876	Jacuizinho	2718
+MG	3150109	Piau	2719
+MG	3109808	Cachoeira Dourada	2720
+RS	4306957	Entre Rios do Sul	2724
+RS	4323507	Vista Alegre	2726
+PI	2208551	Porto Alegre do Piauí	2728
+RS	4305975	Coxilha	2731
+RN	2406403	Lagoa de Velhos	2732
+RS	4319737	São Valério do Sul	2732
+SC	4212601	Peritiba	2733
+RS	4316477	Salvador das Missões	2734
+PR	4119251	Pinhal de São Bento	2742
+MG	3162302	São João da Mata	2743
+TO	1718451	Pugmil	2746
+RS	4303558	Camargo	2750
+RS	4307864	Fagundes Varela	2750
+RS	4321493	Toropi	2753
+MT	5107156	Reserva do Cabaçal	2754
+RS	4320321	Senador Salgado Filho	2761
+TO	1715259	Novo Jardim	2768
+MT	5106315	Novo Santo Antônio	2769
+RS	4304697	Capitão	2770
+GO	5210307	Israelândia	2772
+TO	1712702	Mateiros	2773
+RS	4302253	Boa Vista do Sul	2773
+SP	3515301	Estrela do Norte	2774
+PR	4101051	Anahy	2774
+GO	5215207	Novo Brasil	2775
+SP	3516507	Gabriel Monteiro	2776
+MG	3103603	Arantina	2779
+PI	2210979	Tanque do Piauí	2781
+PR	4102703	Barra do Jacaré	2781
+GO	5219209	Santa Cruz de Goiás	2782
+SP	3557154	Zacarias	2784
+TO	1721307	Tupiratins	2785
+MG	3130804	Ingaí	2785
+SC	4215901	São Bonifácio	2791
+RS	4315321	Quevedos	2793
+MT	5106851	Porto Estrela	2794
+RN	2403905	Francisco Dantas	2801
+SP	3510104	Cândido Rodrigues	2805
+MT	5104500	Indiavaí	2806
+RS	4318440	São Jorge	2808
+SP	3549003	São Francisco	2813
+MG	3117207	Conceição das Pedras	2814
+SP	3553658	Taquaral	2815
+GO	5206602	Cumari	2820
+MG	3163607	São José do Mantimento	2821
+MG	3145505	Olímpio Noronha	2829
+GO	5221577	Uirapuru	2829
+GO	5221304	Três Ranchos	2830
+TO	1720978	Talismã	2831
+MG	3103801	Arapuá	2836
+PR	4117297	Novo Itacolomi	2836
+MG	3110400	Camacho	2839
+RS	4306072	Cristal do Sul	2840
+RS	4323200	Victor Graeff	2840
+GO	5212006	Jaupaci	2843
+RS	4307450	Esperança do Sul	2846
+PR	4108551	Godoy Moreira	2850
+RS	4308656	Garruchos	2851
+RS	4323705	Vista Gaúcha	2858
+RS	4305116	Centenário	2865
+MG	3121506	Desterro do Melo	2867
+PI	2205540	Lagoinha do Piauí	2870
+PB	2517100	Várzea	2870
+RS	4320230	Sede Nova	2875
+TO	1718709	Rio dos Bois	2879
+PR	4126652	Sulina	2880
+SP	3515905	Floreal	2884
+SC	4211256	Morro Grande	2884
+RS	4312443	Morrinhos do Sul	2891
+PR	4106852	Cruzmaltina	2892
+GO	5210158	Ipiranga de Goiás	2892
+SC	4214300	Rancho Queimado	2897
+RN	2404101	Galinhos	2903
+AL	2707008	Pindoba	2903
+SC	4213153	Planalto Alegre	2907
+SP	3507753	Brejo Alegre	2911
+PB	2515708	Serra Grande	2921
+RO	1100908	Castanheiras	2923
+PI	2209609	São Félix do Piauí	2923
+TO	1719004	Santa Tereza do Tocantins	2928
+PR	4101150	Ângulo	2931
+PI	2211605	Vila Nova do Piauí	2935
+PI	2210953	Tamboril do Piauí	2939
+RS	4311239	Lagoa Bonita do Sul	2939
+GO	5214879	Nova Iguaçu de Goiás	2939
+PB	2509370	Mato Grosso	2944
+GO	5206800	Damolândia	2944
+SP	3547106	Santa Mercedes	2947
+SC	4214151	Princesa	2950
+RS	4319372	São Pedro do Butiá	2950
+PR	4101655	Arapuã	2951
+RS	4306700	Dona Francisca	2958
+MG	3148806	Pedra do Anta	2960
+SC	4209805	Leoberto Leal	2960
+GO	5206305	Cristianópolis	2962
+RS	4311734	Mampituba	2965
+TO	1704105	Centenário	2966
+RS	4301073	Arroio do Padre	2966
+RS	4315149	Presidente Lucena	2972
+PR	4103404	Cafeara	2973
+RS	4306973	Erebango	2978
+SC	4207577	Iomerê	2979
+MG	3126406	Fortuna de Minas	2986
+PB	2506202	Frei Martinho	2989
+MT	5103957	Glória D'Oeste	2990
+RS	4306379	Dilermando de Aguiar	2991
+MG	3122801	Dom Viçoso	2992
+PR	4107553	Farol	2995
+MG	3140209	Maripá de Minas	3000
+MG	3153301	Presidente Kubitschek	3000
+GO	5202601	Aurilândia	3000
+PI	2205359	João Costa	3003
+MG	3130002	Ibituruna	3003
+GO	5200902	Amorinópolis	3011
+SC	4204178	Cerro Negro	3013
+PI	2206951	Novo Santo Antônio	3014
+MG	3101409	Albertina	3015
+RS	4309571	Herveiras	3019
+SC	4204194	Chapadão do Lageado	3025
+SP	3506201	Bento de Abreu	3028
+PI	2210391	São Miguel do Fidalgo	3037
+TO	1717206	Piraquê	3038
+PR	4106555	Corumbataí do Sul	3038
+MG	3164431	São Sebastião da Vargem Alegre	3039
+GO	5220702	Sítio d'Abadia	3040
+RS	4300570	Alto Feliz	3043
+MG	3160603	Santo Hipólito	3044
+RS	4323770	Westfália	3046
+PB	2510600	Ouro Velho	3052
+RS	4323754	Vitória das Missões	3052
+GO	5221809	Urutaí	3056
+MT	5101001	Araguaiana	3064
+MS	5003900	Figueirão	3066
+MG	3144672	Nova Belém	3067
+RS	4314548	Pinto Bandeira	3068
+PI	2209757	São Gonçalo do Gurguéia	3071
+RS	4321469	Tio Hugo	3078
+RN	2403756	Fernando Pedroza	3081
+RS	4321329	Taquaruçu do Sul	3081
+PI	2211506	Vera Mendes	3082
+SP	3528304	Magda	3086
+RS	4305603	Colorado	3088
+RS	4318051	São Domingos do Sul	3091
+MG	3168051	Taparuba	3093
+MG	3119609	Coronel Pacheco	3095
+SP	3528858	Marapoama	3097
+PB	2516755	Tenório	3103
+RS	4310363	Imigrante	3103
+SC	4202537	Bom Jesus	3104
+TO	1720259	São Salvador do Tocantins	3106
+MG	3115003	Cascalho Rico	3108
+SP	3537156	Pedrinhas Paulista	3109
+RN	2409209	Passagem	3114
+PB	2515609	Serra da Raiz	3114
+PB	2513968	São Domingos	3119
+PR	4110300	Inajá	3122
+MT	5108352	Vale de São Domingos	3124
+SP	3530003	Mira Estrela	3125
+MG	3143708	Morro do Pilar	3126
+MG	3116902	Comendador Gomes	3128
+PR	4120150	Porto Barreiro	3133
+RS	4312427	Mormaço	3139
+PE	2605459	Fernando de Noronha	3140
+PR	4115739	Mato Rico	3142
+SP	3525409	Jeriquara	3143
+RS	4310702	Itatiba do Sul	3143
+PI	2208601	Prata do Piauí	3149
+MG	3113107	Caranaíba	3150
+MG	3135001	Jaguaraçu	3151
+SC	4206801	Ibicaré	3154
+MG	3145802	Onça de Pitangui	3155
+PR	4113429	Lidianópolis	3155
+GO	5216452	Perolândia	3156
+MG	3171501	Mathias Lobato	3157
+SP	3548302	Santo Expedito	3159
+PR	4122107	Rio Bom	3162
+SC	4217105	São Martinho	3162
+RN	2409506	Pedra Grande	3163
+MT	5107263	Santo Afonso	3164
+MG	3119807	Córrego Danta	3168
+RS	4307054	Ernestina	3171
+PI	2200806	Antônio Almeida	3175
+MG	3127354	Glaucilândia	3177
+MG	3125507	São Gonçalo do Rio Preto	3178
+SC	4201802	Atalanta	3179
+RS	4312617	Muitos Capões	3184
+SP	3544509	Rubinéia	3191
+RS	4313425	Novo Machado	3191
+RN	2414456	Triunfo Potiguar	3195
+SP	3544400	Rubiácea	3195
+TO	1712009	Lajeado	3199
+TO	1712454	Luzinópolis	3200
+TO	1718006	Porto Alegre do Tocantins	3200
+MG	3125309	Faria Lemos	3202
+GO	5219605	Santa Tereza de Goiás	3207
+PR	4123105	Santa Amélia	3208
+GO	5214903	Nova Roma	3208
+GO	5218391	Professor Jamil	3211
+MG	3157278	Santa Bárbara do Monte Verde	3212
+RN	2410603	Rafael Godeiro	3214
+SP	3532157	Nantes	3215
+PI	2204154	Francisco Macedo	3216
+MG	3115904	Chácara	3216
+RN	2415008	Vila Flor	3217
+PB	2503753	Cajazeirinhas	3217
+RS	4319703	São Valentim	3220
+MG	3144201	Nacip Raydan	3221
+MG	3138302	Leandro Ferreira	3222
+SC	4201109	Anitápolis	3223
+MT	5107750	Salto do Céu	3226
+RS	4304952	Caseiros	3228
+RS	4305371	Charrua	3228
+RS	4319125	São Martinho da Serra	3228
+SC	4205175	Entre Rios	3232
+RS	4312377	Monte Alegre dos Campos	3237
+SP	3515129	Emilianópolis	3238
+PA	1501253	Bannach	3239
+PR	4103222	Bom Sucesso do Sul	3244
+PR	4112900	Jundiaí do Sul	3248
+SC	4217550	Serra Alta	3249
+SP	3501509	Alvinlândia	3251
+PR	4123204	Santa Cecília do Pavão	3253
+GO	5207501	Estrela do Norte	3253
+MG	3170479	Uruana de Minas	3256
+RS	4301859	Barra do Guarita	3266
+SE	2807303	Telha	3271
+RS	4302600	Braga	3271
+RS	4304101	Campos Borges	3272
+GO	5203962	Buritinópolis	3272
+PR	4118303	Paranapoema	3277
+MG	3106804	Bias Fortes	3282
+SC	4212239	Paraíso	3284
+RS	4300455	Alegria	3287
+RS	4307401	Esmeralda	3291
+RN	2400406	Água Nova	3293
+PR	4119657	Pitangueiras	3298
+PR	4111605	Ivatuba	3299
+GO	5206701	Damianópolis	3302
+MG	3144375	Natalândia	3306
+SE	2805000	Pedra Mole	3309
+SP	3542800	Ribeira	3320
+SC	4203154	Calmon	3325
+TO	1705102	Chapada da Natividade	3330
+SP	3522158	Itaoca	3332
+MT	5108857	Nova Marilândia	3332
+GO	5205521	Colinas do Sul	3339
+MG	3149507	Pequeri	3340
+RS	4313003	Nova Bréscia	3345
+MG	3161056	São Félix de Minas	3354
+PI	2201309	Barreiras do Piauí	3356
+MG	3159704	Santa Rosa da Serra	3364
+MG	3137908	Lamim	3366
+GO	5219456	Santa Rita do Novo Destino	3367
+TO	1718840	Sandolândia	3371
+PB	2513984	São Francisco	3377
+MG	3159407	Santa Rita de Ibitipoca	3380
+GO	5205059	Castelândia	3380
+SP	3540101	Pongaí	3385
+PR	4122800	Salgado Filho	3389
+MG	3127370	Goiabeira	3402
+RS	4303673	Campestre da Serra	3402
+PR	4102752	Bela Vista da Caroba	3404
+RS	4323309	Vila Flores	3407
+RS	4322327	Turuçu	3408
+PR	4107124	Diamante do Sul	3409
+RS	4306452	Dois Lajeados	3410
+MT	5103809	Figueirópolis D'Oeste	3411
+PI	2207355	Pajeú do Piauí	3416
+SE	2802502	General Maynard	3421
+MG	3106101	Belmiro Braga	3422
+PR	4117404	Ourizona	3423
+PR	4116604	Nova América da Colina	3424
+SC	4213351	Ponte Alta do Norte	3426
+MG	3121902	Divinésia	3430
+SC	4219853	Zortéa	3432
+PI	2210623	Sebastião Barros	3434
+MG	3119708	Coronel Xavier Chaves	3448
+GO	5201603	Araçu	3450
+GO	5209804	Hidrolina	3450
+MT	5108303	União do Sul	3455
+RS	4310553	Itacurubi	3456
+GO	5206503	Cromínia	3458
+SC	4204103	Caxambu do Sul	3462
+SC	4210209	Major Gercino	3465
+SP	3525854	Jumirim	3467
+TO	1712801	Maurilândia do Tocantins	3470
+GO	5215652	Palestina de Goiás	3470
+PR	4103156	Bom Jesus do Sul	3472
+RS	4311130	Jari	3472
+AL	2704906	Mar Vermelho	3474
+TO	1701051	Angico	3475
+PB	2506509	Gurjão	3477
+MG	3124708	Estrela do Indaiá	3483
+MT	5108204	Torixoréu	3487
+MG	3126950	Frei Lagonegro	3496
+MG	3129905	Ibitiúra de Minas	3497
+GO	5221452	Trombas	3497
+MG	3125804	Fernandes Tourinho	3500
+SC	4202438	Bocaina do Sul	3501
+GO	5221007	Taquaral de Goiás	3506
+MG	3156403	Romaria	3507
+SP	3541802	Queiroz	3513
+MG	3166105	Senhora do Porto	3516
+RS	4301552	Áurea	3517
+SP	3530904	Mombuca	3523
+SP	3505005	Barão de Antonina	3525
+RS	4322525	Vale Verde	3531
+RS	4310900	Jacutinga	3532
+PB	2515203	São Sebastião do Umbuzeiro	3534
+TO	1718881	Santa Maria do Tocantins	3537
+GO	5221080	Teresina de Goiás	3538
+RS	4300851	Arambaré	3544
+SP	3500204	Adolfo	3545
+MG	3119005	Cordislândia	3546
+SC	4201604	Arroio Trinta	3547
+MG	3144904	Nova Módica	3548
+PB	2505907	Emas	3556
+MS	5006259	Novo Horizonte do Sul	3556
+RS	4318622	São José dos Ausentes	3559
+PB	2505808	Duas Estradas	3569
+SC	4219101	Vargeão	3569
+MG	3171402	Vieiras	3570
+PB	2502052	Bernardino Batista	3571
+MG	3153202	Presidente Juscelino	3572
+GO	5215900	Palminópolis	3578
+MG	3109600	Cachoeira da Prata	3580
+RN	2411106	Ruy Barbosa	3584
+PI	2202075	Cajazeiras do Piauí	3586
+SP	3500600	Águas de São Pedro	3588
+MS	5007976	Taquarussu	3588
+PB	2513356	Santa Inês	3591
+SP	3551306	Sebastianópolis do Sul	3595
+PR	4125456	São José das Palmeiras	3601
+MG	3160009	Santo Antônio do Aventureiro	3602
+MT	5107768	Santa Rita do Trivelato	3602
+MG	3153707	Quartel Geral	3603
+MG	3102407	Alvorada de Minas	3605
+RN	2411809	São Fernando	3606
+SP	3539707	Platina	3606
+PI	2201572	Belém do Piauí	3607
+PB	2514800	São José dos Cordeiros	3607
+RS	4320602	Severiano de Almeida	3607
+MT	5104559	Itaúba	3609
+RS	4311122	Jaquirana	3611
+MG	3114709	Carvalhópolis	3614
+SP	3501202	Álvares Florence	3616
+PB	2514602	São José do Bonfim	3619
+BA	2907400	Catolândia	3619
+TO	1713957	Muricilândia	3623
+SP	3551207	Sarutaiá	3623
+GO	5204656	Campinaçu	3628
+TO	1703057	Bandeirantes do Tocantins	3631
+PB	2516151	Sossêgo	3631
+MG	3122470	Dom Bosco	3635
+SC	4213005	Pinheiro Preto	3635
+SC	4213104	Piratuba	3637
+RS	4307815	Estrela Velha	3646
+RN	2410702	Riacho da Cruz	3648
+PB	2512747	Riachão	3650
+MG	3120706	Cruzeiro da Fortaleza	3651
+MG	3149200	Pedrinópolis	3651
+SP	3543600	Rifaina	3651
+MT	5106208	Nova Brasilândia	3656
+MG	3153004	Pratinha	3658
+PI	2207850	Pavussu	3662
+GO	5204607	Campestre de Goiás	3662
+BA	2918704	Lafaiete Coutinho	3663
+MG	3115409	Catas Altas da Noruega	3665
+TO	1718402	Presidente Kennedy	3668
+MG	3167905	Tabuleiro	3669
+GO	5207352	Edealina	3678
+GO	5215405	Ouro Verde de Goiás	3679
+RS	4305405	Chiapetta	3684
+MG	3119906	Córrego do Bom Jesus	3685
+SP	3528205	Macedônia	3686
+PR	4104055	Campo Bonito	3694
+RS	4312757	Nova Alvorada	3698
+SP	3538303	Piquerobi	3706
+PB	2503407	Cacimba de Areia	3708
+SE	2803807	Malhada dos Bois	3715
+TO	1712405	Lizarda	3727
+SC	4215356	Saltinho	3727
+RS	4313607	Paim Filho	3731
+RN	2408706	Paraú	3732
+MG	3141207	Matutina	3733
+BA	2919009	Lajedinho	3735
+PI	2210102	São José do Peixe	3737
+RS	4300059	Água Santa	3738
+RS	4310850	Jaboticaba	3738
+MG	3110806	Campanário	3739
+SP	3514924	Elisiário	3742
+GO	5209606	Heitoraí	3742
+RS	4313359	Nova Roma do Sul	3743
+RN	2401909	Caiçara do Rio do Vento	3745
+RS	4304655	Capão do Cipó	3745
+MG	3134509	Itutinga	3749
+GO	5214101	Mutunópolis	3749
+MG	3159100	Santana dos Montes	3753
+MG	3128501	Guarará	3755
+MT	5106190	Nova Santa Helena	3755
+PR	4121307	Rancho Alegre	3760
+MT	5108105	Tesouro	3761
+MG	3160207	Santo Antônio do Itambé	3763
+PR	4109005	Guapirama	3767
+MG	3160900	São Brás do Suaçuí	3770
+TO	1714302	Nazaré	3772
+MG	3121704	Diogo de Vasconcelos	3779
+MG	3102209	Alvarenga	3783
+SC	4216354	São João do Itaperiú	3784
+SC	4202859	Braço do Trombudo	3794
+PR	4123824	Santa Lúcia	3795
+GO	5209408	Guarani de Goiás	3801
+PB	2511004	Pedra Branca	3802
+MG	3157609	Santa Fé de Minas	3806
+PR	4120333	Prado Ferreira	3806
+TO	1702703	Aurora do Tocantins	3809
+PI	2209500	Santo Inácio do Piauí	3809
+RS	4315354	Quinze de Novembro	3810
+GO	5203609	Brazabrantes	3812
+SP	3529609	Meridiano	3813
+TO	1710904	Itapiratins	3814
+GO	5219357	Santa Isabel	3821
+TO	1707553	Fátima	3824
+PI	2201988	Brejo do Piauí	3824
+RS	4305959	Cotiporã	3824
+SP	3542305	Redenção da Serra	3827
+MG	3111150	Campo Azul	3830
+PR	4103958	Campina do Simão	3831
+SE	2806909	São Francisco	3837
+RS	4314308	Pejuçara	3840
+RO	1100262	Rio Crespo	3843
+TO	1720499	São Valério	3848
+GO	5221908	Varjão	3848
+PB	2505501	Vista Serrana	3850
+MG	3163300	São José do Divino	3851
+MG	3161601	São Geraldo da Piedade	3860
+MG	3141306	Medeiros	3861
+MG	3160108	Santo Antônio do Grama	3861
+RS	4315206	Putinga	3861
+PR	4102208	Atalaia	3871
+SC	4219606	Xavantina	3873
+GO	5200829	Amaralina	3875
+SP	3520707	Indiaporã	3876
+PB	2512036	Poço Dantas	3877
+PI	2204600	Hugo Napoleão	3880
+RS	4319356	São Pedro da Serra	3881
+RS	4314035	Pareci Novo	3885
+MG	3141900	Minduri	3891
+PR	4106100	Conselheiro Mairinck	3891
+RS	4311981	Mariana Pimentel	3892
+PR	4113403	Leópolis	3896
+PB	2514552	São José de Princesa	3898
+RS	4314779	Pontão	3898
+SC	4208609	Jaborá	3899
+RN	2410009	Pilões	3900
+GO	5204557	Caldazinha	3900
+SC	4207759	Iraceminha	3901
+SP	3541653	Quadra	3902
+TO	1711506	Jaú do Tocantins	3906
+SP	3503505	Areias	3906
+MG	3158409	Santana de Cataguases	3909
+GO	5208152	Gameleira de Goiás	3923
+PI	2207553	Paquetá	3931
+SC	4212403	Pedras Grandes	3931
+MG	3125002	Ewbank da Câmara	3932
+SE	2806503	Santa Rosa de Lima	3933
+SP	3522000	Itaju	3937
+PI	2202251	Canavieira	3938
+MG	3115201	Conceição da Barra de Minas	3939
+RN	2406155	Jundiá	3945
+PI	2201176	Barra D'Alcântara	3953
+MG	3110202	Cajuri	3961
+SE	2807006	São Miguel do Aleixo	3964
+PB	2513000	Salgadinho	3975
+PR	4103479	Cafezal do Sul	3975
+MG	3148905	Pedra do Indaiá	3977
+GO	5218052	Porteirão	3979
+PR	4107546	Espigão Alto do Iguaçu	3980
+RS	4312054	Marques de Souza	3981
+MG	3109253	Bugre	3984
+MG	3158607	Santana do Deserto	3985
+PB	2508703	Mãe d'Água	3988
+RS	4309951	Ibirapuitã	3988
+RN	2401503	Barcelona	3989
+PB	2510501	Olivedos	3989
+PR	4103008	Boa Esperança	3991
+BA	2918902	Lajedão	3993
+MG	3100401	Acaiaca	3995
+PR	4113106	Kaloré	3996
+SC	4218350	Treviso	4002
+SE	2801108	Canhoba	4003
+SE	2801900	Cumbe	4008
+PR	4116406	Nossa Senhora das Graças	4009
+SP	3507159	Bom Sucesso de Itararé	4013
+MT	5106174	Nova Nazaré	4013
+MG	3127388	Goianá	4014
+RN	2404002	Frutuoso Gomes	4015
+MS	5005103	Jateí	4015
+BA	2908804	Contendas do Sincorá	4025
+MG	3140308	Marliéria	4030
+SC	4219408	Witmarsum	4032
+GO	5218102	Portelândia	4032
+PR	4116307	Munhoz de Melo	4034
+PR	4120853	Quatro Pontes	4043
+PI	2201556	Bela Vista do Piauí	4044
+PI	2202737	Coivaras	4044
+SP	3520806	Inúbia Paulista	4045
+PI	2209153	Santa Cruz dos Milagres	4046
+BA	2912608	Ibiquera	4047
+PR	4128658	Virmond	4051
+MG	3114600	Carrancas	4052
+PR	4123956	Santa Mônica	4052
+RN	2406908	Lucrécia	4053
+RS	4310306	Ilópolis	4054
+MG	3165909	Senador Modestino Gonçalves	4056
+PR	4120309	Porto Vitória	4057
+MG	3154705	Ribeirão Vermelho	4061
+MG	3137304	Lagoa dos Patos	4062
+SP	3552551	Suzanápolis	4063
+PB	2501351	Assunção	4067
+SP	3541109	Presidente Alves	4067
+MT	5106273	Novo Horizonte do Norte	4069
+MT	5107578	Rondolândia	4069
+TO	1705607	Conceição do Tocantins	4070
+BA	2910206	Dom Macedo Costa	4072
+SP	3512704	Corumbataí	4072
+SC	4212270	Passos Maia	4072
+MG	3157377	Santa Cruz de Salinas	4074
+SP	3501103	Alto Alegre	4078
+MG	3140100	Marilac	4079
+PI	2207793	Pau D'Arco do Piauí	4084
+PI	2205581	Lagoa do Piauí	4086
+MG	3171105	Veríssimo	4090
+SP	3528908	Mariápolis	4098
+GO	5208103	Formoso	4098
+RN	2407252	Major Sales	4102
+MT	5107297	São José do Povo	4102
+MG	3161650	São Geraldo do Baixio	4104
+GO	5220264	São Miguel do Passa Quatro	4105
+SP	3535903	Paranapuã	4112
+MG	3169059	Tocos do Moji	4117
+AL	2703908	Jundiá	4119
+MG	3168309	Taquaraçu de Minas	4120
+GO	5213905	Mossâmedes	4120
+PR	4122172	Rio Branco do Ivaí	4121
+SP	3502606	Aparecida d'Oeste	4122
+PI	2207306	Paes Landim	4124
+PI	2202455	Capitão Gervásio Oliveira	4127
+SP	3533205	Nova Independência	4135
+SP	3540408	Populina	4136
+MG	3150208	Piedade de Ponte Nova	4141
+SP	3549607	São José do Barreiro	4141
+PB	2514701	São José do Sabugi	4153
+RO	1101559	Teixeirópolis	4160
+MT	5103361	Conquista D'Oeste	4163
+SC	4205159	Doutor Pedrinho	4164
+TO	1703891	Carrasco Bonito	4165
+SP	3531605	Monte Castelo	4166
+PB	2514008	São João do Cariri	4170
+SP	3502408	Anhumas	4172
+RN	2411056	Tibau	4173
+SP	3521200	Iporanga	4180
+RS	4313490	Novo Barreiro	4185
+RN	2410801	Riacho de Santana	4194
+SP	3508900	Caiabu	4195
+SP	3500808	Alfredo Marcondes	4201
+MG	3123304	Dores do Turvo	4202
+PB	2504074	Caraúbas	4206
+SP	3500907	Altair	4211
+SP	3533304	Nova Luzitânia	4217
+MG	3163201	São José do Alegre	4222
+SP	3508306	Cabrália Paulista	4222
+SC	4205100	Dona Emma	4224
+AL	2700805	Belém	4226
+SC	4210902	Modelo	4227
+MG	3131406	Ipiaçu	4229
+PR	4106571	Cruzeiro do Iguaçu	4229
+RN	2408409	Olho d'Água do Borges	4231
+RN	2414753	Venha-Ver	4232
+RS	4321857	Três Palmeiras	4232
+ES	3201803	Divino de São Lourenço	4236
+RS	4301875	Barra do Quaraí	4238
+RS	4311908	Marcelino Ramos	4239
+RS	4313391	Novo Cabrais	4246
+RS	4308458	Fortaleza dos Valos	4252
+RS	4312203	Maximiliano de Almeida	4254
+MG	3108701	Brás Pires	4255
+MG	3150000	Pescador	4261
+PB	2512200	Prata	4265
+MG	3170438	União de Minas	4265
+GO	5201504	Aporé	4266
+SC	4201273	Arabutã	4268
+MG	3107604	Bom Jesus da Penha	4270
+RS	4304002	Campo Novo	4273
+RS	4323457	Vila Nova do Sul	4274
+RN	2411908	São Francisco do Oeste	4281
+PR	4119707	Planaltina do Paraná	4281
+PR	4115457	Marquinho	4283
+MG	3163003	São José da Safira	4291
+MG	3166501	Serra Azul de Minas	4292
+SP	3522653	Itapirapuã Paulista	4294
+SP	3533700	Ocauçu	4294
+RN	2408607	Paraná	4298
+PI	2204105	Francisco Ayres	4300
+PR	4117214	Nova Santa Bárbara	4304
+MG	3152131	Ponto Chique	4305
+PI	2208858	Riacho Frio	4306
+RS	4314472	Pinhal Grande	4309
+PI	2210631	Sebastião Leal	4311
+GO	5212956	Matrinchã	4321
+SP	3540853	Pracinha	4327
+SC	4211454	Nova Itaberaba	4327
+PI	2207751	Passagem Franca do Piauí	4331
+MA	2105658	Junco do Maranhão	4334
+MG	3159001	Santana do Riacho	4334
+TO	1715002	Nova Rosalândia	4348
+PI	2203420	Domingos Mourão	4352
+MG	3157500	Santa Efigênia de Minas	4354
+MG	3136801	Juramento	4359
+MG	3127404	Gonçalves	4360
+PB	2512077	Poço de José de Moura	4366
+SC	4207601	Ipira	4367
+RS	4323408	Vila Maria	4368
+RS	4309159	Gramado Xavier	4378
+RS	4306734	Doutor Maurício Cardoso	4380
+GO	5211008	Itapirapuã	4380
+PI	2211407	Várzea Grande	4382
+MG	3136108	Joanésia	4382
+MG	3157302	Santa Bárbara do Tugúrio	4385
+BA	2900603	Aiquara	4387
+TO	1718501	Recursolândia	4389
+PI	2207959	Nova Santa Rita	4392
+RS	4309753	Ibarama	4393
+MG	3132602	Itamarati de Minas	4395
+SP	3545506	Sandovalina	4405
+PB	2508554	Logradouro	4406
+MT	5108808	Nova Guarita	4407
+PB	2514107	São João do Tigre	4408
+SC	4219176	Vargem Bonita	4411
+GO	5210802	Itajá	4412
+TO	1717008	Pindorama do Tocantins	4414
+MG	3140605	Materlândia	4415
+BA	2911253	Gavião	4417
+MG	3135308	Japaraíba	4418
+PR	4120655	Quarto Centenário	4420
+SC	4205209	Erval Velho	4423
+PR	4110904	Itaguajé	4426
+PR	4106704	Cruzeiro do Sul	4430
+MG	3127206	Funilândia	4434
+MG	3120102	Couto de Magalhães de Minas	4436
+MG	3122603	Dom Joaquim	4436
+MG	3150307	Piedade do Rio Grande	4436
+TO	1703206	Bernardo Sayão	4439
+MG	3146404	Paineiras	4440
+PI	2205300	Jerumenha	4443
+PR	4121109	Quinta do Sol	4444
+MG	3114808	Carvalhos	4445
+TO	1715101	Novo Acordo	4450
+SP	3554201	Tejupá	4452
+PI	2209559	São Braz do Piauí	4454
+RN	2411007	Rodolfo Fernandes	4457
+MG	3149606	Pequi	4457
+MG	3126307	Fortaleza de Minas	4460
+PR	4126355	Serranópolis do Iguaçu	4460
+PI	2203800	Flores do Piauí	4461
+SP	3534005	Onda Verde	4462
+PR	4108452	Foz do Jordão	4466
+TO	1711951	Lagoa do Tocantins	4470
+PR	4110409	Indianópolis	4472
+MG	3136520	José Gonçalves de Minas	4474
+PI	2203255	Curralinhos	4475
+PR	4110003	Iguaraçu	4475
+MG	3162658	São João do Pacuí	4476
+PI	2211704	Wall Ferraz	4479
+PR	4113452	Lindoeste	4488
+TO	1703867	Cariri do Tocantins	4499
+PI	2208874	Ribeira do Piauí	4499
+PR	4121257	Ramilândia	4500
+SC	4218756	Tunápolis	4507
+PI	2201804	Bocaina	4509
+RS	4315008	Porto Lucena	4514
+MG	3156106	Ritápolis	4521
+PI	2205250	Jardim do Mulato	4522
+SP	3532108	Murutinga do Sul	4525
+SC	4215075	Riqueza	4525
+GO	5221502	Turvânia	4526
+PI	2206654	Morro Cabeça no Tempo	4527
+RN	2413201	Senador Georgino Avelino	4527
+PB	2509339	Matinhas	4528
+SC	4209854	Lindóia do Sul	4530
+RS	4323101	Vicente Dutra	4530
+MG	3111705	Canaã	4533
+PE	2607109	Ingazeira	4537
+SP	3543204	Ribeirão do Sul	4537
+GO	5213772	Montividiu do Norte	4538
+RS	4311718	Maçambará	4539
+MA	2110807	São Félix de Balsas	4540
+GO	5214051	Mundo Novo	4540
+RN	2411700	São Bento do Trairí	4541
+MG	3127057	Fronteira dos Vales	4542
+PI	2206001	Marcos Parente	4546
+SP	3508207	Buritizal	4547
+PB	2513802	Santa Teresinha	4550
+PI	2210904	Socorro do Piauí	4557
+MG	3100807	Aguanil	4557
+PB	2512754	Riachão do Bacamarte	4562
+MG	3163904	São Pedro da União	4563
+PB	2512762	Riachão do Poço	4571
+PI	2204550	Guaribas	4573
+MG	3112059	Cantagalo	4575
+SP	3525607	João Ramalho	4577
+GO	5203575	Bonópolis	4579
+PI	2210359	São Lourenço do Piauí	4581
+MG	3117405	Conceição de Ipanema	4581
+PR	4107850	Flor da Serra do Sul	4583
+SP	3546207	Santa Cruz da Conceição	4584
+SC	4215208	Romelândia	4584
+SC	4204350	Cordilheira Alta	4585
+RS	4322152	Tunas	4585
+TO	1717800	Ponte Alta do Bom Jesus	4586
+SP	3512605	Coronel Macedo	4591
+GO	5215256	Novo Planalto	4592
+PR	4122651	Rosário do Ivaí	4595
+MT	5107248	Santa Carmem	4600
+PB	2513927	São Bentinho	4602
+SP	3527801	Lupércio	4608
+MG	3106606	Bertópolis	4609
+MG	3112208	Capela Nova	4616
+PI	2209856	São João da Canabrava	4619
+SC	4213302	Ponte Alta	4619
+RS	4318424	São João da Urtiga	4625
+RS	4312153	Mato Leitão	4627
+RS	4322905	Viadutos	4628
+SC	4214904	Rio Fortuna	4630
+PB	2514404	São José de Espinharas	4631
+PB	2508109	Lagoa	4640
+MG	3102506	Amparo do Serra	4643
+MG	3156452	Rosário da Limeira	4648
+PI	2209351	Santana do Piauí	4650
+PR	4107538	Entre Rios do Oeste	4651
+MG	3125408	Felício dos Santos	4656
+PI	2205565	Lagoa do Barro do Piauí	4658
+RS	4303400	Caiçara	4659
+RN	2407609	Messias Targino	4665
+MG	3145851	Oratórios	4671
+TO	1703073	Barra do Ouro	4673
+PR	4115507	Marumbi	4676
+RS	4308078	Fazenda Vilanova	4680
+MA	2107308	Nova Iorque	4682
+GO	5210562	Itaguari	4684
+RN	2400604	Almino Afonso	4685
+TO	1707306	Dueré	4686
+SC	4200903	Angelina	4686
+PI	2202851	Coronel José Dias	4688
+RS	4309803	Ibiaçá	4690
+SC	4206652	Guatambú	4692
+MG	3157401	Santa Cruz do Escalvado	4693
+RS	4305504	Ciríaco	4693
+PR	4113759	Lunardelli	4695
+RN	2412401	São José do Seridó	4696
+RS	4315750	Riozinho	4698
+MA	2111573	São Pedro dos Crentes	4700
+GO	5208301	Divinópolis de Goiás	4701
+MT	5102694	Canabrava do Norte	4711
+RS	4309704	Humaitá	4712
+PI	2201002	Arraial	4713
+SP	3540259	Pontalinda	4719
+RS	4305132	Cerro Branco	4720
+TO	1718550	Riachinho	4723
+MG	3144409	Natércia	4727
+MG	3124401	Espírito Santo do Dourado	4728
+GO	5218789	Rio Quente	4728
+RS	4306304	David Canabarro	4732
+PR	4107702	Fênix	4734
+MG	3108800	Braúnas	4737
+MG	3105202	Bandeira	4738
+SP	3531704	Monteiro Lobato	4739
+MG	3136405	Joaquim Felício	4757
+MG	3161403	São Francisco do Glória	4758
+MS	5007307	Rio Negro	4758
+RS	4312104	Mata	4760
+RN	2406809	Lajes Pintadas	4768
+MG	3135902	Jesuânia	4774
+RS	4307203	Erval Grande	4780
+CE	2304806	Granjeiro	4784
+SP	3543105	Ribeirão Corrente	4786
+PB	2504702	Congo	4787
+PI	2205532	Jurema	4790
+MG	3106655	Berizal	4792
+SC	4215406	Salto Veloso	4792
+RS	4304671	Capivari do Sul	4793
+MG	3148400	Paulistas	4794
+MG	3135407	Jeceaba	4795
+SC	4202503	Bom Jardim da Serra	4801
+RS	4303301	Caibaté	4802
+AL	2702702	Feliz Deserto	4803
+PI	2202802	Conceição do Canindé	4811
+RN	2408508	Ouro Branco	4813
+RS	4320859	Tabaí	4816
+MT	5107404	São Pedro da Cipa	4823
+SP	3525805	Júlio Mesquita	4824
+MG	3154408	Ressaquinha	4826
+PR	4116802	Nova Cantu	4827
+SP	3555505	Ubirajara	4828
+SP	3532058	Motuca	4831
+RN	2413557	Serrinha dos Pintos	4832
+GO	5218706	Rianápolis	4832
+MG	3104809	Augusto de Lima	4833
+MG	3166956	Serranópolis de Minas	4836
+MT	5106281	Novo São Joaquim	4837
+SP	3516853	Gavião Peixoto	4841
+SP	3517109	Glicério	4842
+MG	3159308	Santa Rita de Jacutinga	4843
+MG	3158805	Santana do Jacaré	4847
+PR	4113601	Lobato	4850
+MG	3171154	Vermelho Novo	4852
+PI	2209955	São João da Varjota	4856
+SP	3548401	Santópolis do Aguapeí	4856
+PR	4122909	Salto do Itararé	4862
+TO	1718907	Santa Rosa do Tocantins	4864
+PB	2509602	Monte Horebe	4867
+SE	2803104	Itabi	4869
+TO	1705557	Combinado	4870
+MG	3116407	Claraval	4873
+SP	3520608	Indiana	4873
+TO	1718808	Sampaio	4876
+SP	3526308	Lagoinha	4882
+PR	4107801	Floraí	4883
+TO	1716307	Pau D'Arco	4885
+PI	2205276	Jatobá do Piauí	4885
+GO	5219712	Santo Antônio da Barra	4886
+MG	3168101	Tapira	4890
+RS	4312807	Nova Araçá	4890
+BA	2926657	Ribeirão do Largo	4896
+TO	1720309	São Sebastião do Tocantins	4898
+PB	2504355	Caturité	4898
+PR	4120101	Porto Amazonas	4899
+RS	4312302	Miraguaí	4899
+TO	1701101	Aparecida do Rio Negro	4901
+MG	3105707	Barra Longa	4905
+SC	4219358	Vitor Meireles	4907
+PI	2202711	Cocal de Telha	4908
+PI	2206753	Nossa Senhora de Nazaré	4911
+MG	3136579	Josenópolis	4911
+SP	3516804	Gastão Vidigal	4911
+SP	3507308	Boracéia	4913
+PR	4124004	Santana do Itararé	4916
+RN	2402907	Coronel João Pessoa	4918
+PI	2200277	Alegrete do Piauí	4921
+MG	3138351	Leme do Prado	4923
+RS	4318481	São José do Hortêncio	4924
+SP	3515194	Espírito Santo do Turvo	4926
+RS	4314498	Pinheirinho do Vale	4926
+PR	4112306	Japira	4929
+PI	2211357	Várzea Branca	4930
+RN	2405405	Japi	4935
+PB	2502300	Bom Sucesso	4937
+PB	2511707	Pilõezinhos	4937
+PB	2504207	Catingueira	4938
+MG	3142254	Miravânia	4939
+MG	3143153	Monte Formoso	4939
+PI	2203602	Eliseu Martins	4943
+MG	3115474	Catuti	4944
+MG	3142304	Moeda	4948
+PR	4112207	Janiópolis	4948
+MG	3162252	São João da Lagoa	4949
+SP	3532207	Narandiba	4950
+RO	1101484	São Felipe D'Oeste	4962
+SP	3530409	Mirassolândia	4966
+RS	4309555	Harmonia	4967
+RS	4312609	Muçum	4967
+MG	3122108	Divino das Laranjeiras	4969
+PR	4113809	Lupionópolis	4969
+PR	4107108	Diamante do Norte	4975
+RS	4300034	Aceguá	4981
+PI	2203230	Currais	4982
+MG	3138500	Liberdade	4994
+SP	3523008	Itapura	4994
+MG	3129400	Ibertioga	4999
+MG	3128253	Guaraciama	5005
+PB	2510303	Nova Palmeira	5011
+PE	2607406	Itacuruba	5013
+PR	4116950	Nova Esperança do Sudoeste	5014
+SC	4209151	José Boiteux	5019
+RS	4322251	Tupandi	5019
+MG	3122504	Dom Cavati	5025
+MG	3120839	Cuparaque	5026
+MA	2111631	São Raimundo do Doca Bezerra	5028
+SP	3509809	Campos Novos Paulista	5028
+PI	2207405	Palmeira do Piauí	5029
+MG	3150539	Pingo-d'Água	5029
+PR	4109658	Honório Serpa	5030
+PB	2501534	Baraúna	5033
+RS	4316204	Rondinha	5033
+MG	3150406	Piedade dos Gerais	5034
+PR	4120358	Pranchita	5035
+PI	2209807	São Gonçalo do Piauí	5044
+MG	3121308	Descoberto	5044
+MG	3170651	Vargem Grande do Rio Pardo	5045
+MG	3118106	Congonhas do Norte	5047
+AL	2706208	Palestina	5061
+RO	1100031	Cabixi	5067
+MG	3120607	Crucilândia	5072
+CE	2305100	Guaramiranga	5073
+RS	4303202	Cacique Doble	5083
+MG	3127339	Gameleiras	5084
+RS	4311601	Liberato Salzano	5087
+MG	3107208	Bocaina de Minas	5088
+PI	2202117	Campo Alegre do Fidalgo	5093
+PB	2513505	Santana de Mangueira	5098
+MG	3169802	Turvolândia	5099
+PI	2202554	Caridade do Piauí	5102
+MG	3136553	José Raydan	5104
+RS	4320305	Selbach	5114
+SP	3502002	Analândia	5115
+MG	3155108	Rio do Prado	5117
+MG	3139102	Madre de Deus de Minas	5119
+TO	1703305	Bom Jesus do Tocantins	5120
+MS	5007505	Rochedo	5120
+PI	2200103	Agricolândia	5123
+RS	4302659	Brochier	5132
+GO	5205208	Caturaí	5132
+AL	2705903	Olho d'Água Grande	5133
+TO	1708304	Goianorte	5136
+MG	3123106	Dores de Guanhães	5139
+MT	5107206	Rio Branco	5147
+PR	4126405	Sertaneja	5149
+MG	3163102	São José da Varginha	5151
+PB	2515930	Sertãozinho	5152
+RS	4319208	São Nicolau	5153
+RN	2410504	Rafael Fernandes	5158
+MG	3164100	São Pedro do Suaçuí	5160
+MG	3120409	Cristiano Otoni	5161
+SC	4211405	Nova Erechim	5163
+GO	5210604	Itaguaru	5184
+AL	2703403	Jacaré dos Homens	5185
+MG	3146750	Palmópolis	5196
+PR	4126702	Tamboara	5196
+SC	4206603	Guarujá do Sul	5196
+MG	3135704	Jequitibá	5203
+MG	3158102	Santa Maria do Salto	5203
+PB	2505279	Curral de Cima	5209
+PI	2205599	Lagoa do Sítio	5219
+RS	4320503	Sertão	5220
+TO	1707652	Figueirópolis	5222
+MG	3122702	Dom Silvério	5227
+RN	2405207	Janduís	5228
+MG	3127073	Fruta de Leite	5232
+RS	4301800	Barracão	5237
+PB	2502102	Boa Ventura	5248
+PR	4117271	Nova Tebas	5252
+PI	2209377	Santa Rosa do Piauí	5254
+GO	5220157	São Luiz do Norte	5263
+MT	5103437	Curvelândia	5267
+MG	3126604	Francisco Dumont	5268
+SP	3509957	Canas	5268
+MG	3172103	Volta Grande	5270
+PI	2205607	Landri Sales	5272
+BA	2900900	Almadina	5273
+PR	4107157	Diamante D'Oeste	5279
+MG	3126752	Franciscópolis	5287
+SE	2802007	Divina Pastora	5290
+TO	1700350	Aliança do Tocantins	5303
+MG	3171907	Virgolândia	5303
+MG	3104452	Aricanduva	5305
+RN	2408805	Parazinho	5307
+MT	5100102	Acorizal	5309
+PB	2502706	Borborema	5311
+MG	3105509	Barão de Monte Alto	5311
+BA	2903300	Barro Preto	5312
+AL	2705309	Minador do Negrão	5315
+MG	3153103	Presidente Bernardes	5315
+SP	3501400	Álvaro de Carvalho	5320
+MG	3133907	Itaverava	5321
+RS	4303707	Campina das Missões	5325
+PI	2203750	Fartura do Piauí	5330
+TO	1712504	Marianópolis do Tocantins	5332
+MG	3155207	Rio Espera	5332
+PR	4111704	Jaboti	5332
+RS	4319109	São Martinho	5336
+PR	4103354	Braganey	5338
+SC	4218103	Timbé do Sul	5338
+PA	1505551	Pau D'Arco	5339
+MG	3129657	Ibiracatu	5340
+MT	5106802	Porto dos Gaúchos	5344
+PI	2204006	Francinópolis	5345
+SP	3518909	Guzolândia	5346
+MG	3145372	Novorizonte	5348
+PI	2205904	Manoel Emídio	5352
+BA	2909505	Cravolândia	5352
+MG	3163409	São José do Goiabal	5356
+PI	2210052	São José do Divino	5361
+SP	3543501	Riversul	5364
+MG	3165578	Senador Amaral	5365
+SP	3510153	Canitar	5365
+AP	1600550	Pracuúba	5370
+SP	3539608	Planalto	5370
+SP	3541059	Pratânia	5371
+SP	3545100	Salmourão	5372
+PR	4108700	Grandes Rios	5379
+SP	3532702	Nipoã	5381
+MG	3123858	Entre Folhas	5383
+PI	2203271	Curral Novo do Piauí	5390
+PB	2517209	Vieirópolis	5395
+PR	4120408	Presidente Castelo Branco	5395
+SC	4202701	Botuverá	5396
+MG	3108206	Bonfinópolis de Minas	5397
+PB	2505352	Damião	5409
+MG	3160801	São Bento Abade	5411
+RS	4311700	Machadinho	5411
+GO	5203104	Baliza	5418
+PR	4124509	Santo Inácio	5422
+RS	4303806	Campinas do Sul	5422
+MG	3159506	Santa Rita do Itueto	5426
+MG	3121001	Datas	5431
+MG	3138708	Luminárias	5431
+MG	3132008	Itacambira	5447
+RS	4308706	Gaurama	5447
+GO	5221551	Turvelândia	5447
+TO	1720655	Silvanópolis	5452
+PR	4126900	Tapira	5452
+MG	3135076	Jampruca	5453
+TO	1720101	São Bento do Tocantins	5457
+MT	5107792	Santo Antônio do Leste	5459
+MG	3112109	Caparaó	5464
+MG	3115359	Catas Altas	5465
+RS	4313037	Nova Esperança do Sul	5465
+SP	3504305	Avaí	5467
+ES	3203601	Mucurici	5468
+MA	2107258	Nova Colinas	5469
+PI	2200459	Alvorada do Gurguéia	5469
+GO	5207600	Fazenda Nova	5471
+MG	3167707	Sobrália	5476
+PI	2202653	Caxingó	5477
+PI	2204352	Geminiano	5477
+SC	4200804	Anchieta	5477
+RS	4321352	Tavares	5484
+PI	2205458	Joca Marques	5488
+MG	3141702	Mesquita	5489
+MS	5000252	Alcinópolis	5489
+PI	2205516	Juazeiro do Piauí	5491
+MG	3155900	Rio Preto	5493
+RN	2402808	Coronel Ezequiel	5501
+MG	3150901	Piranguçu	5504
+PI	2201705	Bertolínia	5512
+TO	1703909	Caseara	5514
+BA	2903102	Barra do Rocha	5515
+MG	3129103	Gurinhatã	5516
+RS	4305447	Chuvisca	5518
+PR	4128633	Doutor Ulysses	5525
+PB	2500536	Alcantil	5527
+RN	2414704	Várzea	5529
+PR	4125357	São Jorge do Patrocínio	5532
+RS	4321477	Tiradentes do Sul	5532
+PR	4125308	São Jorge do Ivaí	5535
+TO	1703701	Brejinho de Nazaré	5540
+TO	1716653	Pequizeiro	5546
+RN	2401602	Bento Fernandes	5552
+SP	3521150	Ipiguá	5557
+PR	4109203	Guaraci	5557
+MG	3117603	Conceição do Pará	5558
+MG	3112653	Capitão Andrade	5559
+PR	4107736	Fernandes Pinheiro	5561
+BA	2929354	São José da Vitória	5562
+SP	3553203	Taiúva	5562
+PR	4115358	Maripá	5562
+SC	4200309	Agronômica	5570
+RS	4310538	Itaara	5573
+AP	1600055	Serra do Navio	5577
+SP	3546504	Santa Ernestina	5577
+PR	4126272	Saudade do Iguaçu	5578
+MG	3110103	Caiana	5584
+PR	4128807	Xambrê	5584
+MG	3111903	Cana Verde	5585
+GO	5219258	Santa Fé de Goiás	5585
+PR	4114708	Maria Helena	5593
+MG	3164407	São Sebastião da Bela Vista	5598
+RN	2413706	Sítio Novo	5600
+MG	3156502	Rubelita	5609
+RS	4322103	Tucunduva	5612
+SE	2802205	Feira Nova	5617
+PR	4115853	Mercedes	5617
+PB	2500205	Aguiar	5622
+PI	2202109	Campinas do Piauí	5628
+RS	4320354	Sentinela do Sul	5635
+SP	3529500	Mendonça	5638
+SP	3544608	Sabino	5638
+BA	2910909	Firmino Alves	5641
+MA	2101806	Benedito Leite	5643
+RJ	3302452	Macuco	5646
+SC	4216057	São Cristóvão do Sul	5646
+MT	5107354	São José do Xingu	5646
+GO	5208509	Goiandira	5650
+PI	2205524	Júlio Borges	5653
+RS	4319307	São Paulo das Missões	5654
+BA	2910776	Feira da Mata	5656
+TO	1703107	Barrolândia	5669
+PI	2201919	Bom Princípio do Piauí	5670
+MG	3160959	São Domingos das Dores	5672
+SC	4210035	Luzerna	5683
+MA	2109700	Sambaíba	5686
+SC	4201901	Aurora	5687
+RN	2409332	Santa Maria	5689
+SP	3503000	Aramina	5689
+TO	1706001	Couto Magalhães	5690
+MA	2111953	Sucupira do Riachão	5692
+MG	3116001	Chalé	5695
+MA	2101350	Bacurituba	5696
+RN	2403301	Encanto	5697
+PI	2201929	Bonfim do Piauí	5700
+TO	1701309	Aragominas	5705
+BA	2918555	Jussari	5706
+MG	3136959	Juvenília	5706
+PB	2503100	Cabaceiras	5710
+RS	4300307	Alecrim	5710
+MT	5103106	Cocalinho	5716
+PI	2205151	Jacobina do Piauí	5718
+PR	4113254	Laranjal	5719
+MT	5103908	General Carneiro	5726
+AP	1600253	Itaubal	5730
+MG	3171071	Veredinha	5733
+RN	2413300	Serra de São Bento	5739
+MG	3136603	Nova União	5739
+PE	2603405	Calumbi	5744
+MG	3148202	Patrocínio do Muriaé	5744
+PB	2508802	Malta	5745
+PR	4125753	São Pedro do Iguaçu	5745
+AL	2703700	Jaramataia	5751
+MS	5006275	Paraíso das Águas	5751
+PR	4118451	Pato Bragado	5755
+BA	2918605	Jussiape	5777
+PR	4126108	São Tomé	5778
+RS	4314423	Picada Café	5780
+RS	4321956	Trindade do Sul	5781
+PI	2202091	Caldeirão Grande do Piauí	5786
+MG	3166006	Senhora de Oliveira	5786
+RS	4314068	Passa Sete	5790
+SP	3505351	Barra do Chapéu	5794
+SP	3507704	Braúna	5795
+PR	4100202	Adrianópolis	5797
+TO	1710706	Itaguatins	5801
+PI	2209658	São Francisco de Assis do Piauí	5801
+SP	3515608	Fernando Prestes	5805
+PB	2509503	Montadas	5806
+SP	3517307	Guaimbê	5806
+MG	3105301	Bandeira do Sul	5808
+GO	5203807	Britânia	5815
+PI	2200905	Aroazes	5819
+PR	4124905	São João do Caiuá	5819
+SE	2802601	Gracho Cardoso	5831
+RS	4300877	Araricá	5840
+GO	5200175	Água Fria de Goiás	5843
+PR	4117206	Nova Olímpia	5846
+PB	2513307	Santa Helena	5853
+TO	1702158	Araguanã	5856
+SP	3554904	Três Fronteiras	5856
+MG	3126802	Frei Gaspar	5858
+MT	5106000	Nortelândia	5858
+MG	3152600	Pouso Alto	5862
+SC	4214508	Rio do Campo	5864
+MA	2112274	Tufilândia	5868
+RS	4315909	Rodeio Bonito	5868
+SC	4212700	Petrolândia	5873
+PB	2506608	Ibiara	5877
+AL	2702207	Coqueiro Seco	5882
+RS	4300505	Alpestre	5885
+RN	2412708	São Pedro	5889
+PB	2510204	Nova Olinda	5892
+MG	3146206	Ouro Verde de Minas	5895
+PI	2209302	Santa Luz	5903
+PR	4107405	Enéas Marques	5906
+PI	2202539	Caraúbas do Piauí	5910
+RN	2404903	Itaú	5916
+SP	3527702	Luiziânia	5918
+MG	3155306	Rio Manso	5924
+RS	4307559	Estação	5924
+SP	3548104	Santo Antônio do Jardim	5926
+SE	2801603	Cedro de São João	5929
+MA	2109056	Porto Rico do Maranhão	5936
+MG	3102050	Alto Caparaó	5938
+RN	2406007	José da Penha	5941
+RS	4300703	Anta Gorda	5941
+GO	5222302	Vila Propício	5941
+RO	1100296	Santa Luzia D'Oeste	5942
+PR	4108320	Francisco Alves	5942
+PR	4118600	Paula Freitas	5942
+MG	3101201	Aiuruoca	5949
+MG	3143807	Munhoz	5960
+SP	3553856	Taquarivaí	5968
+MG	3162575	São João do Manteninha	5975
+MG	3134301	Itumirim	5978
+PI	2202133	Campo Grande do Piauí	5987
+PR	4107306	Doutor Camargo	5987
+MG	3120300	Cristália	5992
+SP	3501806	Américo de Campos	5993
+GO	5211701	Jandaia	6001
+RS	4305124	Cerrito	6005
+RN	2403707	Felipe Guerra	6009
+SP	3509106	Caiuá	6017
+MS	5003504	Douradina	6025
+SP	3514700	Echaporã	6026
+MG	3147956	Patis	6031
+PE	2614402	Solidão	6034
+SP	3545704	Santa Albertina	6036
+PR	4117453	Ouro Verde do Oeste	6036
+PB	2514453	São José dos Ramos	6037
+PB	2515906	Serraria	6037
+MG	3122405	Divisa Nova	6039
+SP	3528700	Marabá Paulista	6039
+SC	4217253	São Pedro de Alcântara	6046
+RS	4322541	Vale Real	6046
+PB	2503902	Camalaú	6048
+RS	4310405	Independência	6054
+SP	3533254	Novais	6057
+RN	2403400	Equador	6064
+MG	3134103	Itueta	6074
+GO	5209150	Gouvelândia	6076
+PB	2503803	Caldas Brandão	6077
+PI	2209872	São João da Fronteira	6084
+RN	2414159	Tenente Laurentino Cruz	6085
+PA	1507755	Sapucaia	6088
+SP	3509452	Campina do Monte Alegre	6088
+SC	4208005	Itá	6091
+PB	2502607	Igaracy	6092
+SP	3537701	Piacatu	6093
+PB	2501708	Barra de São Miguel	6095
+MG	3146552	Pai Pedro	6098
+MA	2101939	Bernardo do Mearim	6102
+BA	2933257	Vereda	6105
+PI	2209906	São João da Serra	6106
+RS	4304309	Cândido Godói	6106
+PR	4111100	Itambé	6110
+SC	4203105	Caibi	6112
+AL	2709004	Tanque d'Arca	6115
+PR	4125407	São José da Boa Vista	6115
+MS	5008404	Vicentina	6115
+SP	3504701	Balbinos	6127
+SP	3536802	Pedra Bela	6127
+RN	2413508	Serrinha	6128
+RS	4302501	Bossoroca	6135
+PB	2512721	Pedro Régis	6139
+SP	3500550	Águas de Santa Bárbara	6142
+RS	4300901	Aratiba	6145
+MS	5003108	Corguinho	6158
+SP	3539905	Poloni	6166
+RN	2413102	Senador Elói de Souza	6167
+PI	2202729	Cocal dos Alves	6180
+MG	3107703	Bom Jesus do Amparo	6182
+MG	3127503	Gonzaga	6184
+RS	4311627	Lindolfo Collor	6193
+PR	4118857	Perobal	6194
+SP	3512506	Coroados	6197
+SC	4214409	Rio das Antas	6199
+MG	3115458	Catuji	6206
+PI	2201739	Betânia do Piauí	6214
+AP	1600212	Cutias	6217
+GO	5200852	Americano do Brasil	6220
+RN	2412104	São João do Sabugi	6221
+SP	3512100	Colômbia	6223
+MG	3167806	Soledade de Minas	6226
+SP	3500758	Alambari	6231
+BA	2904803	Caatiba	6232
+BA	2913309	Ichu	6232
+PR	4119004	Pérola d'Oeste	6232
+RS	4301651	Barão	6232
+TO	1715705	Palmeirante	6234
+RS	4315156	Progresso	6235
+BA	2927804	Santa Cruz da Vitória	6241
+MG	3145455	Olhos-d'Água	6243
+MT	5105234	Lambari D'Oeste	6246
+MS	5002803	Caracol	6247
+MG	3138674	Luisburgo	6249
+TO	1706506	Darcinópolis	6250
+PI	2209104	Santa Cruz do Piauí	6254
+PI	2209203	Santa Filomena	6256
+MG	3167400	Silvianópolis	6258
+MG	3108503	Botumirim	6259
+MA	2104701	Graça Aranha	6261
+GO	5219902	São Francisco de Goiás	6265
+SP	3519204	Iacri	6269
+GO	5209937	Inaciolândia	6275
+SC	4207403	Imbuia	6284
+PR	4103305	Borrazópolis	6290
+PA	1507466	São João da Ponta	6294
+SP	3547007	Santa Maria da Serra	6298
+RO	1100601	Cacaulândia	6307
+MG	3161304	São Francisco de Sales	6309
+CE	2301802	Baixio	6318
+RO	1101450	Parecis	6319
+SC	4219200	Vidal Ramos	6321
+PR	4119202	Pinhalão	6323
+MG	3169109	Toledo	6336
+PR	4103040	Boa Ventura de São Roque	6343
+PR	4108205	Formosa do Oeste	6345
+SP	3553104	Taiaçu	6346
+MG	3131000	Inhaúma	6352
+PB	2505238	Cuité de Mamanguape	6360
+MG	3168903	Tiros	6369
+BA	2911659	Guajeru	6371
+SP	3552908	Taciba	6371
+SP	3503109	Arandu	6373
+SP	3552007	Silveiras	6375
+PI	2210300	São Julião	6379
+RS	4316956	Santa Maria do Herval	6382
+RS	4303608	Cambará do Sul	6383
+MG	3150604	Piracema	6386
+SC	4202131	Bela Vista do Toldo	6386
+PR	4109757	Ibema	6387
+PB	2514305	São José de Caiana	6394
+PB	2510402	Olho d'Água	6399
+PR	4100905	Amaporã	6405
+MG	3157658	Santa Helena de Minas	6406
+MG	3163508	São José do Jacuri	6409
+PI	2209708	São Francisco do Piauí	6417
+SP	3516606	Gália	6419
+PI	2207777	Patos do Piauí	6420
+MG	3165503	Sardoá	6421
+SC	4216255	São João do Oeste	6423
+MG	3119955	Córrego Fundo	6425
+BA	2915908	Itanagra	6433
+PI	2209005	Rio Grande do Piauí	6434
+PI	2201945	Boqueirão do Piauí	6443
+MG	3107505	Bom Jardim de Minas	6444
+MG	3141504	Mendes Pimentel	6446
+GO	5222203	Vila Boa	6451
+CE	2311231	Potiretama	6455
+PI	2206050	Massapê do Piauí	6456
+MG	3170578	Vargem Alegre	6460
+PI	2209401	Santo Antônio de Lisboa	6466
+MG	3146255	Padre Carvalho	6466
+RS	4311254	Lagoão	6469
+RN	2413003	São Vicente	6476
+PB	2502904	Brejo dos Santos	6479
+SP	3544806	Sales	6481
+SP	3555356	Ubarana	6488
+RO	1101807	Vale do Paraíso	6490
+MG	3150703	Pirajuba	6491
+MG	3138104	Lassance	6494
+TO	1718758	Rio Sono	6498
+PB	2505600	Diamante	6506
+SE	2804706	Nossa Senhora de Lourdes	6509
+MG	3161205	São Francisco de Paula	6512
+BA	2915403	Itaju do Colônia	6515
+PR	4111001	Itambaracá	6516
+PB	2511608	Pilões	6518
+BA	2922755	Nova Ibiá	6518
+RS	4313102	Nova Palma	6519
+PB	2513158	Santa Cecília	6526
+GO	5207535	Faina	6527
+SP	3535705	Paraíso	6536
+SC	4200507	Águas de Chapecó	6544
+PI	2202752	Colônia do Gurguéia	6545
+RS	4301503	Augusto Pestana	6545
+PI	2206902	Novo Oriente do Piauí	6548
+MS	5007802	Selvíria	6555
+MG	3128600	Guarda-Mor	6558
+CE	2309904	Pacujá	6565
+MG	3139250	Mamonas	6565
+SP	3534104	Oriente	6569
+RS	4308409	Formigueiro	6569
+RS	4312476	Morro Reuter	6570
+RN	2401859	Caiçara do Norte	6572
+PB	2513208	Santa Cruz	6579
+SP	3536109	Pardinho	6579
+RS	4320552	Sertão Santana	6586
+SP	3523701	Itirapuã	6587
+TO	1702307	Arapoema	6590
+RN	2409704	Pedro Avelino	6591
+GO	5219738	Santo Antônio de Goiás	6593
+PI	2206357	Milton Brandão	6603
+RN	2410256	Porto do Mangue	6605
+MG	3146701	Palma	6606
+RS	4312450	Morro Redondo	6609
+RS	4314076	Passo do Sobrado	6612
+RS	4301701	Barão de Cotegipe	6616
+SC	4206108	Grão Pará	6621
+BA	2925402	Potiraguá	6623
+MG	3129202	Heliodora	6623
+MG	3117009	Comercinho	6624
+SP	3532306	Natividade da Serra	6624
+MA	2100105	Afonso Cunha	6631
+AL	2707800	Roteiro	6634
+PR	4108908	Guairaçá	6635
+SC	4200606	Águas Mornas	6646
+RS	4308003	Faxinal do Soturno	6651
+PR	4115309	Mariópolis	6655
+PB	2504504	Condado	6662
+MG	3122900	Dona Euzébia	6664
+MG	3130408	Ijaci	6667
+SE	2805208	Pinhão	6678
+SP	3518107	Guarantã	6685
+PB	2509156	Marizópolis	6689
+PB	2509396	Maturéia	6690
+PI	2210201	São José do Piauí	6696
+MG	3164472	São Sebastião do Anta	6697
+RS	4307302	Erval Seco	6697
+GO	5219100	Santa Bárbara de Goiás	6701
+PR	4126207	Sapopema	6708
+RS	4302204	Boa Vista do Buricá	6712
+PB	2504033	Capim	6715
+AL	2700904	Belo Monte	6717
+MG	3138682	Luislândia	6735
+SP	3542008	Quintana	6736
+RS	4310439	Ipê	6736
+MG	3149952	Periquito	6738
+RS	4311775	Maquiné	6747
+PB	2505204	Cuitegi	6748
+RS	4316303	Roque Gonzales	6750
+RS	4316758	Santa Clara do Sul	6755
+MG	3127305	Galiléia	6764
+RS	4305702	Condor	6766
+PR	4121604	Renascença	6772
+PI	2200608	Angical do Piauí	6779
+SC	4201000	Anita Garibaldi	6783
+BA	2915304	Itagimirim	6784
+ES	3202009	Dores do Rio Preto	6793
+PI	2205573	Lagoa de São Francisco	6795
+PA	1506906	Santarém Novo	6796
+PE	2611533	Quixaba	6796
+GO	5200555	Alto Horizonte	6796
+MG	3169505	Tumiritinga	6797
+PI	2210938	Sussuapara	6801
+RS	4307104	Herval	6807
+MG	3116308	Cipotânea	6811
+MG	3120151	Crisólita	6814
+RO	1101435	Nova União	6822
+PI	2206670	Morro do Chapéu do Piauí	6825
+MG	3113602	Careaçu	6826
+SP	3524907	Jambeiro	6828
+TO	1713809	Palmeiras do Tocantins	6830
+MT	5101852	Bom Jesus do Araguaia	6830
+RS	4305439	Chuí	6832
+SP	3548203	Santo Antônio do Pinhal	6843
+PI	2201770	Boa Hora	6848
+RN	2406205	Lagoa d'Anta	6851
+BA	2911501	Gongogi	6852
+MG	3108107	Bonfim	6852
+MA	2111672	São Roberto	6856
+MG	3138005	Laranjal	6856
+MG	3112406	Capetinga	6860
+MS	5005152	Juti	6861
+MT	5106182	Nova Lacerda	6861
+MG	3117876	Confins	6867
+PI	2207207	Padre Marcos	6879
+PR	4128708	Vitorino	6879
+SC	4203402	Campo Belo do Sul	6889
+AC	1200435	Santa Rosa do Purus	6893
+RS	4309654	Hulha Negra	6894
+GO	5215504	Ouvidor	6895
+GO	5220686	Simolândia	6895
+TO	1700400	Almas	6905
+RN	2405108	Jandaíra	6907
+SP	3502309	Anhembi	6911
+RS	4318606	São José do Ouro	6911
+PR	4107900	Floresta	6926
+PI	2203404	Dom Expedito Lopes	6940
+PB	2513604	Santana dos Garrotes	6942
+MG	3122355	Divisa Alegre	6946
+MG	3164605	São Sebastião do Oeste	6948
+PA	1503002	Faro	6949
+MG	3163805	São Miguel do Anta	6949
+RS	4300208	Ajuricaba	6951
+PR	4122701	Sabáudia	6954
+PR	4124608	São Carlos do Ivaí	6961
+SP	3524204	Jaborandi	6963
+AL	2701357	Campestre	6972
+MT	5106653	Pontal do Araguaia	6972
+MG	3130556	Imbé de Minas	6976
+AL	2708204	São Brás	6977
+MG	3165107	São Tomás de Aquino	6980
+TO	1707108	Divinópolis do Tocantins	6986
+SC	4210803	Meleiro	6989
+AL	2703502	Jacuípe	6992
+MG	3103751	Araporã	6992
+MG	3118205	Conquista	6997
+PR	4108650	Goioxim	6997
+PB	2515807	Serra Redonda	7001
+SE	2803708	Macambira	7002
+MG	3130705	Indianópolis	7009
+MG	3157104	Salto da Divisa	7014
+MA	2106201	Luís Domingues	7016
+PI	2201408	Barro Duro	7022
+MG	3100104	Abadia dos Dourados	7022
+SP	3547908	Santo Antônio da Alegria	7024
+MG	3109451	Cabeceira Grande	7025
+MG	3128808	Guidoval	7026
+MT	5104542	Itanhangá	7030
+MG	3165404	Sapucaí-Mirim	7045
+PI	2203354	Dirceu Arcoverde	7046
+RS	4310504	Iraí	7046
+MA	2100550	Amapá do Maranhão	7047
+MG	3158300	Santana da Vargem	7047
+TO	1700301	Aguiarnópolis	7049
+RO	1100072	Corumbiara	7052
+MG	3101631	Alfredo Vasconcelos	7052
+PB	2501203	Areial	7054
+RS	4313805	Palmitinho	7056
+SP	3554953	Tuiuti	7058
+MG	3115706	Central de Minas	7059
+MG	3131604	Iraí de Minas	7067
+RN	2403202	Doutor Severiano	7068
+PR	4113007	Jussara	7069
+MT	5100359	Alto Boa Vista	7092
+PR	4115002	Marilena	7093
+PR	4128609	Verê	7094
+MG	3164308	São Roque de Minas	7100
+PR	4103206	Bom Sucesso	7103
+MG	3144359	Naque	7104
+SC	4218400	Treze de Maio	7104
+MG	3138906	Machacalis	7112
+PI	2200053	Acauã	7119
+MA	2109239	Presidente Médici	7124
+RO	1101005	Governador Jorge Teixeira	7130
+RS	4300638	Amaral Ferrador	7136
+MG	3121209	Delfinópolis	7146
+MG	3165206	São Tomé das Letras	7151
+SC	4209508	Laurentino	7154
+MG	3148756	Pedra Bonita	7157
+SC	4200408	Água Doce	7160
+SP	3532801	Nova Aliança	7161
+RN	2400901	Antônio Martins	7162
+AL	2705408	Monteirópolis	7171
+TO	1707207	Dois Irmãos do Tocantins	7173
+GO	5207253	Doverlândia	7174
+PB	2503605	Caiçara	7182
+RS	4305900	Coronel Bicaco	7213
+PR	4113734	Luiziana	7217
+PB	2502151	Boa Vista	7218
+TO	1701903	Araguacema	7223
+PB	2503555	Cacimbas	7225
+PE	2615102	Terezinha	7227
+MG	3170750	Varjão de Minas	7235
+PB	2507804	Junco do Seridó	7238
+MG	3123809	Engenheiro Navarro	7240
+RJ	3305133	São José de Ubá	7240
+PR	4112959	Juranda	7244
+MT	5102686	Campos de Júlio	7245
+MG	3154150	Reduto	7247
+SC	4211801	Ouro	7251
+CE	2304277	Ereré	7254
+MG	3121407	Desterro de Entre Rios	7266
+RS	4309902	Ibiraiaras	7267
+TO	1706100	Cristalândia	7268
+PB	2510006	Nazarezinho	7271
+PB	2508505	Livramento	7274
+BA	2901957	Apuarema	7274
+MS	5001508	Bandeirantes	7281
+SP	3512902	Cosmorama	7289
+BA	2914208	Irajuba	7295
+BA	2931400	Teodoro Sampaio	7296
+RJ	3302304	Laje do Muriaé	7298
+SC	4213807	Praia Grande	7305
+PI	2206704	Nazaré do Piauí	7307
+AL	2701902	Chã Preta	7311
+RS	4311759	Manoel Viana	7315
+MG	3160454	Santo Antônio do Retiro	7316
+SP	3534203	Orindiúva	7318
+SC	4212007	Palma Sola	7321
+MG	3159357	Santa Rita de Minas	7322
+SP	3524501	Jaci	7322
+MG	3130655	Indaiabira	7328
+SC	4216404	São João do Sul	7332
+GO	5211305	Itarumã	7337
+MG	3166303	Sericita	7340
+PI	2202174	Campo Largo do Piauí	7342
+MS	5004908	Jaraguari	7342
+AL	2707909	Santa Luzia do Norte	7344
+PB	2502003	Belém do Brejo do Cruz	7356
+PA	1501758	Brejo Grande do Araguaia	7357
+PR	4100103	Abatiá	7360
+SP	3526605	Lavrinhas	7361
+MG	3130606	Inconfidentes	7387
+MG	3162609	São João do Oriente	7393
+RS	4309506	Guarani das Missões	7393
+RS	4300646	Ametista do Sul	7396
+CE	2300804	Antonina do Norte	7402
+MG	3135605	Jequitaí	7407
+PI	2208908	Ribeiro Gonçalves	7408
+RS	4311502	Lavras do Sul	7410
+GO	5212105	Joviânia	7417
+PR	4118709	Paulo Frontin	7418
+PR	4101309	Antônio Olinto	7421
+BA	2924108	Pedrão	7438
+MA	2110658	São Domingos do Azeitão	7448
+MG	3101805	Alpercata	7448
+PB	2515005	São Miguel de Taipu	7450
+SC	4210407	Maracajá	7461
+BA	2922201	Muniz Ferreira	7464
+RS	4320263	Segredo	7465
+TO	1710508	Itacajá	7471
+MG	3116506	Claro dos Poções	7478
+PE	2602506	Brejinho	7489
+MG	3121803	Dionísio	7493
+MG	3145059	Nova Porteirinha	7493
+MS	5005251	Laguna Carapã	7496
+PR	4120705	Quatiguá	7504
+SC	4218608	Trombudo Central	7506
+PE	2610103	Palmeirina	7509
+SP	3533601	Nuporanga	7522
+PR	4103057	Boa Vista da Aparecida	7524
+PE	2616183	Vertente do Lério	7526
+PB	2504157	Casserengue	7530
+MG	3162948	São José da Barra	7532
+SP	3505104	Barbosa	7532
+PA	1500131	Abel Figueiredo	7536
+MG	3158508	Santana de Pirapama	7538
+PR	4106456	Coronel Domingos Soares	7538
+MG	3150570	Pintópolis	7540
+SP	3536406	Paulicéia	7540
+MG	3162203	São João Batista do Glória	7541
+ES	3200508	Apiacá	7542
+MG	3125606	Felisburgo	7548
+RS	4301750	Barão do Triunfo	7550
+SC	4214607	Rio do Oeste	7552
+PR	4109500	Guaraqueçaba	7554
+AL	2706604	Paulo Jacinto	7556
+CE	2312502	São João do Jaguaribe	7557
+MS	5004403	Inocência	7566
+MS	5006408	Pedro Gomes	7568
+PA	1505494	Palestina do Pará	7575
+MA	2101731	Belágua	7586
+PE	2606309	Granito	7586
+MG	3137106	Lagamar	7588
+MG	3142403	Moema	7589
+MG	3126000	Florestal	7602
+MG	3131109	Inimutaba	7605
+SP	3505401	Barra do Turvo	7606
+SP	3553906	Tarabai	7609
+AL	2707404	Porto de Pedras	7618
+PB	2514206	São José da Lagoa Tapada	7622
+RN	2406304	Lagoa de Pedras	7624
+PR	4107751	Figueira	7625
+GO	5219001	Sanclerlândia	7630
+MG	3116704	Coimbra	7631
+MG	3164001	São Pedro dos Ferros	7634
+RS	4314027	Paraíso do Sul	7635
+MA	2111250	São José dos Basílios	7639
+MG	3138625	Limeira do Oeste	7640
+RN	2404853	Itajá	7641
+SC	4212304	Paulo Lopes	7642
+SC	4207684	Ipuaçu	7643
+SC	4207700	Ipumirim	7647
+AC	1200054	Assis Brasil	7649
+MA	2105989	Lajeado Novo	7653
+SE	2804300	Muribeca	7653
+MG	3122207	Divinolândia de Minas	7655
+GO	5212303	Leopoldo de Bulhões	7663
+PI	2202778	Colônia do Piauí	7665
+MG	3166907	Serrania	7667
+PR	4109906	Icaraíma	7671
+SC	4215307	Salete	7674
+TO	1718865	Santa Fé do Araguaia	7678
+PI	2200251	Alagoinha do Piauí	7678
+PB	2514909	São Mamede	7682
+MG	3169208	Tombos	7683
+RS	4314209	Pedro Osório	7683
+SP	3543253	Ribeirão Grande	7686
+TO	1721109	Tocantínia	7688
+RS	4302451	Boqueirão do Leão	7691
+RS	4319158	São Miguel das Missões	7692
+TO	1715754	Palmeirópolis	7694
+MG	3134806	Jacuí	7695
+PR	4127809	Tomazina	7699
+PI	2202083	Cajueiro da Praia	7704
+PR	4123303	Santa Cruz de Monte Castelo	7705
+CE	2300606	Altaneira	7712
+MG	3106408	Belo Vale	7723
+SP	3550506	São Pedro do Turvo	7724
+SP	3553500	Tapiraí	7725
+MG	3117836	Cônego Marinho	7730
+RS	4322301	Tuparendi	7730
+SP	3552304	Sud Mennucci	7738
+CE	2313708	Umari	7740
+PB	2507408	Jericó	7751
+GO	5200605	Alto Paraíso de Goiás	7751
+BA	2919900	Macururé	7752
+PB	2508208	Lagoa de Dentro	7754
+MA	2106359	Marajá do Sena	7757
+CE	2312809	Senador Sá	7758
+SP	3518859	Guatapará	7760
+SP	3542701	Restinga	7762
+CE	2304608	General Sampaio	7767
+PE	2606705	Ibirajuba	7773
+AM	1301951	Itamarati	7777
+MG	3105004	Baldim	7780
+MG	3135456	Jenipapo de Minas	7781
+PI	2206506	Monsenhor Hipólito	7785
+RS	4314001	Paraí	7793
+GO	5202155	Araguapaz	7795
+MS	5002159	Bodoquena	7802
+RS	4316709	Santa Bárbara do Sul	7813
+SP	3521101	Ipeúna	7824
+TO	1717503	Pium	7830
+BA	2922730	Nova Fátima	7830
+PB	2515971	Sobrado	7845
+CE	2301505	Arneiroz	7848
+MA	2109551	Ribamar Fiquene	7859
+SP	3523800	Itobi	7862
+PB	2505006	Cubati	7866
+MG	3120870	Curral de Dentro	7867
+BA	2914307	Iramaia	7874
+MG	3165305	São Vicente de Minas	7876
+MA	2104628	Governador Luiz Rocha	7878
+MA	2109759	Santa Filomena do Maranhão	7878
+PI	2201051	Assunção do Piauí	7879
+GO	5204805	Campo Alegre de Goiás	7884
+MG	3123528	Durandé	7898
+MG	3130309	Iguatama	7901
+MG	3165701	Senador Firmino	7902
+CE	2306207	Itaiçaba	7904
+SP	3511201	Catiguá	7905
+SE	2806404	Santana do São Francisco	7906
+ES	3200359	Alto Rio Novo	7911
+MT	5103858	Gaúcha do Norte	7913
+SP	3519501	Ibirarema	7926
+BA	2931103	Tanquinho	7936
+RN	2410207	Portalegre	7944
+MS	5007554	Santa Rita do Pardo	7948
+PB	2511103	Pedra Lavrada	7954
+PR	4103800	Cambira	7967
+RN	2403004	Cruzeta	7968
+BA	2915700	Itamari	7971
+RS	4316501	Salvador do Sul	7975
+MG	3135357	Japonvar	7991
+GO	5204250	Cachoeira Dourada	7997
+SC	4218251	Timbó Grande	8003
+MG	3121100	Delfim Moreira	8007
+PB	2507606	Juarez Távora	8014
+ES	3204252	Ponto Belo	8016
+SC	4201703	Ascurra	8021
+MG	3147709	Passa Tempo	8031
+RS	4317004	Santana da Boa Vista	8037
+GO	5213707	Montes Claros de Goiás	8037
+SC	4216800	São José do Cerrito	8054
+MG	3124807	Estrela do Sul	8057
+GO	5214861	Nova Glória	8063
+AL	2708709	São Miguel dos Milagres	8073
+TO	1716703	Colméia	8078
+BA	2919108	Lamarão	8078
+PA	1505601	Peixe-Boi	8084
+PI	2209971	São João do Arraial	8085
+MT	5103601	Dom Aquino	8087
+GO	5204854	Campo Limpo de Goiás	8087
+GO	5204003	Cabeceiras	8098
+SP	3521507	Irapuã	8101
+RN	2413409	Serra Negra do Norte	8105
+PR	4127957	Tupãssi	8105
+BA	2906402	Candeal	8109
+MG	3139706	Maravilhas	8113
+PR	4104105	Campo do Tenente	8118
+PR	4117008	Nova Fátima	8120
+RS	4306056	Cristal	8121
+RO	1100502	Novo Horizonte do Oeste	8125
+PR	4121752	Reserva do Iguaçu	8127
+BA	2910305	Elísio Medrado	8129
+RS	4312252	Minas do Leão	8130
+MG	3154457	Riachinho	8132
+SC	4204905	Descanso	8136
+MG	3145877	Orizânia	8138
+SC	4218509	Treze Tílias	8138
+CE	2307205	Jati	8150
+AP	1600238	Ferreira Gomes	8151
+MG	3168804	Tiradentes	8160
+MT	5101605	Barão de Melgaço	8165
+MG	3128907	Guimarânia	8168
+SP	3528106	Macaubal	8174
+BA	2917359	Jaborandi	8176
+SP	3531209	Monte Alegre do Sul	8181
+TO	1713601	Monte do Carmo	8182
+MT	5104526	Ipiranga do Norte	8182
+RN	2412807	São Rafael	8183
+TO	1717909	Ponte Alta do Tocantins	8192
+SP	3506409	Bilac	8197
+SP	3527009	Lindóia	8201
+SC	4210308	Major Vieira	8209
+MG	3157252	Santa Bárbara do Leste	8212
+SP	3519907	Iepê	8228
+RR	1400605	São Luiz	8232
+MA	2100402	Altamira do Maranhão	8250
+PR	4112751	Jesuítas	8251
+SP	3517802	Guaraçaí	8258
+SP	3500402	Águas da Prata	8262
+SC	4211108	Monte Castelo	8263
+BA	2921450	Mirante	8264
+PE	2615904	Tuparetama	8266
+PI	2202026	Buriti dos Montes	8282
+MG	3153509	Alto Jequitibá	8286
+MG	3151909	Pocrane	8288
+PB	2506251	Gado Bravo	8292
+PR	4111555	Ivaté	8294
+MG	3129004	Guiricema	8296
+RN	2402402	Carnaúba dos Dantas	8297
+BA	2916203	Itapé	8300
+RS	4309050	Glorinha	8304
+MG	3146503	Pains	8308
+RN	2410900	Riachuelo	8310
+PR	4117222	Nova Santa Rosa	8311
+SC	4203501	Campo Erê	8312
+RN	2407302	Marcelino Vieira	8325
+BA	2920304	Malhada de Pedras	8326
+GO	5221197	Terezópolis de Goiás	8326
+BA	2922805	Nova Itarana	8328
+PB	2505402	Desterro	8332
+MG	3156304	Rodeiro	8333
+PB	2501575	Barra de Santana	8338
+RS	4308805	General Câmara	8339
+RN	2406601	Lagoa Salgada	8348
+PI	2203008	Cristalândia do Piauí	8350
+RS	4306932	Entre-Ijuís	8350
+SP	3521606	Irapuru	8356
+SP	3519808	Icém	8363
+PI	2201960	Brasileira	8364
+PI	2205854	Madeiro	8372
+BA	2916708	Itaquara	8375
+MT	5105002	Jauru	8377
+MG	3143450	Montezuma	8379
+TO	1700707	Alvorada	8381
+MG	3111408	Campo Florido	8383
+GO	5219704	Santa Terezinha de Goiás	8386
+PR	4128559	Vera Cruz do Oeste	8389
+MG	3148509	Pavão	8390
+SE	2800704	Brejo Grande	8396
+SC	4215653	Santa Rosa do Sul	8397
+TO	1702000	Araguaçu	8418
+SP	3515202	Estrela d'Oeste	8420
+MT	5104906	Jangada	8420
+RS	4304713	Caraá	8426
+AL	2700607	Barra de São Miguel	8434
+AL	2703601	Japaratinga	8444
+MG	3103702	Araponga	8467
+BA	2921609	Morpará	8476
+MG	3129608	Ibiaí	8478
+PB	2500775	Aparecida	8482
+PR	4123709	Santa Isabel do Ivaí	8484
+RR	1400506	São João da Baliza	8492
+MA	2101970	Boa Vista do Gurupi	8494
+SP	3545159	Saltinho	8498
+MA	2106672	Milagres do Maranhão	8502
+PR	4127908	Tuneiras do Oeste	8502
+MA	2104073	Feira Nova do Maranhão	8506
+SE	2802700	Ilha das Flores	8522
+MG	3161700	São Gonçalo do Abaeté	8527
+MG	3152907	Pratápolis	8530
+SP	3548054	Santo Antônio do Aracanguá	8541
+RS	4314159	Paverama	8541
+MT	5107776	Santa Terezinha	8547
+CE	2313252	Tarrafas	8555
+PB	2512804	Riacho dos Cavalos	8555
+TO	1718303	Praia Norte	8563
+RS	4311155	Jóia	8571
+BA	2923308	Ouriçangas	8575
+PI	2204907	Isaías Coelho	8582
+PI	2205953	Marcolândia	8590
+RJ	3300951	Comendador Levy Gasparian	8590
+BA	2919058	Lajedo do Tabocal	8591
+PE	2603603	Camutanga	8592
+MG	3102852	Angelândia	8594
+PA	1504109	Magalhães Barata	8598
+PI	2205557	Lagoa Alegre	8610
+AC	1200328	Jordão	8628
+RS	4305009	Catuípe	8631
+PI	2206720	Nazária	8632
+MG	3140530	Martins Soares	8640
+PR	4103503	Califórnia	8641
+MA	2112001	Tasso Fragoso	8642
+PB	2509305	Mataraca	8642
+SC	4217907	Tangará	8648
+MG	3171709	Virgínia	8652
+BA	2906899	Caraíbas	8659
+MG	3158904	Santana do Manhuaçu	8660
+SP	3503406	Arealva	8665
+BA	2909000	Cordeiros	8667
+SP	3534807	Ouro Verde	8676
+BA	2900108	Abaíra	8681
+MG	3151008	Piranguinho	8683
+MG	3112802	Capitólio	8693
+MG	3140555	Mata Verde	8700
+MG	3144508	Nazareno	8710
+SC	4201208	Antônio Carlos	8712
+MG	3150505	Pimenta	8715
+MG	3157336	Santa Cruz de Minas	8723
+BA	2921906	Mucugê	8725
+MG	3166709	Serra dos Aimorés	8725
+BA	2933174	Varzedo	8734
+ES	3204658	São Domingos do Norte	8735
+GO	5220504	Serranópolis	8737
+BA	2912806	Ibirapuã	8740
+RS	4319802	São Vicente do Sul	8742
+PB	2509057	Marcação	8746
+GO	5200803	Alvorada do Norte	8749
+PI	2206803	Nossa Senhora dos Remédios	8751
+GO	5213509	Monte Alegre de Goiás	8759
+SC	4215679	Santa Terezinha	8760
+MG	3142601	Monsenhor Paulo	8764
+MT	5102850	Castanheira	8782
+RN	2407401	Martins	8790
+PR	4114906	Marilândia do Sul	8793
+GO	5205455	Cezarina	8794
+SP	3513207	Cristais Paulista	8803
+MA	2103125	Central do Maranhão	8806
+MG	3116803	Coluna	8810
+PI	2208700	Redenção do Gurguéia	8814
+SE	2804458	Nossa Senhora Aparecida	8822
+ES	3202553	Ibitirama	8830
+MG	3150158	Piedade de Caratinga	8832
+CE	2308807	Moraújo	8833
+MA	2102150	Brejo de Areia	8841
+MA	2105948	Lago dos Rodrigues	8841
+SC	4201505	Armazém	8843
+BA	2902302	Aratuípe	8848
+AL	2704609	Maravilha	8850
+BA	2918456	Jucuruçu	8856
+PR	4126009	São Sebastião da Amoreira	8865
+SP	3537503	Pereiras	8875
+PR	4108957	Guamiranga	8881
+SP	3514304	Dourado	8883
+SP	3546900	Santa Lúcia	8889
+TO	1707702	Filadélfia	8892
+SP	3511904	Clementina	8894
+PR	4106001	Congonhinhas	8896
+MG	3159209	Santa Rita de Caldas	8900
+MG	3118908	Cordisburgo	8903
+BA	2905107	Caém	8912
+GO	5203401	Bom Jardim de Goiás	8912
+SP	3532504	Neves Paulista	8917
+MG	3128402	Guarani	8926
+BA	2925931	Quixabeira	8939
+MG	3143500	Morada Nova de Minas	8955
+MG	3155405	Rio Novo	8964
+TO	1720804	Sítio Novo do Tocantins	8965
+GO	5211404	Itauçu	8968
+SP	3536604	Paulo de Faria	8973
+PE	2602407	Brejão	8981
+BA	2928307	Santanópolis	8987
+PR	4107256	Douradina	8988
+SP	3549508	São José da Bela Vista	8991
+RS	4313953	Pantano Grande	8995
+GO	5222054	Vicentinópolis	9002
+PR	4125209	São Jorge d'Oeste	9005
+PI	2208650	Queimada Nova	9041
+SE	2807204	Siriri	9046
+MT	5108907	Nova Maringá	9056
+MA	2107001	Montes Altos	9064
+RS	4304903	Casca	9070
+MS	5000906	Antônio João	9082
+BA	2928950	São Domingos	9085
+SP	3514007	Dobrada	9088
+SC	4207650	Iporã do Oeste	9093
+MG	3118700	Coqueiral	9099
+GO	5219407	Santa Rita do Araguaia	9110
+MS	5000807	Anaurilândia	9116
+BA	2923506	Palmeiras	9123
+SP	3555802	Urânia	9125
+BA	2922854	Nova Redenção	9126
+SP	3542107	Rafard	9126
+MG	3152709	Prados	9128
+GO	5200050	Abadia de Goiás	9158
+SP	3556909	Vista Alegre do Alto	9163
+SP	3535200	Palmeira d'Oeste	9173
+PB	2501401	Baía da Traição	9197
+CE	2310605	Penaforte	9207
+MG	3119500	Coronel Murta	9209
+SP	3504800	Bálsamo	9209
+PR	4123857	Santa Maria do Oeste	9210
+RS	4305306	Chapada	9211
+MG	3103009	Antônio Dias	9233
+GO	5212808	Mara Rosa	9234
+BA	2933109	Várzea do Poço	9247
+TO	1714203	Natividade	9256
+PI	2206696	Murici dos Portelas	9258
+AP	1600105	Amapá	9265
+PR	4127882	Tunas do Paraná	9269
+SC	4212254	Passo de Torres	9269
+MG	3100500	Açucena	9270
+GO	5212709	Mambaí	9277
+ES	3205150	Vila Pavão	9280
+SP	3515350	Euclides da Cunha Paulista	9280
+MT	5108055	Terra Nova do Norte	9284
+AM	1304005	Silves	9289
+BA	2907558	Caturama	9303
+AM	1302009	Itapiranga	9312
+MG	3112901	Caputira	9318
+RN	2405009	Jaçanã	9341
+BA	2933406	Wagner	9342
+MT	5107941	Tabaporã	9357
+MS	5004809	Japorã	9372
+RN	2401404	Baía Formosa	9373
+MT	5108956	Nova Monte Verde	9375
+GO	5214408	Nazário	9375
+BA	2907004	Cardeal da Silva	9395
+SP	3545407	Salto Grande	9396
+MT	5101308	Arenápolis	9399
+RJ	3304508	Rio das Flores	9401
+BA	2924900	Planaltino	9415
+RJ	3305307	São Sebastião do Alto	9416
+SC	4216107	São Domingos	9422
+PI	2204204	Francisco Santos	9423
+MG	3113503	Carbonita	9423
+BA	2930766	Sítio do Quinto	9431
+TO	1701002	Ananás	9435
+SE	2805307	Pirambu	9436
+PR	4122503	Roncador	9447
+SP	3511300	Cedral	9452
+CE	2310001	Palhano	9458
+RO	1101203	Ministro Andreazza	9461
+MG	3102704	Cachoeira de Pajeú	9470
+MG	3154507	Riacho dos Machados	9471
+PB	2516805	Triunfo	9473
+PI	2204659	Ilha Grande	9487
+PE	2604908	Cumaru	9494
+SP	3554409	Terra Roxa	9502
+AL	2705804	Olho d'Água do Casado	9507
+GO	5203906	Buriti Alegre	9515
+MG	3103900	Araújos	9523
+MA	2102374	Cachoeira Grande	9524
+MG	3171030	Verdelândia	9527
+MT	5106265	Novo Mundo	9545
+BA	2923902	Pau Brasil	9550
+PR	4100301	Agudos do Sul	9567
+AL	2701803	Carneiros	9568
+PE	2616100	Verdejante	9572
+PR	4112405	Japurá	9573
+PI	2203453	Dom Inocêncio	9574
+AL	2701506	Campo Grande	9576
+MG	3125903	Ferros	9576
+MG	3148301	Paula Cândido	9597
+PE	2612000	Sairé	9600
+ES	3200136	Águia Branca	9621
+MT	5103452	Denise	9626
+SP	3520202	Igaratá	9631
+SP	3519006	Herculândia	9649
+PR	4122602	Rondon	9664
+MG	3137536	Lagoa Grande	9681
+RN	2401305	Campo Grande	9686
+BA	2906105	Canápolis	9694
+CE	2304269	Deputado Irapuan Pinheiro	9698
+AC	1200344	Manoel Urbano	9701
+RS	4304358	Candiota	9707
+MG	3126901	Frei Inocêncio	9716
+PR	4100707	Alto Piquiri	9722
+SE	2805109	Pedrinhas	9727
+GO	5205307	Cavalcante	9740
+MS	5004106	Guia Lopes da Laguna	9754
+SC	4207205	Imaruí	9764
+MG	3138658	Lontra	9766
+BA	2903953	Bom Jesus da Serra	9768
+RN	2403806	Florânia	9772
+SC	4214201	Quilombo	9773
+SP	3519253	Iaras	9786
+MG	3126208	Formoso	9810
+TO	1702901	Axixá do Tocantins	9817
+RN	2410405	Pureza	9825
+PB	2508000	Juru	9831
+SE	2800407	Arauá	9840
+SP	3503703	Ariranha	9851
+PI	2204808	Ipiranga do Piauí	9863
+SC	4217303	Saudades	9874
+MG	3164506	São Sebastião do Maranhão	9884
+MG	3112505	Capim Branco	9896
+MG	3119203	Coroaci	9897
+PR	4125001	São João do Ivaí	9897
+SC	4204400	Coronel Freitas	9900
+RS	4305801	Constantina	9903
+PB	2517001	Umbuzeiro	9914
+RS	4317707	Santo Antônio das Missões	9930
+MS	5004007	Glória de Dourados	9934
+SP	3543808	Rinópolis	9940
+SC	4211058	Monte Carlo	9945
+BA	2914109	Ipupiara	9954
+RS	4314704	Planalto	9957
+PB	2509800	Mulungu	9962
+SP	3532827	Nova Campina	9962
+SC	4206405	Guaraciaba	9964
+SP	3528601	Manduri	9972
+MG	3133600	Itapeva	9976
+ES	3201100	Bom Jesus do Norte	9988
+PI	2200707	Anísio de Abreu	9994
+GO	5205901	Corumbaíba	10012
+PR	4110805	Iretama	10029
+SP	3542503	Reginópolis	10047
+BA	2904209	Botuporã	10050
+BA	2924678	Piraí do Norte	10050
+PR	4124020	Santa Tereza do Oeste	10055
+PI	2210656	Sigefredo Pacheco	10074
+RS	4312906	Nova Bassano	10089
+MT	5102793	Carlinda	10094
+SP	3554706	Torrinha	10100
+MG	3114550	Carneirinho	10103
+MT	5105580	Marcelândia	10107
+GO	5203559	Bonfinópolis	10120
+MA	2104651	Governador Newton Bello	10121
+MG	3132909	Itamogi	10122
+PR	4124806	São João	10122
+PR	4116703	Nova Aurora	10131
+SC	4200705	Alfredo Wagner	10136
+PR	4105003	Catanduvas	10144
+RS	4315107	Porto Xavier	10144
+RS	4320677	Sinimbu	10152
+SC	4202602	Bom Retiro	10153
+MG	3131505	Ipuiúna	10156
+GO	5217203	Piranhas	10161
+BA	2916302	Itapebi	10173
+SP	3514601	Dumont	10174
+RN	2407005	Luís Gomes	10175
+RS	4308300	Fontoura Xavier	10181
+SP	3555604	Uchoa	10191
+GO	5215009	Nova Veneza	10193
+SP	3540507	Porangaba	10205
+MG	3120508	Cristina	10211
+GO	5216304	Paranaiguara	10221
+SC	4212650	Pescaria Brava	10225
+GO	5216809	Petrolina de Goiás	10240
+BA	2924702	Piripá	10253
+MG	3106002	Bela Vista de Minas	10269
+MG	3156601	Rubim	10269
+BA	2916609	Itapitanga	10284
+MG	3123007	Dores de Campos	10291
+BA	2920007	Maiquinique	10294
+GO	5205000	Carmo do Rio Verde	10299
+MG	3128204	Guaraciaba	10307
+MG	3126505	Francisco Badaró	10311
+PE	2615201	Terra Nova	10314
+RN	2401701	Bom Jesus	10323
+PR	4115101	Mariluz	10327
+MG	3170503	Urucânia	10333
+SC	4208708	Jacinto Machado	10337
+GO	5202502	Aruanã	10340
+MG	3109204	Buenópolis	10342
+MA	2111789	Serrano do Maranhão	10343
+MG	3115805	Centralina	10343
+BA	2910008	Dário Meira	10347
+PR	4102604	Barracão	10347
+RO	1101609	Theobroma	10348
+MG	3117108	Conceição da Aparecida	10351
+BA	2924652	Pintadas	10353
+SE	2805901	Riachuelo	10354
+MG	3144656	Ninheira	10355
+BA	2920809	Marcionílio Souza	10357
+PR	4108007	Florestópolis	10360
+PB	2503308	Cachoeira dos Índios	10364
+RN	2405306	Januário Cicco	10367
+PB	2500106	Água Branca	10375
+PB	2505709	Dona Inês	10375
+RJ	3304607	Santa Maria Madalena	10380
+CE	2303659	Catunda	10410
+RS	4301404	Arvorezinha	10422
+TO	1716208	Paranã	10426
+AL	2701100	Branquinha	10426
+MT	5100805	Apiacás	10431
+ES	3202900	Itarana	10433
+RN	2412559	São Miguel do Gostoso	10441
+PB	2509909	Natuba	10449
+MT	5107180	Ribeirão Cascalheira	10450
+MG	3171808	Virginópolis	10459
+RN	2403509	Espírito Santo	10463
+MA	2105450	Jatobá	10464
+PI	2203107	Cristino Castro	10464
+BA	2922052	Mulungu do Morro	10469
+BA	2918308	Jitaúna	10470
+MG	3166204	Senhora dos Remédios	10474
+PI	2201606	Beneditinos	10479
+RS	4301057	Arroio do Sal	10483
+RN	2414506	Umarizal	10485
+SP	3551108	Sarapuí	10493
+PA	1506401	Santa Cruz do Arari	10496
+PI	2204501	Guadalupe	10496
+TO	1702406	Arraias	10502
+TO	1703842	Campos Lindos	10505
+BA	2900504	Érico Cardoso	10513
+BA	2928505	Santa Terezinha	10520
+MG	3154101	Recreio	10522
+MG	3154804	Rio Acima	10524
+BA	2911006	Floresta Azul	10525
+MG	3107901	Bom Repouso	10527
+ES	3204807	São José do Calçado	10536
+PR	4117255	Nova Prata do Iguaçu	10540
+RN	2404408	Grossos	10541
+AL	2706422	Pariconha	10546
+BA	2929370	São José do Jacuípe	10546
+MA	2104081	Fernando Falcão	10559
+PI	2206407	Monsenhor Gil	10563
+RS	4321006	Tapera	10569
+AC	1200138	Bujari	10572
+SC	4207809	Irani	10575
+BA	2927903	Santa Inês	10583
+PB	2511806	Pirpirituba	10590
+AL	2702009	Coité do Nóia	10594
+RR	1400233	Caroebe	10595
+PB	2510105	Nova Floresta	10614
+PI	2206605	Monte Alegre do Piauí	10618
+PR	4121802	Ribeirão Claro	10622
+SC	4205308	Faxinal dos Guedes	10630
+MA	2111904	Sucupira do Norte	10631
+RS	4316105	Ronda Alta	10633
+AL	2708105	Santana do Mundaú	10637
+RN	2410306	Serra Caiada	10646
+SP	3509304	Cajobi	10649
+RJ	3305901	Trajano de Moraes	10653
+TO	1703008	Babaçulândia	10668
+PI	2202059	Cabeceiras do Piauí	10671
+BA	2904407	Brejolândia	10675
+RS	4320206	Seberi	10678
+GO	5201801	Aragoiânia	10680
+RS	4311106	Jaguari	10684
+RO	1101302	Mirante da Serra	10691
+SP	3550001	São Luiz do Paraitinga	10693
+PI	2204402	Gilbués	10698
+PR	4105102	Centenário do Sul	10704
+BA	2904506	Brotas de Macaúbas	10705
+PR	4116059	Missal	10706
+MA	2103109	Cedral	10711
+SP	3534757	Ouroeste	10712
+MG	3102100	Alto Rio Doce	10723
+MG	3151305	Piraúba	10732
+BA	2917904	Jandaíra	10742
+MS	5007703	Sete Quedas	10751
+MG	3141603	Mercês	10775
+MG	3151107	Pirapetinga	10791
+MG	3136900	Juruaia	10795
+GO	5205471	Chapadão do Céu	10797
+MG	3145356	Novo Oriente de Minas	10800
+ES	3200169	Água Doce do Norte	10801
+SP	3556602	Vera Cruz	10804
+MG	3142106	Miradouro	10818
+RO	1101104	Itapuã do Oeste	10819
+SP	3543709	Rincão	10824
+PB	2507903	Juripiranga	10830
+BA	2921302	Milagres	10838
+SP	3556354	Vargem	10842
+PI	2207603	Parnaguá	10846
+SP	3516903	General Salgado	10855
+MG	3158003	Santa Maria de Itabira	10867
+MG	3136504	Jordânia	10872
+SP	3544301	Roseira	10888
+PA	1506104	Primavera	10889
+MA	2105807	Lago do Junco	10900
+BA	2902252	Arataca	10904
+SP	3548609	São Bento do Sapucaí	10907
+PB	2515401	São Vicente do Seridó	10919
+ES	3203163	Laranja da Terra	10919
+AL	2701209	Cacimbinhas	10920
+RN	2414100	Tenente Ananias	10923
+MA	2104503	Governador Archer	10931
+MG	3153608	Prudente de Morais	10931
+SP	3536000	Parapuã	10934
+MA	2102754	Capinzal do Norte	10937
+SC	4201257	Apiúna	10951
+RN	2408953	Rio do Fogo	10961
+GO	5218607	Rialma	10961
+RN	2402501	Carnaubais	10972
+PI	2206100	Matias Olímpio	10979
+MG	3165008	São Tiago	10979
+MG	3109105	Bueno Brandão	10982
+CE	2301257	Ararendá	10983
+PE	2603306	Calçado	10983
+PB	2509008	Manaíra	10988
+GO	5216403	Paraúna	10988
+MG	3104106	Arceburgo	10990
+MG	3121258	Delta	10994
+PR	4115754	Mauá da Serra	10994
+PI	2202505	Caracol	11009
+RR	1400704	Uiramutã	11014
+RN	2400307	Afonso Bezerra	11024
+PB	2516409	Tacima	11024
+SP	3513900	Divinolândia	11027
+PI	2205102	Itaueira	11037
+BA	2917334	Iuiu	11038
+SP	3504909	Bananal	11039
+RN	2412906	São Tomé	11051
+CE	2310951	Pires Ferreira	11052
+CE	2309102	Mulungu	11056
+AL	2702504	Dois Riachos	11059
+PR	4112504	Jardim Alegre	11067
+PB	2507200	Itatuba	11069
+BA	2902401	Aurelino Leal	11079
+RO	1101708	Urupá	11081
+MS	5000856	Angélica	11081
+MG	3129301	Iapu	11085
+PR	4124707	São Jerônimo da Serra	11088
+PE	2609204	Maraial	11098
+MG	3149101	Pedralva	11098
+MG	3125952	Fervedouro	11100
+RN	2400109	Acari	11106
+SC	4204004	Catanduvas	11106
+PR	4125803	São Pedro do Ivaí	11109
+MG	3161908	São Gonçalo do Rio Abaixo	11114
+PR	4110201	Inácio Martins	11117
+MT	5105200	Juscimeira	11124
+PR	4120507	Primeiro de Maio	11138
+MG	3130200	Igaratinga	11146
+SC	4204707	Cunha Porã	11150
+SE	2806107	Rosário do Catete	11158
+SC	4200200	Agrolândia	11160
+CE	2311207	Potengi	11165
+RN	2407708	Montanhas	11166
+RS	4302006	Barros Cassal	11167
+SP	3506300	Bernardino de Campos	11168
+RS	4321667	Três Cachoeiras	11174
+PB	2506103	Fagundes	11180
+RN	2402709	Cerro Corá	11182
+SP	3503604	Areiópolis	11186
+AL	2707602	Quebrangulo	11202
+MA	2111052	São João do Paraíso	11207
+RJ	3306156	Varre-Sai	11208
+PE	2612109	Salgadinho	11214
+GO	5208400	Goianápolis	11217
+CE	2304905	Groaíras	11219
+BA	2907707	Chorrochó	11221
+GO	5205802	Corumbá de Goiás	11223
+MA	2100501	Alto Parnaíba	11233
+PR	4128401	Uraí	11233
+MA	2102408	Cajapió	11255
+MG	3123700	Engenheiro Caldas	11268
+PE	2614303	Moreilândia	11269
+RS	4302303	Bom Jesus	11270
+SC	4202057	Balneário Barra do Sul	11271
+SE	2806800	São Domingos	11276
+TO	1707405	Esperantina	11280
+MA	2105922	Lagoa do Mato	11280
+BA	2911303	Gentio do Ouro	11284
+MA	2111748	Senador Alexandre Costa	11285
+PR	4102505	Barbosa Ferraz	11287
+MT	5106299	Paranaíta	11291
+PE	2601003	Angelim	11301
+PA	1507805	Senador José Porfírio	11305
+PE	2611200	Poção	11308
+SC	4218905	Urubici	11311
+BA	2919603	Macajuba	11318
+RS	4321436	Terra de Areia	11323
+MA	2109304	Presidente Vargas	11328
+RS	4313656	Palmares do Sul	11342
+MA	2101772	Bela Vista do Maranhão	11347
+MG	3133709	Itatiaiuçu	11354
+SC	4207908	Irineópolis	11354
+MG	3140852	Matias Cardoso	11360
+PI	2201101	Avelino Lopes	11361
+SE	2804102	Moita Bonita	11361
+RN	2402105	Campo Redondo	11363
+MS	5002001	Batayporã	11368
+BA	2901502	Anguera	11369
+SP	3517901	Guaraci	11382
+MG	3124906	Eugenópolis	11383
+MG	3122454	Divisópolis	11396
+PR	4118907	Pérola	11406
+CE	2307908	Martinópole	11407
+RN	2406700	Lajes	11410
+MT	5100607	Alto Taquari	11413
+MG	3152303	Porto Firme	11414
+MG	3124500	Estiva	11416
+MA	2103901	Duque Bacelar	11451
+MA	2105203	Igarapé Grande	11453
+SC	4216008	São Carlos	11456
+PI	2203206	Curimatá	11461
+PR	4117057	Nova Laranjeiras	11462
+PI	2202406	Capitão de Campos	11471
+MG	3102902	Antônio Carlos	11471
+BA	2922250	Muquém do São Francisco	11479
+SP	3517000	Getulina	11485
+AP	1600204	Calçoene	11493
+AL	2703759	Jequiá da Praia	11495
+TO	1722107	Xambioá	11500
+MG	3108255	Bonito de Minas	11502
+SP	3537206	Pedro de Toledo	11507
+SP	3557303	Estiva Gerbi	11507
+BA	2902203	Aramari	11519
+SP	3532900	Nova Europa	11519
+PR	4123907	Santa Mariana	11523
+SP	3539004	Pirangi	11524
+MA	2105963	Lagoa Grande do Maranhão	11534
+SC	4202073	Balneário Gaivota	11537
+RO	1101757	Vale do Anari	11545
+PE	2608255	Jucati	11545
+MG	3114006	Carmo da Mata	11546
+MS	5003488	Dois Irmãos do Buriti	11547
+SP	3520426	Ilha Comprida	11552
+RS	4315800	Roca Sales	11556
+RJ	3301603	Duas Barras	11563
+MG	3160306	Santo Antônio do Jacinto	11570
+PI	2205003	Itainópolis	11571
+AL	2706109	Ouro Branco	11573
+RS	4312708	Nonoai	11574
+SP	3532603	Nhandeara	11575
+MG	3154200	Resende Costa	11578
+CE	2306801	Jaguaribara	11580
+BA	2919306	Lençóis	11586
+BA	2930006	Sebastião Laranjeiras	11586
+MT	5100508	Alto Paraguai	11587
+PR	4110953	Itaipulândia	11588
+CE	2305654	Ipaporanga	11597
+BA	2906857	Capela do Alto Alegre	11597
+PR	4100806	Alvorada do Sul	11598
+SE	2802403	Gararu	11599
+PE	2610301	Paranatama	11608
+MG	3109709	Cachoeira de Minas	11609
+ES	3204401	Rio Novo do Sul	11630
+PE	2607950	Jaqueira	11632
+MG	3131802	Itabirinha	11637
+GO	5203203	Barro Alto	11643
+TO	1703800	Buriti do Tocantins	11644
+SC	4215109	Rodeio	11647
+MG	3111309	Campo do Meio	11648
+SC	4206207	Gravatal	11652
+BA	2901700	Antônio Cardoso	11670
+BA	2926905	Rio do Pires	11672
+SC	4213401	Ponte Serrada	11674
+MG	3168507	Teixeiras	11680
+AL	2706000	Olivença	11681
+PR	4118105	Paranacity	11685
+PI	2204303	Fronteiras	11690
+RN	2400802	Angicos	11695
+MT	5108501	Vera	11731
+BA	2929404	São Miguel das Matas	11733
+ES	3204302	Presidente Kennedy	11741
+MG	3166808	Serra do Salitre	11750
+PI	2201150	Baixa Grande do Ribeiro	11751
+RO	1100924	Chupinguaia	11755
+CE	2301406	Aratuba	11759
+RR	1400407	Normandia	11772
+RS	4315404	Redentora	11782
+TO	1722081	Wanderlândia	11783
+MG	3162559	São João do Manhuaçu	11785
+PB	2515104	São Sebastião de Lagoa de Roça	11793
+MS	5007950	Tacuru	11795
+RN	2411403	Santana do Matos	11808
+MG	3127602	Gouveia	11811
+MG	3106507	Berilo	11813
+MS	5002308	Brasilândia	11835
+RO	1101500	Seringueiras	11846
+CE	2300507	Alcântaras	11846
+MG	3117801	Conceição dos Ouros	11852
+MG	3109907	Caetanópolis	11869
+PR	4105300	Céu Azul	11872
+RS	4322533	Vale do Sol	11873
+PB	2506707	Imaculada	11877
+SC	4202206	Benedito Novo	11896
+PE	2612802	Santa Terezinha	11914
+AM	1300060	Amaturá	11934
+MT	5107859	São Félix do Araguaia	11934
+SC	4214706	Rio dos Cedros	11937
+MA	2106003	Lima Campos	11943
+BA	2901809	Antônio Gonçalves	11955
+CE	2300101	Abaiara	11965
+MA	2104909	Guimarães	11966
+PR	4116109	Moreira Sales	11966
+PR	4109302	Guaraniaçu	11969
+PA	1507961	Terra Alta	11971
+PE	2604304	Cedro	11972
+SC	4203303	Campo Alegre	11985
+MG	3149705	Perdigão	11994
+TO	1716604	Peixe	11996
+SP	3519105	Iacanga	12002
+PA	1503408	Inhangapi	12009
+TO	1714880	Nova Olinda	12014
+BA	2925709	Presidente Jânio Quadros	12028
+SC	4211009	Mondaí	12034
+PB	2511509	Pilar	12036
+RJ	3300159	Aperibé	12036
+PR	4127858	Três Barras do Paraná	12036
+BA	2903706	Boa Nova	12039
+BA	2921807	Mortugaba	12063
+MA	2110856	São Francisco do Brejão	12082
+SP	3544905	Sales Oliveira	12103
+MA	2104305	Godofredo Viana	12104
+SP	3506904	Bofete	12107
+PR	4112801	Joaquim Távora	12108
+SC	4209706	Lebon Régis	12122
+RS	4314506	Pinheiro Machado	12122
+PB	2513109	Salgado de São Félix	12123
+BA	2933455	Wanderley	12125
+PB	2502409	Bonito de Santa Fé	12126
+SP	3550803	São Sebastião da Grama	12137
+BA	2915106	Itagi	12140
+PI	2208106	Pimenteiras	12150
+BA	2929750	Saubara	12163
+PE	2601508	Belém de Maria	12169
+ES	3204500	Santa Leopoldina	12171
+PA	1502608	Colares	12175
+MT	5106828	Porto Esperidião	12176
+RS	4304689	Capela de Santana	12183
+MG	3102803	Andrelândia	12189
+MG	3113909	Carmo da Cachoeira	12193
+SE	2806602	Santo Amaro das Brotas	12200
+MG	3130051	Icaraí de Minas	12200
+MG	3117900	Congonhal	12209
+PR	4111209	Itapejara d'Oeste	12220
+RN	2413359	Serra do Mel	12225
+MA	2110906	São Francisco do Maranhão	12226
+MA	2101103	Axixá	12234
+MG	3152170	Ponto dos Volantes	12235
+BA	2902054	Araçás	12237
+MG	3135506	Jequeri	12246
+MG	3111804	Canápolis	12251
+PR	4121000	Querência do Norte	12257
+MG	3133204	Itanhomi	12259
+PE	2606903	Iguaracy	12265
+PR	4128534	Ventania	12267
+ES	3200706	Atílio Vivácqua	12270
+MA	2106102	Loreto	12271
+CE	2310407	Paramoti	12276
+AC	1200179	Capixaba	12280
+BA	2910107	Dom Basílio	12281
+RS	4302907	Cacequi	12291
+BA	2928059	Santa Luzia	12308
+CE	2309805	Pacoti	12313
+MG	3149150	Pedras de Maria da Cruz	12313
+RN	2413904	Taipu	12314
+SC	4204558	Correia Pinto	12315
+MG	3134707	Jacinto	12320
+MT	5100409	Alto Garças	12323
+PR	4123402	Santa Fé	12330
+ES	3203106	Jerônimo Monteiro	12336
+MT	5103056	Cláudia	12338
+MG	3155504	Rio Paranaíba	12356
+BA	2919405	Licínio de Almeida	12357
+CE	2311009	Poranga	12358
+BA	2921054	Matina	12359
+MG	3141009	Mato Verde	12367
+SP	3510708	Cardoso	12371
+RN	2405702	Jardim do Seridó	12397
+PB	2510907	Paulista	12411
+SP	3517208	Guaiçara	12416
+SP	3557204	Chavantes	12418
+SP	3514502	Duartina	12421
+TO	1720200	São Miguel do Tocantins	12445
+MG	3151602	Planura	12445
+MS	5003751	Eldorado	12447
+RS	4302402	Bom Retiro do Sul	12448
+ES	3201159	Brejetuba	12450
+RS	4306205	Cruzeiro do Sul	12457
+BA	2916906	Itiruçu	12482
+MT	5106240	Nova Ubiratã	12492
+MG	3165552	Setubinha	12493
+MG	3104700	Ataléia	12496
+AC	1200393	Porto Walter	12497
+SC	4209904	Lontras	12497
+CE	2305704	Ipaumirim	12507
+MG	3130507	Ilicínea	12511
+MS	5001243	Aral Moreira	12511
+RS	4316451	Salto do Jacuí	12512
+MG	3170057	Ubaporanga	12514
+BA	2930907	Tabocas do Brejo Velho	12515
+SP	3509908	Cananéia	12542
+PE	2604809	Cortês	12543
+SC	4203709	Canelinha	12553
+BA	2933158	Várzea Nova	12556
+GO	5207402	Edéia	12559
+SP	3552601	Tabapuã	12561
+SP	3506805	Bocaina	12571
+RS	4305173	Cerro Grande do Sul	12579
+SP	3526506	Lavínia	12581
+PR	4120002	Porecatu	12587
+ES	3204955	São Roque do Canaã	12602
+MG	3156007	Rio Vermelho	12635
+RR	1400282	Iracema	12637
+SP	3519402	Ibirá	12639
+PI	2208502	Porto	12646
+BA	2923035	Novo Horizonte	12653
+MG	3170008	Ubaí	12661
+MA	2104107	Fortaleza dos Nogueiras	12662
+PR	4112702	Jataizinho	12687
+SE	2803906	Malhador	12689
+RR	1400159	Bonfim	12701
+ES	3202504	Ibiraçu	12701
+PE	2612471	Santa Cruz da Baixa Verde	12708
+MG	3164209	São Romão	12713
+RN	2407500	Maxaranguape	12714
+CE	2305332	Ibicuitinga	12730
+MA	2100154	Água Doce do Maranhão	12731
+SP	3551801	Sete Barras	12731
+MG	3161502	São Geraldo	12751
+PR	4117800	Palmital	12755
+PR	4127007	Teixeira Soares	12761
+RJ	3300225	Areal	12763
+MG	3161809	São Gonçalo do Pará	12776
+PI	2210805	Simplício Mendes	12778
+MA	2111532	São Pedro da Água Branca	12779
+RN	2414803	Vera Cruz	12789
+MG	3110707	Cambuquira	12810
+PE	2601805	Betânia	12811
+RJ	3301157	Cardoso Moreira	12818
+AL	2702801	Flexeiras	12823
+AL	2705606	Novo Lino	12837
+PE	2614709	Tacaimbó	12843
+GO	5204102	Cachoeira Alta	12843
+MT	5106778	Porto Alegre do Norte	12849
+SP	3544202	Riolândia	12856
+RN	2409308	Patu	12861
+PR	4121901	Ribeirão do Pinhal	12869
+RN	2401800	Brejinho	12873
+MT	5106216	Nova Canaã do Norte	12876
+BA	2926707	Rio de Contas	12878
+GO	5204706	Campinorte	12880
+ES	3201704	Conceição do Castelo	12887
+RS	4312500	Mostardas	12888
+PR	4114005	Mamborê	12900
+RN	2412302	São José do Campestre	12901
+MG	3132305	Itaipé	12910
+MA	2103752	Davinópolis	12923
+MA	2109205	Presidente Juscelino	12939
+PR	4105607	Cidade Gaúcha	12939
+SP	3553609	Tapiratiba	12940
+SP	3541208	Presidente Bernardes	12943
+BA	2920403	Manoel Vitorino	12944
+BA	2911857	Heliópolis	12946
+BA	2902005	Aracatu	12960
+BA	2913457	Igrapiúna	12963
+BA	2929800	Saúde	12971
+PA	1505635	Piçarra	12976
+PR	4127965	Turvo	12977
+MG	3139805	Mar de Espanha	12985
+PR	4119103	Piên	13015
+BA	2931707	Terra Nova	13018
+GO	5214838	Nova Crixás	13020
+SP	3529807	Mineiros do Tietê	13023
+RS	4300802	Antônio Prado	13041
+MS	5003454	Deodápolis	13043
+ES	3202256	Governador Lindenberg	13047
+MG	3120201	Cristais	13060
+SC	4218806	Turvo	13080
+CE	2312601	São Luís do Curu	13086
+ES	3203353	Marilândia	13091
+MT	5106109	Nossa Senhora do Livramento	13093
+BA	2930758	Sítio do Mato	13104
+CE	2303907	Chaval	13112
+RN	2404309	Governador Dix-Sept Rosado	13115
+MG	3137403	Lagoa Dourada	13115
+PE	2603926	Carnaubeira da Penha	13117
+BA	2901304	Andaraí	13122
+AL	2704807	Maribondo	13123
+BA	2903003	Barra do Mendes	13128
+SC	4215455	Sangão	13128
+CE	2308351	Milhã	13129
+SC	4220000	Balneário Rincão	13129
+MG	3143005	Monte Belo	13139
+TO	1709005	Goiatins	13169
+PR	4117107	Nova Londrina	13188
+BA	2922656	Nordestina	13197
+PE	2602704	Buenos Aires	13224
+MG	3162450	São João das Missões	13232
+PB	2509404	Mogeiro	13238
+PR	4102307	Balsa Nova	13238
+PR	4122156	Rio Bonito do Iguaçu	13240
+BA	2902658	Banzaê	13251
+RO	1100379	Alto Alegre dos Parecis	13268
+RS	4306007	Crissiumal	13269
+SP	3535002	Palestina	13285
+PE	2608602	Lagoa do Ouro	13300
+GO	5219803	São Domingos	13305
+PR	4103107	Bocaiúva do Sul	13308
+MG	3100609	Água Boa	13319
+PR	4104451	Cantagalo	13340
+PB	2508604	Lucena	13344
+SC	4210001	Luiz Alves	13347
+MG	3123205	Dores do Indaiá	13373
+SP	3542909	Ribeirão Bonito	13376
+MG	3154903	Rio Casca	13384
+CE	2305266	Ibaretama	13385
+PR	4119806	Planalto	13385
+RS	4321402	Tenente Portela	13385
+SE	2803401	Japoatã	13422
+MG	3100302	Abre Campo	13434
+PR	4110078	Imbaú	13449
+BA	2905503	Caldeirão Grande	13452
+RS	4301206	Arroio do Tigre	13452
+SP	3525508	Joanópolis	13453
+AL	2706448	Paripueira	13484
+BA	2930600	Serrolândia	13490
+PE	2607703	Itapetim	13492
+SP	3538501	Piquete	13495
+MG	3140506	Martinho Campos	13497
+MG	3132206	Itaguara	13510
+PR	4114500	Manoel Ribas	13517
+RN	2400505	Alexandria	13529
+SE	2807501	Tomar do Geru	13534
+BA	2924058	Pé de Serra	13535
+TO	1713304	Miranorte	13551
+CE	2310100	Palmácia	13553
+RR	1400027	Amajari	13561
+GO	5207808	Firminópolis	13604
+CE	2303931	Choró	13608
+PB	2500908	Arara	13613
+RS	4301909	Barra do Ribeiro	13618
+BA	2920908	Mascote	13619
+PE	2604403	Chã de Alegria	13641
+PR	4110607	Iporã	13642
+MG	3142007	Mirabela	13651
+MG	3101003	Águas Vermelhas	13656
+PR	4108502	General Carneiro	13661
+RN	2409100	Passa e Fica	13667
+ES	3202652	Irupi	13672
+MS	5002605	Camapuã	13675
+SP	3535101	Palmares Paulista	13691
+PR	4113908	Mallet	13697
+MA	2110237	Santana do Maranhão	13704
+MT	5104609	Itiquira	13727
+RS	4308102	Feliz	13728
+MG	3117702	Conceição do Rio Verde	13729
+MG	3171600	Virgem da Lapa	13729
+SP	3556107	Valentim Gentil	13732
+BA	2909406	Cotegipe	13756
+SC	4201950	Balneário Arroio do Silva	13782
+SP	3541901	Queluz	13788
+PA	1506112	Quatipuru	13794
+MS	5005806	Nioaque	13794
+GO	5221700	Uruana	13795
+MA	2112852	Vila Nova dos Martírios	13800
+PB	2512408	Puxinanã	13801
+RO	1100346	Alvorada D'Oeste	13807
+PB	2515500	Serra Branca	13807
+SC	4216701	São José do Cedro	13811
+RS	4317806	Santo Augusto	13813
+BA	2920452	Mansidão	13822
+AM	1304260	Uarini	13839
+PE	2615508	Tracunhaém	13856
+PR	4111902	Jaguapitã	13861
+PI	2203305	Demerval Lobão	13862
+MA	2103158	Centro do Guilherme	13876
+SC	4217006	São Ludgero	13886
+PR	4103909	Campina da Lagoa	13888
+SP	3539400	Piratininga	13890
+AL	2708956	Senador Rui Palmeira	13893
+BA	2932408	Uibaí	13894
+BA	2901403	Angical	13902
+BA	2927606	Santa Brígida	13917
+GO	5213756	Montividiu	13935
+SP	3532009	Morungaba	13936
+PR	4107504	Engenheiro Beltrão	13962
+TO	1716505	Pedro Afonso	13964
+CE	2308377	Miraíma	13965
+SP	3556008	Urupês	13965
+BA	2902500	Baianópolis	13979
+MA	2111763	Senador La Rocque	13981
+BA	2909703	Cristópolis	13981
+ES	3202702	Itaguaçu	13982
+CE	2313906	Uruoca	13988
+TO	1711902	Lagoa da Confusão	13989
+PR	4118808	Peabiru	14017
+MG	3139904	Maria da Fé	14019
+PR	4101705	Araruna	14029
+RN	2404606	Ielmo Marinho	14033
+AL	2708907	Satuba	14042
+PA	1502764	Cumaru do Norte	14044
+PR	4111407	Ivaí	14049
+SP	3504404	Avanhandava	14063
+ES	3205176	Vila Valério	14065
+SP	3528809	Maracaí	14069
+MG	3109501	Cabo Verde	14074
+PB	2509206	Massaranduba	14077
+ES	3202603	Iconha	14083
+GO	5222005	Vianópolis	14088
+PA	1507508	São João do Araguaia	14105
+BA	2909109	Coribe	14108
+PB	2506400	Gurinhém	14125
+MG	3129707	Ibiraci	14128
+BA	2933059	Várzea da Roça	14135
+RJ	3301801	Engenheiro Paulo de Frontin	14138
+BA	2904308	Brejões	14155
+BA	2922607	Nilo Peçanha	14156
+SC	4217600	Siderópolis	14176
+RS	4317905	Santo Cristo	14177
+CE	2304509	Frecheirinha	14195
+RS	4301107	Arroio dos Ratos	14201
+SE	2806305	Santa Luzia do Itanhy	14205
+GO	5209200	Guapó	14206
+PR	4118006	Paraíso do Norte	14211
+GO	5209903	Iaciara	14215
+MG	3116159	Chapada Gaúcha	14217
+BA	2913804	Ipecaetá	14229
+RS	4305207	Cerro Largo	14243
+MG	3128105	Guapé	14269
+MA	2111722	Satubinha	14274
+MG	3168408	Tarumirim	14280
+PB	2502805	Brejo do Cruz	14287
+AM	1300086	Anamã	14292
+SP	3522901	Itapuí	14297
+PE	2612703	Santa Maria do Cambucá	14308
+SP	3541703	Quatá	14309
+MG	3155702	Rio Piracicaba	14325
+SP	3534906	Pacaembu	14326
+BA	2915205	Itagibá	14331
+CE	2306009	Iracema	14351
+PI	2210508	São Pedro do Piauí	14356
+MG	3104601	Astolfo Dutra	14358
+MG	3108909	Brazópolis	14364
+MA	2108405	Peri Mirim	14371
+PI	2200301	Alto Longá	14371
+MT	5108006	Tapurah	14380
+RO	1100700	Campo Novo de Rondônia	14391
+PR	4104709	Carlópolis	14391
+PE	2604155	Casinhas	14395
+PI	2205409	Joaquim Pires	14396
+PR	4115408	Marmeleiro	14407
+CE	2304657	Graça	14415
+BA	2906600	Candiba	14415
+SP	3553005	Taguaí	14415
+BA	2901353	Andorinha	14416
+GO	5220009	São João d'Aliança	14423
+RS	4302352	Bom Princípio	14446
+AL	2707206	Poço das Trincheiras	14447
+PB	2507309	Jacaraú	14467
+MA	2105153	Igarapé do Meio	14470
+BA	2912905	Ibirataia	14476
+MG	3157708	Santa Juliana	14497
+MA	2110302	Santo Antônio dos Lopes	14516
+BA	2904001	Boninal	14518
+RN	2401206	Arês	14526
+MA	2102556	Campestre do Maranhão	14530
+BA	2930402	Serra Preta	14531
+SC	4207106	Ilhota	14531
+PI	2203503	Elesbão Veloso	14550
+CE	2309003	Mucambo	14561
+RJ	3304128	Quatis	14562
+MG	3102001	Alterosa	14566
+GO	5213004	Maurilândia	14568
+BA	2918209	Jiquiriçá	14576
+MS	5006358	Paranhos	14576
+BA	2916856	Itatim	14588
+BA	2926103	Retirolândia	14588
+MG	3110301	Caldas	14600
+PR	4104402	Cândido de Abreu	14606
+MG	3158201	Santa Maria do Suaçuí	14607
+MG	3106903	Bicas	14612
+MG	3142700	Montalvânia	14621
+MG	3140803	Matias Barbosa	14626
+PB	2500502	Alagoinha	14629
+BA	2926509	Ribeira do Amparo	14631
+PE	2601300	Barra de Guabiraba	14632
+PI	2207504	Palmeirais	14633
+PE	2612554	Santa Filomena	14645
+RS	4301636	Balneário Pinhal	14645
+SE	2804904	Pacatuba	14650
+BA	2915353	Itaguaçu da Bahia	14650
+PI	2210706	Simões	14664
+ES	3200300	Alfredo Chaves	14670
+BA	2905156	Caetanos	14671
+AM	1303957	São Sebastião do Uatumã	14678
+RN	2414209	Tibau do Sul	14694
+MA	2104602	Governador Eugênio Barros	14703
+BA	2925253	Ponto Novo	14729
+SC	4206009	Governador Celso Ramos	14739
+CE	2300903	Apuiarés	14742
+PA	1502855	Curuá	14776
+BA	2929008	São Félix	14784
+PE	2616506	Xexéu	14789
+PB	2516607	Tavares	14791
+MG	3107802	Bom Jesus do Galho	14792
+PR	4101903	Assaí	14792
+PE	2600609	Alagoinha	14798
+MA	2107209	Nina Rodrigues	14826
+MT	5103700	Feliz Natal	14847
+MA	2103257	Cidelândia	14855
+BA	2917409	Jacaraci	14855
+RN	2409803	Pedro Velho	14881
+PA	1501725	Brasil Novo	14883
+MG	3112000	Candeias	14890
+PE	2608057	Jatobá	14904
+CE	2311108	Porteiras	14920
+RN	2400703	Alto do Rodrigues	14923
+PR	4123808	Santa Izabel do Oeste	14924
+SP	3546009	Santa Branca	14925
+MG	3108404	Botelhos	14927
+SP	3516002	Flórida Paulista	14936
+RN	2414605	Upanema	14937
+SP	3536307	Patrocínio Paulista	14941
+PR	4100608	Alto Paraná	14945
+PR	4123006	Salto do Lontra	14957
+MA	2107456	Olinda Nova do Maranhão	14968
+BA	2912509	Ibipitanga	14989
+PR	4121505	Rebouças	14991
+PE	2608305	Jupi	15007
+SC	4211504	Nova Trento	15010
+MG	3114105	Carmo de Minas	15031
+RS	4320701	Sobradinho	15041
+RN	2405603	Jardim de Piranhas	15044
+MG	3134004	Itinga	15053
+MA	2106805	Mirinzal	15059
+CE	2302057	Barroquinha	15069
+BA	2931608	Teolândia	15097
+SP	3506706	Boa Esperança do Sul	15111
+MG	3102308	Alvinópolis	15135
+CE	2300150	Acarape	15140
+ES	3201001	Boa Esperança	15146
+SP	3520905	Ipaussu	15165
+BA	2903235	Barro Alto	15171
+BA	2925600	Presidente Dutra	15180
+SP	3522802	Itaporanga	15197
+MG	3142205	Miraí	15205
+PB	2516102	Soledade	15211
+RO	1100064	Colorado do Oeste	15213
+BA	2900306	Acajutiba	15214
+PE	2611408	Primavera	15231
+PE	2615706	Triunfo	15232
+BA	2918506	Jussara	15241
+BA	2911402	Glória	15247
+RR	1400050	Alto Alegre	15249
+AL	2706505	Passo de Camaragibe	15270
+PR	4126678	Tamarana	15277
+MG	3104304	Areado	15288
+PR	4107009	Curiúva	15289
+SP	3551405	Serra Azul	15292
+RJ	3303104	Natividade	15305
+CE	2308203	Meruoca	15309
+PE	2609808	Orocó	15309
+SE	2804201	Monte Alegre de Sergipe	15315
+SP	3504206	Auriflama	15316
+PR	4110508	Ipiranga	15327
+PI	2204709	Inhuma	15330
+SP	3521903	Itajobi	15331
+MT	5105903	Nobres	15332
+PB	2516706	Teixeira	15333
+MG	3116100	Chapada do Norte	15334
+PB	2516904	Uiraúna	15356
+PR	4125100	São João do Triunfo	15359
+SP	3553955	Tarumã	15361
+MG	3156809	Sabinópolis	15364
+SC	4209607	Lauro Müller	15380
+RJ	3302056	Italva	15387
+MG	3112703	Capitão Enéas	15388
+PR	4102802	Bela Vista do Paraíso	15400
+RN	2409902	Pendências	15411
+PA	1508357	Vitória do Xingu	15421
+PR	4122008	Rio Azul	15433
+PB	2504801	Coremas	15438
+BA	2923050	Novo Triunfo	15445
+SP	3550902	São Simão	15446
+MS	5003157	Coronel Sapucaia	15449
+MG	3123908	Entre Rios de Minas	15458
+PB	2513406	Santa Luzia	15470
+MG	3136009	Joaíma	15476
+PE	2608404	Jurema	15483
+AM	1302207	Juruá	15495
+MA	2102358	Buritirana	15503
+PB	2516508	Taperoá	15505
+MG	3133105	Itanhandu	15511
+MG	3133402	Itapagipe	15511
+SC	4211603	Nova Veneza	15515
+BA	2926806	Rio do Antônio	15521
+RJ	3300902	Cambuci	15521
+MG	3125705	Felixlândia	15528
+MG	3120805	Cruzília	15529
+BA	2929057	São Félix do Coribe	15543
+MA	2109403	Primeira Cruz	15545
+PE	2609303	Mirandiba	15548
+RS	4306502	Dom Feliciano	15556
+SP	3538204	Pinhalzinho	15564
+SP	3514809	Eldorado	15592
+SC	4205001	Dionísio Cerqueira	15592
+RS	4307500	Espumoso	15594
+ES	3203809	Muqui	15602
+SP	3519055	Holambra	15605
+PB	2501609	Barra de Santa Rosa	15607
+SP	3527603	Luís Antônio	15628
+PE	2605806	Frei Miguelinho	15633
+AL	2703007	Ibateguara	15637
+SP	3545605	Santa Adélia	15639
+PA	1505007	Nova Timboteua	15646
+RN	2410108	Poço Branco	15646
+ES	3203304	Mantenópolis	15653
+BA	2913408	Igaporã	15661
+MG	3111507	Campos Altos	15661
+SP	3555109	Tupi Paulista	15670
+MA	2100873	Araguanã	15675
+SE	2802304	Frei Paulo	15688
+RS	4315503	Restinga Sêca	15702
+RJ	3305703	Sumidouro	15709
+PE	2612455	Santa Cruz	15713
+AC	1200013	Acrelândia	15721
+RS	4309001	Giruá	15729
+MT	5104203	Guiratinga	15740
+CE	2311900	Saboeiro	15757
+RN	2404705	Ipanguaçu	15759
+MG	3162807	São João Evangelista	15761
+MA	2111029	São João do Carú	15768
+CE	2309201	Nova Olinda	15798
+MG	3140159	Mário Campos	15814
+GO	5215306	Orizona	15834
+MG	3133006	Itamonte	15844
+BA	2918753	Lagoa Real	15870
+RN	2406502	Lagoa Nova	15880
+PE	2612307	Saloá	15880
+PR	4104600	Capitão Leônidas Marques	15887
+BA	2910404	Encruzilhada	15914
+MG	3146909	Papagaios	15922
+SP	3544251	Rosana	15929
+MT	5107008	Poxoréu	15936
+MG	3127800	Grão Mogol	15943
+SP	3535408	Panorama	15944
+GO	5209952	Indiara	15962
+PA	1507409	São Francisco do Pará	15978
+AM	1300904	Canutama	15981
+SP	3543006	Ribeirão Branco	15984
+BA	2903607	Biritinga	15989
+BA	2931806	Tremedal	15996
+PE	2608206	Joaquim Nabuco	15999
+RN	2414001	Tangará	16008
+MS	5000203	Água Clara	16025
+MG	3145000	Nova Ponte	16046
+BA	2927309	Salinas da Margarida	16047
+MT	5106158	Nova Bandeirantes	16052
+MA	2100808	Anapurus	16054
+CE	2300705	Alto Santo	16077
+GO	5214002	Mozarlândia	16077
+BA	2901155	América Dourada	16086
+RO	1100056	Cerejeiras	16088
+RS	4319406	São Pedro do Sul	16100
+SP	3515400	Fartura	16102
+CE	2311355	Quixelô	16116
+PR	4104428	Candói	16126
+SP	3549953	São Lourenço da Serra	16127
+BA	2908002	Coaraci	16128
+SC	4212106	Palmitos	16144
+PB	2511301	Piancó	16147
+RO	1101401	Monte Negro	16158
+MA	2105351	Itaipava do Grajaú	16158
+RS	4308904	Getúlio Vargas	16158
+BA	2915007	Itaeté	16164
+AL	2700508	Barra de Santo Antônio	16201
+MA	2110278	Santo Amaro do Maranhão	16219
+SP	3501004	Altinópolis	16221
+MT	5102603	Campinápolis	16223
+BA	2903276	Barrocas	16225
+MA	2105609	Joselândia	16228
+PE	2612901	São Benedito do Sul	16239
+RN	2404507	Guamaré	16261
+BA	2912301	Ibicuí	16262
+MS	5004304	Iguatemi	16273
+SP	3507407	Borborema	16278
+PA	1504752	Mojuí dos Campos	16282
+MG	3133758	Itaú de Minas	16286
+MG	3112604	Capinópolis	16294
+MA	2108058	Paulino Neves	16295
+SC	4204509	Corupá	16300
+BA	2924504	Pindaí	16308
+BA	2910859	Filadélfia	16314
+PR	4105706	Clevelândia	16344
+RS	4300109	Agudo	16344
+PE	2608701	Lagoa dos Gatos	16345
+CE	2310803	Pereiro	16356
+MA	2105906	Lago Verde	16369
+RS	4316600	Sananduva	16382
+MG	3157906	Santa Margarida	16393
+AM	1300029	Alvarães	16396
+AM	1301605	Fonte Boa	16409
+PR	4102901	Bituruna	16411
+MT	5105507	Vila Bela da Santíssima Trindade	16412
+PA	1501006	Aveiro	16421
+MG	3147600	Passa Quatro	16439
+PR	4126504	Sertanópolis	16456
+BA	2913002	Ibitiara	16463
+MG	3149804	Perdizes	16469
+PR	4126801	Tapejara	16480
+BA	2922706	Nova Canaã	16482
+PR	4116208	Morretes	16485
+MG	3153905	Raposos	16501
+GO	5204300	Caçu	16525
+PE	2609105	Machados	16549
+MA	2103554	Conceição do Lago-Açu	16559
+AP	1600808	Vitória do Jari	16572
+PR	4114401	Mangueirinha	16572
+MA	2102077	Bom Lugar	16578
+CE	2313559	Tururu	16588
+BA	2932606	Urandi	16672
+MG	3152402	Poté	16675
+BA	2924207	Pedro Alexandre	16698
+CE	2311959	Salitre	16714
+MG	3138609	Lima Duarte	16749
+MA	2106375	Maranhãozinho	16754
+PA	1501600	Bonito	16769
+MG	3169000	Tocantins	16769
+ES	3203130	João Neiva	16774
+CE	2304459	Fortim	16776
+SP	3552700	Tabatinga	16787
+SP	3521309	Ipuã	16794
+MT	5105176	Juruena	16811
+BA	2906824	Canudos	16832
+BA	2924306	Piatã	16854
+MG	3110905	Campanha	16855
+PB	2500809	Araçagi	16857
+RJ	3300936	Carapebus	16859
+BA	2920205	Malhada	16875
+AM	1304104	Tapauá	16876
+SP	3537008	Pedregulho	16876
+SP	3517604	Guapiara	16896
+RS	4305454	Cidreira	16897
+MG	3151701	Poço Fundo	16900
+AL	2701704	Capela	16907
+MG	3145109	Nova Resende	16937
+BA	2931301	Tapiramutá	16939
+MG	3108552	Brasilândia de Minas	16950
+SC	4204251	Cocal do Sul	16956
+TO	1720903	Taguatinga	16966
+MA	2104008	Esperantinópolis	16971
+PR	4121406	Realeza	16976
+BA	2904050	Bonito	16999
+MT	5107701	Rosário Oeste	16999
+SC	4215505	Santa Cecília	17004
+BA	2903508	Belo Campo	17013
+MT	5105606	Matupá	17017
+PA	1504976	Nova Ipixuna	17027
+BA	2913101	Ibititá	17048
+PR	4127304	Terra Rica	17054
+PE	2607802	Itaquitinga	17056
+MT	5101258	Araputanga	17078
+BA	2908309	Conceição do Almeida	17087
+PB	2516300	Sumé	17096
+BA	2900405	Água Fria	17096
+BA	2908705	Condeúba	17113
+BA	2930808	Souto Soares	17118
+MA	2106409	Mata Roma	17122
+MA	2105476	Jenipapo dos Vieiras	17123
+RS	4323804	Xangri-lá	17126
+GO	5206404	Crixás	17136
+SC	4208401	Itapiranga	17139
+ES	3203346	Marechal Floriano	17141
+PR	4106308	Corbélia	17162
+PB	2503506	Cacimba de Dentro	17169
+ES	3203700	Muniz Freire	17176
+MT	5107800	Santo Antônio do Leverger	17188
+BA	2900355	Adustina	17209
+CE	2310902	Piquet Carneiro	17210
+SE	2801504	Carmópolis	17232
+PA	1501576	Bom Jesus do Tocantins	17254
+BA	2930303	Serra Dourada	17261
+SP	3528007	Macatuba	17263
+CE	2308609	Monsenhor Tabosa	17264
+BA	2907608	Central	17293
+PR	4127601	Tijucas do Sul	17295
+MG	3161007	São Domingos do Prata	17296
+PR	4127205	Terra Boa	17304
+PE	2608008	Jataúba	17305
+MA	2106631	Matões do Norte	17316
+MA	2108900	Poção de Pedras	17321
+SE	2804003	Maruim	17328
+BA	2929701	Sátiro Dias	17330
+SC	4210605	Massaranduba	17330
+SP	3545001	Salesópolis	17363
+RS	4321105	Tapes	17363
+SP	3538105	Pindorama	17378
+PR	4107603	Faxinal	17379
+MG	3154309	Resplendor	17396
+BA	2907905	Cipó	17402
+SP	3521705	Itaberá	17405
+SP	3508108	Buritama	17414
+GO	5207907	Flores de Goiás	17415
+BA	2929602	Sapeaçu	17421
+MG	3117504	Conceição do Mato Dentro	17438
+MA	2101251	Bacabeira	17446
+MS	5006903	Porto Murtinho	17460
+MG	3170529	Urucuia	17470
+AL	2700201	Anadia	17507
+BA	2931053	Tanque Novo	17518
+MG	3144706	Nova Era	17524
+PI	2200202	Água Branca	17525
+MG	3148608	Peçanha	17534
+SP	3511706	Charqueada	17539
+MT	5106372	Pedra Preta	17547
+PR	4127403	Terra Roxa	17562
+BA	2923357	Ourolândia	17567
+MA	2100832	Apicum-Açu	17582
+CE	2300408	Aiuaba	17584
+PB	2504900	Cruz do Espírito Santo	17599
+PI	2200509	Amarante	17609
+SC	4217501	Seara	17610
+MG	3108008	Bom Sucesso	17612
+PI	2210409	São Miguel do Tapuio	17617
+AP	1600154	Pedra Branca do Amapari	17625
+TO	1713205	Miracema do Tocantins	17628
+MG	3150802	Piranga	17641
+SP	3540804	Potirendaba	17668
+AL	2704104	Lagoa da Canoa	17692
+AL	2701605	Canapi	17715
+CE	2312106	Santana do Cariri	17726
+PB	2501906	Belém	17733
+MG	3115102	Cássia	17741
+SP	3523305	Itariri	17754
+CE	2303402	Carnaubal	17763
+PA	1502772	Curionópolis	17764
+BA	2910750	Fátima	17801
+MA	2104206	Fortuna	17812
+SP	3551900	Severínia	17820
+CE	2302909	Capistrano	17830
+BA	2901908	Aporá	17840
+MG	3104502	Arinos	17850
+RN	2412609	São Paulo do Potengi	17858
+AL	2706802	Piaçabuçu	17868
+PR	4105201	Cerro Azul	17884
+RS	4312658	Não-Me-Toque	17886
+GO	5217708	Pontalina	17899
+SP	3524600	Jacupiranga	17911
+SP	3508801	Cafelândia	17917
+PB	2502508	Boqueirão	17934
+PA	1501451	Belterra	17944
+MA	2104404	Gonçalves Dias	17953
+SC	4213708	Pouso Redondo	17965
+SC	4214003	Presidente Getúlio	17973
+PI	2208809	Regeneração	17979
+MG	3155801	Rio Pomba	18007
+SP	3504602	Bady Bassitt	18013
+SC	4200101	Abelardo Luz	18015
+PB	2500700	São João do Rio do Peixe	18020
+MG	3139300	Manga	18051
+RS	4320404	Serafina Corrêa	18074
+PA	1505403	Ourém	18079
+RS	4318101	São Francisco de Assis	18081
+SP	3514908	Elias Fausto	18095
+SC	4211207	Morro da Fumaça	18095
+BA	2932507	Una	18108
+CE	2306702	Jaguaretama	18133
+SP	3512308	Conchas	18138
+PE	2613800	São Vicente Férrer	18150
+RO	1100254	Presidente Médici	18165
+MG	3137502	Lagoa Formosa	18168
+MG	3132107	Itacarambi	18175
+SE	2801702	Cristinápolis	18181
+PB	2506806	Ingá	18184
+RS	4301305	Arroio Grande	18185
+CE	2304236	Croatá	18201
+AL	2705200	Messias	18201
+PA	1507102	São Caetano de Odivelas	18207
+PA	1506161	Rio Maria	18208
+AP	1600709	Tartarugalzinho	18217
+MA	2111805	Sítio Novo	18237
+PR	4115606	Matelândia	18266
+GO	5212204	Jussara	18266
+BA	2904704	Buerarema	18269
+RJ	3305406	Sapucaia	18270
+MG	3137007	Ladainha	18272
+CE	2311702	Reriutaba	18279
+MG	3138807	Luz	18297
+AM	1302801	Maraã	18298
+SP	3535606	Paraibuna	18302
+AL	2702553	Estrela de Alagoas	18304
+CE	2301851	Banabuiú	18313
+SE	2801009	Campo do Brito	18325
+PE	2604700	Correntes	18327
+RN	2406106	Jucurutu	18335
+SE	2802809	Indiaroba	18337
+TO	1708205	Formoso do Araguaia	18358
+MT	5107065	Querência	18386
+CE	2313005	Solonópole	18389
+AL	2703304	Inhapi	18398
+SP	3530201	Mirante do Paranapanema	18415
+BA	2912400	Ibipeba	18421
+PB	2507705	Juazeirinho	18422
+PE	2608453	Lagoa do Carro	18429
+AL	2700706	Batalha	18440
+CE	2303105	Cariré	18470
+RR	1400308	Mucajaí	18482
+BA	2903805	Boa Vista do Tupim	18491
+PI	2208205	Pio IX	18492
+MG	3113701	Carlos Chagas	18516
+CE	2313955	Varjota	18520
+BA	2920106	Mairi	18535
+MG	3139201	Malacacheta	18556
+SC	4217808	Taió	18576
+MS	5005681	Mundo Novo	18578
+BA	2905305	Cafarnaum	18585
+SP	3511607	Cesário Lange	18595
+MA	2111409	São Luís Gonzaga do Maranhão	18600
+SP	3512001	Colina	18601
+BA	2921401	Mirangaba	18603
+SP	3523602	Itirapina	18610
+SP	3526100	Juquiá	18627
+BA	2932200	Ubaitaba	18647
+BA	2905404	Cairu	18666
+RJ	3304409	Rio Claro	18677
+RJ	3302809	Mendes	18681
+SE	2804409	Neópolis	18688
+MG	3159902	Santo Antônio do Amparo	18697
+CE	2303303	Cariús	18700
+MA	2101301	Bacuri	18726
+PB	2511400	Picuí	18737
+MA	2104552	Governador Edison Lobão	18740
+MA	2111078	São João do Soter	18746
+MA	2110401	São Benedito do Rio Preto	18769
+PR	4106803	Cruz Machado	18772
+PR	4103453	Cafelândia	18783
+BA	2929255	São Gabriel	18785
+MT	5107107	São José dos Quatro Marcos	18788
+MA	2108801	Pirapemas	18814
+SC	4205803	Garuva	18816
+SE	2800506	Areia Branca	18825
+PE	2616001	Venturosa	18835
+BA	2908101	Cocos	18835
+PB	2512002	Pocinhos	18848
+MG	3127008	Fronteira	18866
+SP	3532405	Nazaré Paulista	18866
+TO	1702554	Augustinópolis	18870
+SE	2806008	Ribeirópolis	18891
+SP	3501152	Alumínio	18903
+SP	3500501	Águas de Lindóia	18908
+PR	4101200	Antonina	18919
+MG	3131158	Ipaba	18926
+SP	3531506	Monte Azul Paulista	18928
+ES	3203502	Montanha	18954
+PB	2507101	Itapororoca	18978
+AC	1200252	Epitaciolândia	18979
+BA	2904852	Cabaceiras do Paraguaçu	19010
+MG	3128303	Guaranésia	19014
+MG	3124005	Ervália	19019
+MA	2101509	Barão de Grajaú	19026
+PB	2504405	Conceição	19030
+SP	3508702	Caconde	19031
+PE	2603504	Camocim de São Félix	19032
+AM	1304237	Tonantins	19038
+BA	2919702	Macarani	19056
+PA	1507979	Terra Santa	19063
+SE	2803302	Japaratuba	19067
+RJ	3304102	Porciúncula	19068
+PB	2501302	Aroeiras	19081
+PR	4106209	Contenda	19082
+PR	4105409	Chopinzinho	19083
+MA	2111607	São Raimundo das Mangabeiras	19090
+BA	2917201	Ituaçu	19095
+MG	3140902	Matipó	19098
+SP	3556800	Viradouro	19133
+AC	1200807	Porto Acre	19141
+MS	5003801	Fátima do Sul	19152
+RS	4311205	Júlio de Castilhos	19159
+RJ	3301207	Carmo	19161
+BA	2917805	Jaguaripe	19162
+PR	4104501	Capanema	19172
+SC	4211751	Otacílio Costa	19201
+MA	2109270	Presidente Sarney	19217
+PE	2614006	Serrita	19226
+BA	2916005	Itanhém	19231
+PI	2205201	Jaicós	19233
+SC	4206900	Ibirama	19238
+SP	3518503	Guareí	19244
+PE	2605152	Dormentes	19246
+MG	3104908	Baependi	19249
+MA	2107902	Passagem Franca	19253
+RO	1100080	Costa Marques	19255
+RR	1400175	Cantá	19257
+PE	2606507	Iati	19284
+MG	3100906	Águas Formosas	19285
+MG	3170909	Varzelândia	19290
+GO	5204409	Caiapônia	19304
+CE	2304301	Farias Brito	19330
+BA	2932804	Utinga	19330
+PA	1508050	Trairão	19344
+PR	4128500	Wenceslau Braz	19358
+PR	4121208	Quitandinha	19388
+ES	3204351	Rio Bananal	19398
+MA	2104099	Formosa da Serra Negra	19425
+PR	4126306	Sengés	19441
+RS	4309605	Horizontina	19446
+SP	3539103	Pirapora do Bom Jesus	19453
+SC	4218301	Três Barras	19455
+PR	4101002	Ampére	19466
+PB	2511905	Pitimbu	19478
+SP	3529906	Miracatu	19511
+MA	2102507	Cajari	19521
+SC	4212205	Papanduva	19521
+CE	2313351	Tejuçuoca	19551
+BA	2932457	Umburanas	19573
+AM	1303502	Pauini	19616
+MA	2107407	Olho d'Água das Cunhãs	19616
+AC	1200336	Mâncio Lima	19643
+BA	2901601	Antas	19659
+PE	2603900	Carnaíba	19666
+MG	3153400	Presidente Olegário	19680
+MA	2108009	Pastos Bons	19693
+MA	2107100	Morros	19708
+MT	5100300	Alto Araguaia	19714
+PI	2202604	Castelo do Piauí	19716
+AC	1200351	Marechal Thaumaturgo	19727
+MG	3114501	Carmópolis de Minas	19756
+MG	3111101	Campina Verde	19759
+AC	1200427	Rodrigues Alves	19767
+SP	3536208	Pariquera-Açu	19797
+MG	3108305	Borda da Mata	19809
+SE	2805802	Riachão do Dantas	19813
+PR	4101101	Andirá	19823
+PI	2202000	Buriti dos Lopes	19832
+MG	3167608	Simonésia	19834
+PA	1506559	Santa Luzia do Pará	19839
+MA	2107605	Palmeirândia	19840
+BA	2932101	Ubaíra	19860
+PB	2500601	Alhandra	19865
+AC	1200708	Xapuri	19866
+MG	3137700	Lajinha	19914
+AL	2704401	Major Isidoro	19923
+BA	2916807	Itarantim	19937
+PB	2512705	Remígio	19973
+BA	2920502	Maracás	19973
+CE	2313757	Umirim	19976
+PE	2600203	Afrânio	19981
+BA	2912202	Ibicoara	19990
+MG	3159803	Santa Vitória	19997
+GO	5218904	Rubiataba	20012
+MG	3122009	Divino	20020
+MS	5007406	Rio Verde de Mato Grosso	20025
+CE	2307635	Madalena	20031
+AM	1300680	Boa Vista do Ramos	20040
+PE	2603801	Capoeiras	20048
+BA	2924603	Pindobaçu	20048
+SP	3508009	Buri	20050
+SE	2806206	Salgado	20051
+MG	3101904	Alpinópolis	20059
+RR	1400456	Pacaraima	20108
+GO	5204904	Campos Belos	20124
+CE	2305209	Hidrolândia	20126
+MG	3131208	Ipanema	20133
+AC	1200385	Plácido de Castro	20147
+AL	2707503	Porto Real do Colégio	20158
+MS	5007935	Sonora	20158
+AL	2709103	Taquarana	20162
+RJ	3301108	Cantagalo	20163
+CE	2305357	Icapuí	20183
+BA	2902807	Barra da Estiva	20198
+MA	2106300	Magalhães de Almeida	20228
+RJ	3304110	Porto Real	20254
+AL	2700102	Água Branca	20263
+MG	3169703	Turmalina	20280
+CE	2303956	Chorozinho	20286
+MA	2109502	Riachão	20288
+BA	2915502	Itajuípe	20309
+BA	2932705	Uruçuca	20312
+PB	2505105	Cuité	20331
+MG	3146305	Padre Paraíso	20346
+CE	2307254	Jijoca de Jericoacoara	20351
+PR	4124400	Santo Antônio do Sudoeste	20354
+MA	2102606	Cândido Mendes	20376
+BA	2931004	Tanhaçu	20383
+SP	3511409	Cerqueira César	20391
+BA	2917102	Itororó	20394
+AM	1303205	Novo Airão	20395
+PB	2514503	São José de Piranhas	20406
+GO	5201702	Aragarças	20410
+PR	4106506	Coronel Vivida	20430
+BA	2902609	Baixa Grande	20431
+RS	4310009	Ibirubá	20474
+AM	1300631	Beruri	20503
+RO	1100148	Nova Brasilândia D'Oeste	20504
+MG	3144102	Muzambinho	20522
+SP	3542404	Regente Feijó	20523
+MG	3142908	Monte Azul	20544
+SC	4208807	Jaguaruna	20547
+BA	2911808	Guaratinga	20565
+MT	5101902	Brasnorte	20571
+PI	2207801	Paulistana	20583
+RN	2402303	Caraúbas	20588
+SP	3535804	Paranapanema	20588
+BA	2900207	Abaré	20594
+PB	2501005	Araruna	20610
+PE	2603108	Cachoeirinha	20618
+CE	2306504	Itapiúna	20653
+BA	2920700	Maraú	20664
+MG	3134608	Jaboticatubas	20683
+PR	4127502	Tibagi	20688
+MG	3171006	Vazante	20692
+MG	3141405	Medina	20701
+MT	5103379	Cotriguaçu	20717
+PI	2210003	São João do Piauí	20720
+PE	2601607	Belém do São Francisco	20730
+MA	2111003	São João Batista	20736
+PA	1503044	Floresta do Araguaia	20742
+RS	4314605	Piratini	20743
+PE	2611705	Riacho das Almas	20744
+AM	1301506	Envira	20748
+GO	5205513	Cocalzinho de Goiás	20771
+BA	2911600	Governador Mangabeira	20800
+PR	4128005	Ubiratã	20809
+MT	5106232	Nova Olímpia	20820
+SP	3547700	Santo Anastácio	20855
+BA	2933505	Wenceslau Guimarães	20862
+AM	1300201	Atalaia do Norte	20868
+GO	5200100	Abadiânia	20873
+AM	1303700	Santo Antônio do Içá	20889
+SC	4202453	Bombinhas	20889
+MG	3167103	Serro	20915
+PE	2601052	Araçoiaba	20936
+GO	5220603	Silvânia	20938
+PI	2211308	Valença do Piauí	20940
+SP	3505807	Bastos	20952
+PR	4106605	Cruzeiro do Oeste	20962
+RS	4302709	Butiá	20963
+CE	2310852	Pindoretama	20964
+BA	2927507	Santa Bárbara	20971
+SP	3526001	Junqueirópolis	20978
+MG	3105905	Barroso	20981
+PB	2500403	Alagoa Nova	20992
+MG	3137809	Lambari	20995
+MG	3133303	Itaobim	20997
+CE	2303600	Catarina	21041
+MA	2106706	Mirador	21045
+MG	3111002	Campestre	21052
+BA	2912103	Ibicaraí	21083
+BA	2929107	São Felipe	21083
+RO	1101492	São Francisco do Guaporé	21088
+MA	2108108	Paulo Ramos	21092
+SC	4212908	Pinhalzinho	21103
+RS	4301008	Arroio do Meio	21121
+SP	3523503	Itatinga	21139
+PE	2616209	Vertentes	21172
+BA	2909604	Crisópolis	21219
+PB	2501500	Bananeiras	21220
+MA	2107357	Nova Olinda do Maranhão	21228
+BA	2901205	Anagé	21229
+CE	2311264	Quiterianópolis	21246
+MT	5103304	Comodoro	21249
+SP	3510302	Capela do Alto	21257
+MA	2108702	Pio XII	21274
+PR	4112108	Jandaia do Sul	21281
+MG	3114402	Carmo do Rio Claro	21310
+MA	2101905	Bequimão	21317
+GO	5220405	São Simão	21318
+PI	2202307	Canto do Buriti	21326
+CE	2309508	Orós	21342
+MG	3142809	Monte Alegre de Minas	21349
+MT	5107305	São José do Rio Claro	21351
+MG	3147303	Paraisópolis	21353
+SP	3513603	Cunha	21373
+BA	2904753	Buritirama	21374
+SP	3517703	Guará	21394
+AL	2701308	Cajueiro	21397
+SC	4219002	Urussanga	21419
+BA	2931202	Taperoá	21421
+PE	2613305	São Joaquim do Monte	21439
+MS	5003256	Costa Rica	21456
+PR	4126603	Siqueira Campos	21476
+BA	2904100	Boquira	21486
+PE	2608503	Lagoa de Itaenga	21490
+MG	3143203	Monte Santo de Minas	21504
+PA	1504950	Nova Esperança do Piriá	21519
+SP	3511003	Castilho	21521
+MG	3115508	Caxambu	21566
+MA	2107704	Paraibano	21571
+MG	3149903	Perdões	21577
+RS	4316006	Rolante	21591
+MS	5004601	Itaquiraí	21604
+RN	2408904	Parelhas	21611
+AL	2705705	Olho d'Água das Flores	21690
+MG	3147204	Paraguaçu	21693
+MT	5106257	Nova Xavantina	21695
+CE	2301307	Araripe	21707
+AM	1303007	Nhamundá	21710
+SP	3515152	Engenheiro Coelho	21712
+RS	4313201	Nova Petrópolis	21717
+PI	2211209	Uruçuí	21746
+BA	2919926	Madre de Deus	21754
+RS	4319000	São Marcos	21756
+MG	3133501	Itapecerica	21760
+SC	4208450	Itapoá	21766
+MA	2106326	Maracaçumé	21773
+RJ	3305604	Silva Jardim	21775
+BA	2923605	Paramirim	21777
+ES	3205036	Vargem Alta	21778
+PR	4117305	Ortigueira	21783
+SE	2800209	Aquidabã	21796
+BA	2923209	Oliveira dos Brejinhos	21797
+PA	1506351	Santa Bárbara do Pará	21811
+MG	3110509	Camanducaia	21831
+BA	2923407	Palmas de Monte Alto	21840
+GO	5220207	São Miguel do Araguaia	21849
+PE	2613404	São José da Coroa Grande	21868
+SP	3533007	Nova Granada	21871
+RS	4318200	São Francisco de Paula	21871
+SC	4208104	Itaiópolis	21889
+PB	2509107	Mari	21895
+PE	2604502	Chã Grande	21929
+AL	2702108	Colônia Leopoldina	21935
+AM	1300102	Anori	21937
+CE	2306603	Itatira	22018
+SP	3527405	Lucélia	22022
+RJ	3305158	São José do Vale do Rio Preto	22032
+MA	2103174	Centro Novo do Maranhão	22056
+MS	5002902	Cassilândia	22063
+PB	2503001	Caaporã	22079
+SP	3517505	Guapiaçu	22087
+MT	5102702	Canarana	22101
+PE	2609154	Manari	22110
+GO	5201306	Anicuns	22113
+GO	5208905	Goiás	22122
+MA	2100204	Alcântara	22126
+RS	4313060	Nova Hartz	22147
+RJ	3301504	Cordeiro	22152
+BA	2906907	Caravelas	22166
+AL	2702603	Feira Grande	22192
+PE	2610400	Parnamirim	22198
+MA	2112233	Trizidela do Vale	22223
+CE	2313807	Uruburetama	22223
+MA	2102705	Cantanhede	22236
+SP	3540903	Pradópolis	22239
+PA	1506583	Santa Maria das Barreiras	22244
+RO	1100403	Alto Paraíso	22258
+PR	4100509	Altônia	22293
+MT	5103502	Diamantino	22311
+SP	3535309	Palmital	22322
+SP	3540002	Pompéia	22326
+BA	2926202	Riachão das Neves	22330
+BA	2922409	Mutuípe	22340
+PE	2605400	Feira Nova	22360
+ES	3202207	Fundão	22379
+ES	3204203	Piúma	22388
+BA	2908903	Coração de Maria	22391
+SE	2801405	Carira	22393
+MS	5002209	Bonito	22401
+GO	5205406	Ceres	22407
+CE	2311504	Quixeré	22432
+BA	2916104	Itaparica	22440
+MA	2111706	São Vicente Ferrer	22452
+SC	4213500	Porto Belo	22466
+AP	1600402	Mazagão	22468
+BA	2915809	Itambé	22474
+SP	3529708	Miguelópolis	22480
+PB	2501104	Areia	22493
+BA	2900801	Alcobaça	22509
+RO	1100015	Alta Floresta D'Oeste	22516
+MT	5103007	Chapada dos Guimarães	22521
+RS	4315305	Quaraí	22531
+GO	5209705	Hidrolândia	22533
+BA	2931509	Teofilândia	22590
+SC	4217402	Schroeder	22605
+PE	2605608	Flores	22612
+RR	1400209	Caracaraí	22635
+BA	2925956	Rafael Jambeiro	22643
+RN	2407807	Monte Alegre	22698
+TO	1707009	Dianópolis	22704
+GO	5200134	Acreúna	22710
+CE	2301950	Barreira	22715
+PE	2610806	Pedra	22716
+MS	5008008	Terenos	22721
+AM	1300144	Apuí	22739
+BA	2921104	Medeiros Neto	22741
+ES	3202108	Ecoporanga	22748
+TO	1721208	Tocantinópolis	22820
+SC	4206702	Herval d'Oeste	22820
+CE	2308906	Morrinhos	22830
+CE	2302008	Barro	22834
+MG	3139508	Manhumirim	22894
+MG	3114204	Carmo do Cajuru	22900
+PE	2600906	Amaraji	22910
+AP	1600535	Porto Grande	22927
+BA	2908200	Conceição da Feira	22933
+MS	5006002	Nova Alvorada do Sul	22967
+MG	3118403	Conselheiro Pena	22975
+PE	2600807	Altinho	22996
+PE	2613206	São João	23002
+CE	2303006	Caridade	23011
+RS	4306809	Encantado	23047
+MT	5101407	Aripuanã	23067
+RO	1100320	São Miguel do Guaporé	23147
+SC	4211702	Orleans	23161
+MG	3132701	Itambacuri	23207
+RJ	3302106	Itaocara	23211
+SC	4203907	Capinzal	23218
+MT	5106307	Paranatinga	23250
+SP	3553302	Tambaú	23255
+MG	3100203	Abaeté	23263
+BA	2930774	Sobradinho	23274
+MS	5004700	Ivinhema	23277
+SP	3553807	Taquarituba	23292
+CE	2304004	Coreaú	23340
+SP	3502754	Araçariguama	23343
+PR	4114104	Mandaguaçu	23373
+MA	2103802	Dom Pedro	23393
+PR	4113502	Loanda	23393
+SP	3554300	Teodoro Sampaio	23395
+BA	2905008	Caculé	23407
+ES	3204005	Pancas	23426
+BA	2912707	Ibirapitanga	23433
+PA	1507474	São João de Pirabas	23440
+AC	1200450	Senador Guiomard	23446
+RS	4319604	São Sepé	23492
+MA	2108454	Peritoró	23530
+CE	2301604	Assaré	23537
+BA	2903409	Belmonte	23540
+RJ	3301405	Conceição de Macabu	23561
+MA	2106508	Matinha	23591
+MG	3119104	Corinto	23607
+MS	5001904	Bataguassu	23620
+MG	3154002	Raul Soares	23663
+MA	2105500	João Lisboa	23677
+PE	2611903	Rio Formoso	23719
+RS	4310330	Imbé	23721
+SP	3548005	Santo Antônio de Posse	23742
+PB	2512309	Princesa Isabel	23749
+RN	2412500	São Miguel	23789
+MG	3162708	São João do Paraíso	23797
+RS	4321907	Três Passos	23799
+RS	4321808	Três de Maio	23846
+GO	5210901	Itapaci	23850
+PE	2614857	Tamandaré	23852
+ES	3204609	Santa Teresa	23853
+MG	3113008	Caraí	23872
+SC	4215703	Santo Amaro da Imperatriz	23907
+PR	4124053	Santa Terezinha de Itaipu	23927
+BA	2911907	Iaçu	23950
+MG	3105103	Bambuí	23964
+PE	2609709	Orobó	23985
+BA	2932002	Uauá	23991
+MA	2102309	Buriti Bravo	23993
+SE	2805505	Poço Verde	24003
+MG	3130903	Inhapim	24020
+PE	2607000	Inajá	24034
+MS	5005202	Ladário	24040
+AL	2708303	São José da Laje	24064
+SC	4205704	Garopaba	24070
+SP	3502705	Apiaí	24081
+MA	2102903	Carutapera	24095
+MA	2102804	Carolina	24151
+AL	2703809	Joaquim Gomes	24167
+PA	1502509	Chaves	24175
+RS	4322202	Tupanciretã	24182
+BA	2918803	Laje	24214
+PR	4104659	Carambeí	24225
+PE	2605004	Cupira	24237
+MG	3143401	Monte Sião	24247
+PR	4120804	Quatro Barras	24253
+PB	2512903	Rio Tinto	24258
+PR	4105904	Colorado	24271
+MA	2109007	Porto Franco	24294
+AL	2706406	Pão de Açúcar	24307
+MG	3148707	Pedra Azul	24333
+PA	1502004	Cachoeira do Arari	24355
+PB	2506905	Itabaiana	24363
+SC	4212809	Balneário Piçarras	24385
+PA	1506302	Salvaterra	24392
+AL	2702355	Craíbas	24396
+RN	2411502	Santo Antônio	24422
+CE	2306108	Irauçuba	24450
+MG	3162955	São José da Lapa	24490
+SC	4216909	São Lourenço do Oeste	24501
+GO	5217104	Piracanjuba	24543
+PA	1507458	São Geraldo do Araguaia	24566
+CE	2301703	Aurora	24567
+RS	4318408	São Jerônimo	24569
+AL	2705101	Matriz de Camaragibe	24627
+AL	2703205	Igreja Nova	24670
+CE	2304350	Forquilha	24680
+AL	2704005	Junqueiro	24716
+PE	2603702	Canhotinho	24743
+SP	3520004	Igaraçu do Tietê	24821
+MS	5002100	Bela Vista	24842
+MG	3147402	Paraopeba	24854
+SP	3507902	Brotas	24862
+BA	2906709	Cândido Sales	24921
+SC	4206306	Guabiruba	24922
+CE	2307403	Jucás	24949
+PB	2507002	Itaporanga	24960
+RS	4320909	Tapejara	24973
+SP	3521408	Iracemápolis	24982
+BA	2901106	Amélia Rodrigues	24997
+RS	4320107	Sarandi	25024
+MG	3162401	São João da Ponte	25033
+RS	4310801	Ivoti	25068
+SP	3501301	Álvares Machado	25078
+MG	3101102	Aimorés	25116
+SP	3512407	Cordeirópolis	25116
+CE	2304251	Cruz	25121
+PA	1506609	Santa Maria do Pará	25127
+BA	2924801	Piritiba	25162
+CE	2305308	Ibiapina	25165
+MG	3109303	Buritis	25179
+AL	2705002	Mata Grande	25200
+GO	5217302	Pirenópolis	25218
+PE	2600302	Agrestina	25240
+MG	3124203	Espera Feliz	25287
+MS	5007109	Ribas do Rio Pardo	25310
+AL	2707107	Piranhas	25324
+MS	5000708	Anastácio	25336
+PB	2504603	Conde	25341
+CE	2312700	Senador Pompeu	25418
+BA	2925808	Queimadas	25428
+RS	4304663	Capão do Leão	25462
+MG	3169604	Tupaciguara	25466
+SC	4203956	Capivari de Baixo	25477
+MS	5004502	Itaporã	25478
+MA	2110039	Santa Luzia do Paruá	25487
+MA	2104677	Governador Nunes Freire	25502
+MG	3129509	Ibiá	25511
+PI	2205805	Luzilândia	25521
+RJ	3304151	Quissamã	25535
+MG	3135803	Jequitinhonha	25555
+MA	2108256	Pedro do Rosário	25560
+RJ	3303955	Pinheiral	25563
+PE	2609006	Macaparana	25565
+PR	4103602	Cambará	25569
+PI	2201903	Bom Jesus	25584
+AL	2703106	Igaci	25596
+GO	5211206	Itapuranga	25597
+SP	3540754	Potim	25603
+SP	3507803	Brodowski	25605
+BA	2918357	João Dourado	25606
+CE	2303808	Cedro	25612
+SC	4208500	Ituporanga	25619
+RJ	3302908	Miguel Pereira	25622
+SP	3531407	Monte Aprazível	25651
+AL	2709400	Viçosa	25655
+MG	3162005	São Gonçalo do Sapucaí	25670
+SP	3537404	Pereira Barreto	25685
+SP	3502200	Angatuba	25724
+BA	2914406	Iraquara	25728
+PA	1507904	Soure	25752
+PA	1505031	Novo Progresso	25769
+BA	2921203	Miguel Calmon	25771
+PR	4119400	Piraí do Sul	25779
+SE	2807600	Umbaúba	25800
+MG	3113206	Carandaí	25831
+MA	2110104	Santa Quitéria do Maranhão	25884
+SP	3538907	Pirajuí	25939
+PA	1507151	São Domingos do Araguaia	25945
+CE	2309458	Ocara	25958
+RS	4306908	Encruzilhada do Sul	26039
+PB	2516003	Solânea	26051
+MA	2111102	São João dos Patos	26063
+GO	5203500	Bom Jesus de Goiás	26069
+ES	3203403	Mimoso do Sul	26079
+PE	2608750	Lagoa Grande	26090
+BA	2911105	Formosa do Rio Preto	26111
+MA	2112456	Turilândia	26112
+MA	2105427	Itinga do Maranhão	26134
+PA	1503077	Garrafão do Norte	26155
+RS	4319505	São Sebastião do Caí	26161
+CE	2305605	Independência	26196
+CE	2313203	Tamboril	26199
+RS	4309407	Guaporé	26199
+ES	3205069	Venda Nova do Imigrante	26204
+BA	2908606	Conde	26223
+SP	3553401	Tanabi	26231
+PE	2607505	Itaíba	26268
+PR	4102109	Astorga	26304
+PE	2611507	Quipapá	26309
+RS	4311007	Jaguarão	26327
+BA	2907301	Castro Alves	26369
+MS	5005004	Jardim	26375
+MS	5001003	Aparecida do Taboado	26386
+TO	1709302	Guaraí	26403
+PE	2610202	Panelas	26438
+PE	2614808	Tacaratu	26439
+AM	1303304	Novo Aripuanã	26443
+MG	3126703	Francisco Sá	26459
+SC	4210506	Maravilha	26463
+BA	2906204	Canarana	26468
+MS	5002951	Chapadão do Sul	26499
+SP	3507100	Bom Jesus dos Perdões	26506
+CE	2304954	Guaiúba	26508
+MG	3162906	São João Nepomuceno	26530
+MG	3134905	Jacutinga	26538
+MG	3156908	Sacramento	26556
+ES	3204054	Pedro Canário	26575
+BA	2925006	Planalto	26581
+CE	2301208	Aracoiaba	26600
+SP	3509403	Cajuru	26613
+MG	3118809	Coração de Jesus	26620
+MT	5100201	Água Boa	26679
+PE	2604601	Condado	26755
+ES	3202454	Ibatiba	26762
+PI	2202901	Corrente	26771
+SP	3529203	Martinópolis	26791
+BA	2928208	Santana	26792
+RS	4322806	Veranópolis	26813
+MG	3144607	Nepomuceno	26882
+SP	3520442	Ilha Solteira	26886
+RS	4321303	Taquari	26907
+PR	4121703	Reserva	26933
+MG	3144003	Mutum	26945
+MT	5108600	Vila Rica	26946
+PI	2201507	Batalha	26951
+SE	2804607	Nossa Senhora das Dores	26957
+SP	3547601	Santa Rosa de Viterbo	26960
+MA	2100303	Aldeias Altas	26979
+SE	2800670	Boquim	26980
+RN	2404200	Goianinha	27004
+BA	2913507	Iguaí	27006
+CE	2303204	Caririaçu	27008
+PR	4123501	Santa Helena	27036
+BA	2922904	Nova Soure	27047
+PE	2607604	Ilha de Itamaracá	27076
+BA	2913200	Ibotirama	27076
+AC	1200104	Brasiléia	27123
+RO	1100940	Cujubim	27131
+RJ	3303005	Miracema	27134
+PE	2607752	Itapissuma	27144
+BA	2922102	Mundo Novo	27153
+SP	3556305	Valparaíso	27154
+MA	2100709	Anajatuba	27170
+CE	2307106	Jardim	27187
+PE	2611309	Pombos	27204
+MG	3106309	Belo Oriente	27277
+PA	1507706	São Sebastião da Boa Vista	27302
+PE	2612406	Sanharó	27308
+SC	4216503	São Joaquim	27322
+BA	2919157	Lapão	27323
+RS	4322707	Vera Cruz	27325
+AL	2707305	Porto Calvo	27331
+GO	5210109	Ipameri	27365
+CE	2308302	Milagres	27413
+MA	2105104	Icatu	27423
+AL	2701001	Boca da Mata	27429
+BA	2932309	Ubatã	27481
+MT	5107875	Sapezal	27485
+CE	2302701	Campos Sales	27513
+ES	3204104	Pinheiros	27601
+SP	3538600	Piracaia	27617
+SC	4205456	Forquilhinha	27621
+SP	3521804	Itaí	27632
+SP	3547502	Santa Rita do Passa Quatro	27641
+MG	3139607	Mantena	27651
+MS	5007695	São Gabriel do Oeste	27660
+BA	2925907	Quijingue	27672
+PR	4125704	São Miguel do Iguaçu	27696
+MT	5104807	Jaciara	27696
+SP	3514106	Dois Córregos	27704
+PB	2508307	Lagoa Seca	27728
+PR	4114302	Mandirituba	27750
+RS	4311304	Lagoa Vermelha	27751
+AM	1300409	Barcelos	27772
+RJ	3300506	Bom Jardim	27779
+PE	2615805	Tupanatinga	27793
+PA	1500347	Água Azul do Norte	27797
+CE	2307809	Marco	27822
+MG	3136652	Juatuba	27823
+SP	3546702	Santa Gertrudes	27850
+RS	4318507	São José do Norte	27866
+PI	2202703	Cocal	27901
+AL	2709202	Traipu	27934
+RJ	3303856	Paty do Alferes	27942
+MG	3119302	Coromandel	27958
+SP	3539202	Pirapozinho	27974
+RS	4313300	Nova Prata	28021
+BA	2927705	Santa Cruz Cabrália	28058
+PR	4116901	Nova Esperança	28062
+MA	2100436	Alto Alegre do Maranhão	28066
+RO	1100809	Candeias do Jamari	28068
+PA	1504505	Melgaço	28121
+MT	5105622	Mirassol d'Oeste	28135
+RN	2401107	Areia Branca	28156
+MG	3152808	Prata	28173
+MG	3109402	Buritizeiro	28184
+BA	2925501	Prado	28214
+RN	2408201	Nísia Floresta	28266
+BA	2925758	Presidente Tancredo Neves	28272
+GO	5200308	Alexânia	28360
+BA	2923100	Olindina	28373
+PB	2500304	Alagoa Grande	28384
+MS	5005608	Miranda	28423
+AL	2705507	Murici	28428
+MG	3151404	Pitangui	28433
+SP	3509254	Cajati	28441
+PR	4101606	Arapoti	28480
+SP	3512209	Conchal	28491
+GO	5213087	Minaçu	28518
+PR	4119954	Pontal do Paraná	28529
+AP	1600501	Oiapoque	28534
+MG	3123601	Elói Mendes	28556
+PA	1504406	Marapanim	28563
+MG	3160405	Santo Antônio do Monte	28603
+PB	2511202	Pedras de Fogo	28607
+BA	2928406	Santa Rita de Cássia	28613
+BA	2922508	Nazaré	28661
+AM	1301001	Carauari	28719
+PR	4108601	Goioerê	28734
+CE	2309409	Novo Oriente	28737
+MG	3117306	Conceição das Alagoas	28782
+SE	2805604	Porto da Folha	28788
+MA	2110609	São Bernardo	28825
+BA	2905909	Campo Alegre de Lourdes	28839
+PE	2610509	Passira	28856
+PE	2614600	Tabira	28860
+BA	2917300	Ituberá	28870
+AL	2704203	Limoeiro de Anadia	28904
+MG	3111606	Campos Gerais	28908
+MA	2102200	Buriti	28916
+RS	4321709	Três Coroas	28948
+PI	2208304	Piracuruca	28952
+SP	3526407	Laranjal Paulista	29047
+BA	2914901	Itacaré	29051
+PE	2603207	Caetés	29065
+MG	3116605	Cláudio	29093
+BA	2933000	Valente	29111
+RN	2401453	Baraúna	29112
+BA	2907103	Carinhanha	29118
+MA	2106755	Miranda do Norte	29121
+BA	2923803	Paripiranga	29124
+MA	2105005	Humberto de Campos	29143
+CE	2311603	Redenção	29238
+MA	2112100	Timbiras	29241
+SC	4219705	Xaxim	29254
+RN	2403608	Extremoz	29282
+RS	4317301	Santa Vitória do Palmar	29298
+BA	2914505	Irará	29305
+PA	1500859	Anapu	29312
+RJ	3301876	Iguaba Grande	29344
+ES	3203007	Iúna	29417
+BA	2922300	Muritiba	29420
+PE	2615003	Taquaritinga do Norte	29472
+PR	4111258	Itaperuçu	29493
+PA	1504307	Maracanã	29559
+PE	2606606	Ibimirim	29585
+SP	3537909	Pilar do Sul	29612
+PA	1504000	Limoeiro do Ajuru	29623
+SP	3551603	Serra Negra	29669
+PR	4119608	Pitanga	29686
+AM	1301308	Codajás	29691
+PA	1501907	Bujaru	29717
+SP	3542206	Rancharia	29743
+SE	2805703	Propriá	29756
+RJ	3304003	Piraí	29802
+PA	1506005	Prainha	29827
+SP	3530102	Mirandópolis	29844
+ES	3200201	Alegre	29869
+GO	5215702	Palmeiras de Goiás	29915
+SP	3538808	Piraju	29930
+MA	2101004	Arari	30014
+MG	3110608	Cambuí	30068
+PA	1500701	Anajás	30091
+PR	4104253	Campo Magro	30151
+RS	4322004	Triunfo	30159
+ES	3200409	Anchieta	30285
+ES	3200102	Afonso Cláudio	30326
+SE	2803609	Laranjeiras	30327
+MG	3114303	Carmo do Paranaíba	30339
+PA	1504059	Mãe do Rio	30389
+SP	3518305	Guararema	30465
+RS	4313375	Nova Santa Rita	30482
+SC	4202107	Barra Velha	30539
+PI	2205706	Luís Correia	30558
+RS	4304804	Carlos Barbosa	30630
+SP	3510807	Casa Branca	30655
+SC	4209003	Joaçaba	30684
+BA	2906303	Canavieiras	30722
+SP	3520103	Igarapava	30791
+RN	2409407	Pau dos Ferros	30802
+PB	2504306	Catolé do Rocha	30819
+RJ	3300258	Arraial do Cabo	30827
+BA	2902906	Barra do Choça	30831
+PE	2606101	Glória do Goitá	30847
+SE	2801207	Canindé de São Francisco	30894
+BA	2927200	Ruy Barbosa	30900
+BA	2914653	Itabela	30901
+GO	5214507	Nerópolis	30931
+GO	5203302	Bela Vista de Goiás	31004
+MS	5002407	Caarapó	31005
+BA	2906873	Capim Grosso	31055
+PR	4102406	Bandeirantes	31061
+RS	4320800	Soledade	31067
+SC	4217709	Sombrio	31084
+PE	2615607	Trindade	31103
+SP	3520301	Iguape	31117
+MG	3155603	Rio Pardo de Minas	31171
+AM	1301803	Ipixuna	31172
+SP	3525201	Jarinu	31173
+ES	3200805	Baixo Guandu	31263
+ES	3205010	Sooretama	31278
+MG	3145307	Novo Cruzeiro	31339
+RS	4308201	Flores da Cunha	31352
+BA	2930154	Serra do Ramalho	31362
+ES	3202306	Guaçuí	31372
+RR	1400472	Rorainópolis	31387
+CE	2310308	Parambu	31391
+SP	3510005	Cândido Mota	31410
+SE	2800605	Barra dos Coqueiros	31439
+AM	1301159	Careiro da Várzea	31459
+GO	5210208	Iporá	31471
+RS	4304200	Candelária	31475
+CE	2307502	Lavras da Mangabeira	31476
+ES	3201605	Conceição da Barra	31479
+MG	3141801	Minas Novas	31509
+PE	2607307	Ipubi	31515
+MA	2113009	Vitorino Freire	31520
+PA	1508035	Tracuateua	31549
+PE	2605905	Gameleira	31578
+MA	2109452	Raposa	31586
+ES	3203056	Jaguaré	31589
+MG	3124302	Espinosa	31603
+MG	3140704	Mateus Leme	31631
+RS	4308508	Frederico Westphalen	31675
+PE	2605301	Exu	31709
+SP	3526209	Juquitiba	31844
+PR	4109708	Ibaiti	31854
+MG	3157203	Santa Bárbara	31873
+PR	4111506	Ivaiporã	31886
+GO	5217401	Pires do Rio	31909
+PA	1504604	Mocajuba	31917
+PA	1501105	Bagre	31967
+MA	2100477	Alto Alegre do Pindaré	31967
+PA	1505700	Ponta de Pedras	32007
+BA	2905602	Camacan	32023
+MT	5103353	Confresa	32076
+CE	2313104	Tabuleiro do Norte	32079
+PR	4113304	Laranjeiras do Sul	32167
+RO	1100338	Nova Mamoré	32184
+PA	1500958	Aurora do Pará	32200
+BA	2909307	Correntina	32243
+MG	3152006	Pompéu	32248
+RN	2407203	Macau	32260
+BA	2923704	Paratinga	32274
+PA	1507201	São Domingos do Capim	32285
+RJ	3302254	Itatiaia	32312
+PA	1505650	Placas	32325
+PA	1507003	Santo Antônio do Tauá	32346
+PA	1504455	Medicilândia	32347
+PR	4117909	Palotina	32389
+MG	3108602	Brasília de Minas	32460
+AL	2708402	São José da Tapera	32462
+CE	2309300	Nova Russas	32487
+MA	2103703	Cururupu	32559
+PR	4122206	Rio Branco do Sul	32635
+BA	2907806	Cícero Dantas	32636
+PA	1503507	Irituia	32639
+PE	2609501	Nazaré da Mata	32673
+MG	3162922	São Joaquim de Bicas	32696
+PR	4119301	Pinhão	32722
+BA	2911204	Gandu	32778
+SP	3546603	Santa Fé do Sul	32796
+PB	2512101	Pombal	32803
+MA	2100956	Arame	32825
+CE	2302305	Bela Cruz	32851
+CE	2312007	Santana do Acaraú	32851
+PE	2616308	Vicência	32897
+AM	1300508	Barreirinha	32919
+MA	2112902	Vitória do Mearim	32956
+RS	4313706	Palmeira das Missões	32967
+RO	1100098	Espigão D'Oeste	33009
+MG	3113305	Carangola	33022
+MG	3169356	Três Marias	33062
+SP	3550209	São Miguel Arcanjo	33071
+SP	3534609	Osvaldo Cruz	33118
+RS	4318903	São Luiz Gonzaga	33124
+PA	1505205	Oeiras do Pará	33182
+MA	2108504	Pindaré-Mirim	33186
+CE	2310258	Paraipaba	33232
+MG	3105400	Barão de Cocais	33232
+SP	3518206	Guararapes	33257
+SP	3506607	Biritiba Mirim	33265
+PR	4102000	Assis Chateaubriand	33306
+PR	4110102	Imbituva	33306
+AL	2704500	Maragogi	33351
+PB	2506004	Esperança	33386
+MT	5106505	Poconé	33386
+RS	4302808	Caçapava do Sul	33476
+PE	2605707	Floresta	33488
+PR	4108809	Guaíra	33497
+BA	2926301	Riachão do Jacuípe	33498
+SP	3505609	Barrinha	33537
+RS	4306403	Dois Irmãos	33547
+MS	5003306	Coxim	33547
+PE	2608107	João Alfredo	33570
+SP	3531902	Morro Agudo	33598
+BA	2908507	Conceição do Jacuípe	33631
+PB	2509701	Monteiro	33638
+BA	2904902	Cachoeira	33659
+RN	2414407	Touros	33716
+MA	2112605	Urbano Santos	33791
+SP	3508603	Cachoeira Paulista	33827
+PA	1505437	Ourilândia do Norte	33831
+MT	5103205	Colíder	33855
+MA	2106904	Monção	33888
+PI	2206209	Miguel Alves	33901
+BA	2917706	Jaguarari	33915
+MG	3146008	Ouro Fino	33938
+CE	2307007	Jaguaruana	33960
+SC	4212502	Penha	34022
+PA	1500503	Almeirim	34044
+MG	3165537	Sarzedo	34050
+PA	1502954	Eldorado do Carajás	34069
+PE	2613503	São José do Belmonte	34082
+SP	3513702	Descalvado	34097
+MA	2106607	Matões	34099
+PR	4117701	Palmeira	34109
+ES	3201902	Domingos Martins	34120
+PA	1503101	Gurupá	34127
+PE	2613602	São José do Egito	34210
+PA	1502756	Concórdia do Pará	34236
+RS	4321451	Teutônia	34275
+SC	4202800	Braço do Norte	34294
+GO	5209101	Goiatuba	34307
+MA	2110708	São Domingos do Maranhão	34391
+AL	2708808	São Sebastião	34424
+GO	5220108	São Luís de Montes Belos	34488
+SC	4213203	Pomerode	34561
+CE	2306900	Jaguaribe	34592
+PR	4114203	Mandaguari	34628
+PR	4122305	Rio Negro	34645
+PB	2513901	São Bento	34650
+MG	3168002	Taiobeiras	34653
+RS	4307807	Estrela	34669
+PR	4120903	Quedas do Iguaçu	34707
+BA	2928901	São Desidério	34764
+PE	2603009	Cabrobó	34778
+SE	2801306	Capela	34808
+RN	2402204	Canguaretama	34814
+MG	3128006	Guanhães	34818
+AL	2708501	São Luís do Quitunde	34825
+AM	1303569	Rio Preto da Eva	34856
+RJ	3305752	Tanguá	34898
+BA	2906808	Cansanção	34929
+ES	3202801	Itapemirim	34957
+AM	1300706	Boca do Acre	34958
+AC	1200302	Feijó	34986
+GO	5215603	Padre Bernardo	35011
+PI	2210607	São Raimundo Nonato	35035
+SE	2803203	Itaporanga d'Ajuda	35054
+RJ	3300233	Armação dos Búzios	35060
+BA	2909901	Curaçá	35065
+MA	2102036	Bom Jesus das Selvas	35095
+SP	3546306	Santa Cruz das Palmeiras	35102
+MA	2107803	Parnarama	35108
+MG	3132503	Itamarandiba	35130
+MG	3151503	Piumhi	35137
+SP	3500105	Adamantina	35153
+PR	4112009	Jaguariaíva	35192
+MT	5105101	Juara	35275
+CE	2313609	Ubajara	35295
+BA	2924405	Pilão Arcado	35295
+PA	1501956	Cachoeira do Piriá	35307
+AL	2706901	Pilar	35310
+RN	2405801	João Câmara	35360
+SP	3502903	Araçoiaba da Serra	35389
+MG	3101508	Além Paraíba	35438
+BA	2905800	Camamu	35444
+RO	1100155	Ouro Preto do Oeste	35445
+SE	2805406	Poço Redondo	35461
+BA	2921708	Morro do Chapéu	35466
+CE	2310209	Paracuru	35526
+PA	1502806	Curralinho	35530
+CE	2308401	Missão Velha	35566
+MT	5101704	Barra do Bugres	35642
+SC	4213609	Porto União	35685
+MT	5106422	Peixoto de Azevedo	35695
+PR	4115705	Matinhos	35705
+BA	2926400	Riacho de Santana	35757
+RS	4308607	Garibaldi	35794
+MA	2112407	Turiaçu	35811
+SP	3519303	Ibaté	35830
+SP	3505203	Bariri	35844
+SP	3513108	Cravinhos	35858
+RN	2401008	Apodi	35904
+MG	3158953	Santana do Paraíso	36048
+MG	3162104	São Gotardo	36084
+PR	4114807	Marialva	36103
+AM	1301407	Eirunepé	36121
+SP	3505302	Barra Bonita	36125
+CE	2302107	Baturité	36127
+BA	2917003	Itiúba	36140
+BA	2916500	Itapicuru	36173
+PE	2614105	Sertânia	36189
+SP	3520400	Ilhabela	36194
+SP	3502507	Aparecida	36211
+SP	3544004	Rio das Pedras	36233
+TO	1705508	Colinas do Tocantins	36271
+SP	3550407	São Pedro	36298
+MT	5104104	Guarantã do Norte	36439
+PE	2607653	Itambé	36495
+TO	1702208	Araguatins	36573
+MG	3103405	Araçuaí	36715
+SC	4205506	Fraiburgo	36723
+RJ	3305000	São João da Barra	36731
+SC	4203600	Campos Novos	36861
+RS	4309100	Gramado	36864
+MA	2102101	Brejo	36900
+MT	5102637	Campo Novo do Parecis	36917
+SP	3500303	Aguaí	36981
+RO	1100189	Pimenta Bueno	37098
+PI	2207009	Oeiras	37138
+PE	2611002	Petrolândia	37246
+RJ	3306206	Vassouras	37262
+RJ	3300605	Bom Jesus do Itabapoana	37306
+RS	4310603	Itaqui	37363
+PE	2600401	Água Preta	37386
+PE	2613107	São Caitano	37488
+PE	2600104	Afogados da Ingazeira	37546
+RN	2408300	Nova Cruz	37554
+SP	3500709	Agudos	37582
+BA	2901007	Amargosa	37631
+PE	2605103	Custódia	37633
+MG	3125101	Extrema	37649
+BA	2928000	Santaluz	37704
+SP	3525706	José Bonifácio	37707
+SE	2804508	Nossa Senhora da Glória	37715
+RS	4310108	Igrejinha	37754
+MG	3152204	Porteirinha	37823
+BA	2910602	Esplanada	37902
+GO	5218300	Posse	37924
+ES	3201407	Castelo	37956
+PR	4109609	Guaratuba	37974
+CE	2310704	Pentecoste	38045
+CE	2305902	Ipueiras	38064
+RS	4314803	Portão	38081
+AM	1303536	Presidente Figueiredo	38095
+PE	2602308	Bonito	38101
+RS	4306601	Dom Pedrito	38222
+RS	4315701	Rio Pardo	38257
+BA	2929305	São Gonçalo dos Campos	38315
+MG	3112307	Capelinha	38321
+PE	2600708	Aliança	38408
+MG	3141108	Matozinhos	38469
+PE	2602001	Bodocó	38605
+CE	2306256	Itaitinga	38661
+AM	1303106	Nova Olinda do Norte	38665
+MA	2110203	Santa Rita	38732
+RJ	3304805	São Fidélis	38749
+SP	3521002	Iperó	38771
+PI	2207900	Pedro II	38812
+AM	1301100	Careiro	38820
+MS	5007208	Rio Brilhante	38844
+GO	5219308	Santa Helena de Goiás	38962
+MA	2108306	Penalva	38987
+ES	3204708	São Gabriel da Palha	39085
+PA	1502152	Canaã dos Carajás	39103
+MA	2108207	Pedreiras	39153
+RS	4316402	Rosário do Sul	39210
+PA	1503200	Igarapé-Açu	39234
+ES	3203320	Marataízes	39259
+PR	4111803	Jacarezinho	39268
+CE	2308005	Massapê	39341
+RS	4321501	Torres	39381
+PI	2205508	José de Freitas	39457
+SP	3541505	Presidente Venceslau	39648
+BA	2928109	Santa Maria da Vitória	39707
+SC	4216305	São João Batista	39719
+MG	3135050	Jaíba	39850
+SC	4218004	Tijucas	39889
+PA	1500305	Afuá	39910
+PI	2203701	Esperantina	39953
+SC	4204806	Curitibanos	40037
+PE	2602209	Bom Jardim	40038
+MG	3134400	Iturama	40101
+MG	3170800	Várzea da Palma	40101
+MG	3145901	Ouro Branco	40220
+MS	5000609	Amambai	40247
+RN	2411205	Santa Cruz	40295
+MG	3107109	Boa Esperança	40308
+BA	2925204	Pojuca	40401
+SP	3539509	Pitangueiras	40430
+MG	3144300	Nanuque	40583
+MG	3104205	Arcos	40658
+PA	1508084	Tucumã	40661
+BA	2929206	São Francisco do Conde	40664
+PI	2200400	Altos	40681
+BA	2913705	Inhambupe	40720
+SE	2807105	Simão Dias	40724
+BA	2918100	Jeremoabo	40832
+AM	1303908	São Paulo de Olivença	40837
+SP	3518602	Guariba	40857
+PE	2608800	Lajedo	40883
+SC	4201307	Araquari	40890
+CE	2305001	Guaraciaba do Norte	40921
+AM	1300300	Autazes	41005
+RO	1100452	Buritis	41043
+CE	2314003	Várzea Alegre	41078
+PA	1502905	Curuçá	41093
+MT	5103254	Colniza	41117
+GO	5221601	Uruaçu	41150
+PA	1506203	Salinópolis	41164
+MT	5105150	Juína	41190
+MG	3109006	Brumadinho	41208
+BA	2927002	Rio Real	41209
+SP	3541604	Promissão	41211
+SC	4217204	São Miguel do Oeste	41246
+BA	2930204	Sento Sé	41279
+SP	3517406	Guaíra	41283
+SP	3550100	São Manuel	41287
+BA	2926004	Remanso	41324
+PR	4107207	Dois Vizinhos	41424
+MA	2103505	Colinas	41443
+PA	1504901	Muaná	41454
+SP	3501707	Américo Brasiliense	41545
+AL	2702900	Girau do Ponciano	41549
+ES	3204559	Santa Maria de Jetibá	41588
+PA	1503093	Goianésia do Pará	41678
+SP	3552106	Socorro	41690
+MG	3102605	Andradas	41704
+RS	4305355	Charqueadas	41705
+RO	1100130	Machadinho D'Oeste	41724
+MA	2111508	São Mateus do Maranhão	41750
+SP	3533502	Novo Horizonte	41765
+MG	3157005	Salinas	41864
+MG	3145604	Oliveira	41987
+MA	2102002	Bom Jardim	42010
+BA	2910503	Entre Rios	42014
+MA	2100600	Amarante do Maranhão	42017
+CE	2305803	Ipu	42148
+RJ	3304755	São Francisco de Itabapoana	42214
+MA	2112308	Tuntum	42242
+PR	4117503	Paiçandu	42251
+SP	3524105	Ituverava	42259
+PE	2612604	Santa Maria da Boa Vista	42266
+AM	1300805	Borba	42328
+MG	3101706	Almenara	42380
+SE	2803005	Itabaianinha	42399
+MS	5006309	Paranaíba	42401
+PA	1505908	Porto de Moz	42456
+RS	4306767	Eldorado do Sul	42490
+CE	2306553	Itarema	42595
+MG	3139003	Machado	42682
+SC	4215000	Rio Negrinho	42684
+RJ	3304706	Santo Antônio de Pádua	42705
+BA	2922003	Mucuri	42729
+MA	2109809	Santa Helena	42829
+PE	2601409	Barreiros	42866
+SP	3554508	Tietê	42946
+MA	2104057	Estreito	43097
+MA	2109601	Rosário	43243
+MG	3172004	Visconde do Rio Branco	43351
+CE	2310506	Pedra Branca	43359
+SP	3556404	Vargem Grande do Sul	43368
+RS	4317608	Santo Antônio da Patrulha	43397
+RS	4318804	São Lourenço do Sul	43501
+SP	3522703	Itápolis	43536
+CE	2312205	Santa Quitéria	43719
+AC	1200609	Tarauacá	43730
+PE	2604205	Catende	43778
+CE	2308500	Mombaça	43917
+PE	2600500	Águas Belas	43923
+MT	5102678	Campo Verde	44033
+PR	4104006	Campina Grande do Sul	44072
+BA	2923001	Nova Viçosa	44170
+RJ	3303807	Paraty	44175
+CE	2300754	Amontada	44195
+MG	3159605	Santa Rita do Sapucaí	44226
+GO	5210406	Itaberaí	44329
+BA	2929909	Seabra	44370
+PB	2512507	Queimadas	44388
+SP	3516705	Garça	44429
+BA	2929503	São Sebastião do Passé	44554
+MG	3130101	Igarapé	44561
+RN	2412203	São José de Mipibu	44566
+AL	2709152	Teotônio Vilela	44570
+SP	3541307	Presidente Epitácio	44572
+RS	4313904	Panambi	44583
+SP	3515186	Espírito Santo do Pinhal	44607
+PI	2211100	União	44649
+SP	3534302	Orlândia	44682
+RJ	3303708	Paraíba do Sul	44741
+BA	2920601	Maragogipe	44902
+RN	2403103	Currais Novos	45022
+ES	3200904	Barra de São Francisco	45301
+MG	3110004	Caeté	45364
+PB	2508901	Mamanguape	45385
+PA	1508159	Uruará	45395
+PA	1508407	Xinguara	45416
+RS	4311809	Marau	45523
+SP	3525102	Jardinópolis	45544
+SC	4218202	Timbó	45703
+SC	4207304	Imbituba	45711
+RJ	3301306	Casimiro de Abreu	45864
+GO	5218003	Porangatu	45866
+RJ	3302601	Mangaratiba	45941
+RS	4304408	Canela	45957
+BA	2913903	Ipiaú	45969
+MA	2110500	São Bento	45989
+MT	5106752	Pontes e Lacerda	46105
+SP	3551504	Serrana	46166
+SP	3535507	Paraguaçu Paulista	46180
+GO	5208806	Goianira	46278
+SP	3545308	Salto de Pirapora	46285
+MG	3160702	Santos Dumont	46357
+BA	2919504	Livramento de Nossa Senhora	46372
+SC	4209409	Laguna	46424
+PR	4124103	Santo Antônio da Platina	46503
+MG	3163706	São Lourenço	46539
+BA	2933604	Xique-Xique	46562
+SC	4206504	Guaramirim	46757
+RS	4313508	Osório	46815
+PE	2614204	Sirinhaém	46845
+BA	2925105	Poções	46885
+RO	1100106	Guajará-Mirim	46930
+PA	1500909	Augusto Corrêa	46937
+PR	4115804	Medianeira	46940
+PI	2202208	Campo Maior	46950
+GO	5213806	Morrinhos	46955
+AM	1303809	São Gabriel da Cachoeira	47031
+GO	5214606	Niquelândia	47064
+PE	2615409	Toritama	47088
+MA	2100907	Araioses	47095
+SP	3510203	Capão Bonito	47098
+PR	4125605	São Mateus do Sul	47137
+AC	1200500	Sena Madureira	47168
+SP	3514403	Dracena	47287
+PI	2201200	Barras	47298
+SP	3536703	Pederneiras	47523
+AL	2700409	Atalaia	47540
+BA	2921005	Mata de São João	47643
+SP	3528403	Mairinque	47723
+PE	2611804	Ribeirão	47813
+PR	4106407	Cornélio Procópio	47840
+AL	2708006	Santana do Ipanema	47910
+MG	3121605	Diamantina	47924
+MG	3136306	João Pinheiro	47990
+MG	3143104	Monte Carmelo	48049
+PA	1502707	Conceição do Araguaia	48115
+MS	5001102	Aquidauana	48184
+SP	3546405	Santa Cruz do Rio Pardo	48207
+MT	5106224	Nova Mutum	48222
+SP	3554805	Tremembé	48228
+MA	2109106	Presidente Dutra	48264
+CE	2312304	São Benedito	48354
+CE	2308104	Mauriti	48370
+PR	4113205	Lapa	48651
+MS	5005400	Maracaju	48944
+PE	2602100	Bom Conselho	48975
+SP	3537107	Pedreira	48992
+PA	1505486	Pacajá	49110
+BA	2921500	Monte Santo	49145
+SP	3524808	Jales	49291
+RS	4317400	Santiago	49298
+CE	2312403	São Gonçalo do Amarante	49306
+PA	1501204	Baião	49454
+AM	1301852	Iranduba	49718
+MA	2103406	Coelho Neto	49804
+CE	2302503	Brejo Santo	50195
+BA	2919801	Macaúbas	50481
+MG	3107307	Bocaiúva	50521
+SP	3511508	Cerquilho	50631
+ES	3203908	Nova Venécia	50751
+SP	3523206	Itararé	50778
+BA	2931905	Tucano	50903
+MA	2105708	Lago da Pedra	50959
+SP	3527306	Louveira	51007
+SP	3531308	Monte Alto	51039
+SP	3508405	Cabreúva	51130
+BA	2905206	Caetité	51184
+RS	4307609	Estância Velha	51292
+GO	5218508	Quirinópolis	51323
+MG	3107406	Bom Despacho	51436
+RO	1100114	Jaru	51469
+PE	2602605	Brejo da Madre de Deus	51696
+SP	3540200	Pontal	51717
+SP	3544103	Rio Grande da Serra	52009
+MT	5100250	Alta Floresta	52105
+GO	5211800	Jaraguá	52160
+MA	2114007	Zé Doca	52190
+MG	3128709	Guaxupé	52234
+SC	4219507	Xanxerê	52290
+AP	1600279	Laranjal do Jari	52302
+PA	1505106	Óbidos	52473
+PA	1506195	Rurópolis	52473
+AL	2702405	Delmiro Gouveia	52501
+PR	4117602	Palmas	52503
+TO	1716109	Paraíso do Tocantins	52521
+PE	2615300	Timbaúba	52587
+MG	3138401	Leopoldina	52690
+SP	3509700	Campos do Jordão	52713
+SP	3549409	São Joaquim da Barra	52737
+PR	4120606	Prudentópolis	52776
+AL	2704708	Marechal Deodoro	52848
+MA	2112803	Viana	52852
+SE	2807402	Tobias Barreto	52861
+PB	2515302	Sapé	52977
+MG	3131901	Itabirito	52996
+RJ	3303609	Paracambi	53093
+MG	3137205	Lagoa da Prata	53236
+PA	1506187	Rondon do Pará	53242
+PA	1503705	Itupiranga	53439
+CE	2306306	Itapajé	53448
+RS	4321600	Tramandaí	53507
+TO	1718204	Porto Nacional	53618
+GO	5210000	Inhumas	53655
+BA	2928802	Santo Estêvão	53666
+SP	3540606	Porto Feliz	53698
+PR	4114609	Marechal Cândido Rondon	54031
+BA	2926608	Ribeira do Pombal	54097
+SC	4219309	Videira	54145
+BA	2902708	Barra	54225
+CE	2302206	Beberibe	54315
+SP	3556453	Vargem Grande Paulista	54315
+MG	3111200	Campo Belo	54338
+PA	1502301	Capitão Poço	54545
+SC	4203808	Canoinhas	54558
+PA	1508209	Vigia	54650
+CE	2302404	Boa Viagem	54680
+CE	2300309	Acopiara	54687
+SC	4216206	São Francisco do Sul	54751
+BA	2902104	Araci	54903
+BA	2917607	Jaguaquara	54913
+RS	4304630	Capão da Canoa	55009
+CE	2304285	Eusébio	55035
+CE	2304707	Granja	55170
+BA	2907509	Catu	55222
+SP	3549706	São José do Rio Pardo	55298
+SP	3533908	Olímpia	55477
+PR	4109807	Ibiporã	55688
+SP	3537800	Piedade	55731
+PA	1500206	Acará	55744
+RO	1100288	Rolim de Moura	55748
+MG	3118007	Congonhas	55836
+MS	5006200	Nova Andradina	56057
+PE	2608909	Limoeiro	56149
+SP	3503802	Artur Nogueira	56247
+RS	4304507	Canguçu	56370
+SP	3542602	Registro	56463
+MS	5005707	Naviraí	56484
+MG	3161106	São Francisco	56625
+CE	2313500	Trairi	56653
+SC	4210100	Mafra	56825
+MG	3151206	Pirapora	56845
+SP	3540705	Porto Ferreira	56848
+SP	3510401	Capivari	56973
+MG	3169406	Três Pontas	57127
+AM	1301704	Humaitá	57195
+SP	3502101	Andradina	57245
+PE	2610608	Paudalho	57346
+PA	1500404	Alenquer	57390
+AM	1302702	Manicoré	57405
+SP	3553708	Taquaritinga	57547
+AL	2702306	Coruripe	57647
+RS	4321204	Taquara	57740
+MA	2112704	Vargem Grande	57813
+AL	2701407	Campo Alegre	57997
+SC	4207007	Içara	58055
+PA	1504802	Monte Alegre	58289
+PR	4128203	União da Vitória	58298
+SP	3546801	Santa Isabel	58529
+SP	3531100	Mongaguá	58567
+RN	2400208	Açu	58743
+AM	1304203	Tefé	59250
+CE	2313302	Tauá	59259
+BA	2914000	Ipirá	59281
+PB	2506301	Guarabira	59389
+RS	4314050	Parobé	59419
+PE	2602803	Buíque	59448
+RS	4306106	Cruz Alta	59561
+RJ	3300803	Cachoeiras de Macacu	59652
+RS	4318002	São Borja	59768
+SP	3524709	Jaguariúna	59921
+MA	2112506	Tutóia	59927
+PA	1503903	Juruti	59961
+MG	3152105	Ponte Nova	60003
+PI	2203909	Floriano	60111
+BA	2928604	Santo Amaro	60190
+CE	2307601	Limoeiro do Norte	60232
+PA	1507607	São Miguel do Guamá	60268
+MG	3127107	Frutal	60508
+PA	1503804	Jacundá	60517
+PE	2613008	São Bento do Una	60567
+SP	3530300	Mirassol	60768
+MS	5007901	Sidrolândia	60792
+RJ	3304300	Rio Bonito	60930
+PE	2601904	Bezerros	60960
+BA	2910701	Euclides da Cunha	61112
+SP	3519600	Ibitinga	61150
+PA	1502939	Dom Eliseu	61206
+GO	5206206	Cristalina	61385
+PR	4110706	Irati	61439
+PE	2612208	Salgueiro	61561
+CE	2308708	Morada Nova	61590
+CE	2301901	Barbalha	61662
+MT	5101803	Barra do Garças	61702
+SP	3531803	Monte Mor	61707
+SP	3533403	Nova Odessa	61716
+MG	3140001	Mariana	61830
+CE	2314102	Viçosa do Ceará	61916
+PA	1508308	Viseu	62093
+RS	4318309	São Gabriel	62187
+RJ	3301850	Guapimirim	62225
+PA	1508126	Ulianópolis	62286
+AL	2708600	São Miguel dos Campos	62328
+RS	4304705	Carazinho	62413
+PB	2503704	Cajazeiras	62576
+SP	3507001	Boituva	63310
+PA	1503309	Igarapé-Miri	63367
+SP	3505906	Batatais	63438
+CE	2300200	Acaraú	63556
+PE	2610004	Palmares	63745
+PE	2609402	Moreno	63792
+PI	2208403	Piripiri	63829
+PA	1505809	Portel	63831
+MT	5107040	Primavera do Leste	63876
+MA	2101707	Barreirinhas	63891
+BA	2909802	Cruz das Almas	63923
+AL	2706703	Penedo	64005
+SP	3537305	Penápolis	64098
+CE	2302602	Camocim	64147
+SP	3524006	Itupeva	64330
+BA	2915601	Itamaraju	64423
+PA	1508001	Tomé-Açu	64604
+PA	1501501	Benevides	64780
+BA	2914703	Itaberaba	64795
+MG	3149309	Pedro Leopoldo	65149
+SP	3555000	Tupã	65615
+MA	2103604	Coroatá	65788
+AL	2709301	União dos Palmares	65963
+SP	3506359	Bertioga	66154
+RS	4312401	Montenegro	66157
+AM	1302900	Maués	66159
+PE	2614501	Surubim	66192
+RS	4303509	Camaquã	66686
+MG	3137601	Lagoa Santa	66744
+RS	4322509	Vacaria	66916
+PA	1503457	Ipixuna do Pará	67170
+BA	2908408	Conceição do Coité	67394
+BA	2904605	Brumado	67468
+MG	3126109	Formiga	67956
+MG	3135209	Januária	67958
+PE	2610905	Pesqueira	68067
+PR	4122404	Rolândia	68165
+CE	2305407	Icó	68303
+PA	1501782	Breu Branco	68597
+RN	2402006	Caicó	68726
+SP	3530508	Mococa	69072
+MA	2105401	Itapecuru Mirim	69233
+SC	4208302	Itapema	69323
+GO	5213103	Mineiros	69477
+SC	4201406	Araranguá	69493
+SP	3526803	Lençóis Paulista	69533
+MT	5105259	Lucas do Rio Verde	69671
+SP	3515509	Fernandópolis	69680
+CE	2305233	Horizonte	69688
+SP	3537602	Peruíbe	69697
+PE	2605202	Escada	69701
+PB	2503209	Cabedelo	69773
+PA	1502202	Capanema	69828
+SE	2802106	Estância	69919
+RS	4303905	Campo Bom	69981
+PB	2516201	Sousa	69997
+BA	2903904	Bom Jesus da Lapa	70151
+SP	3515103	Embu-Guaçu	70402
+PE	2609907	Ouricuri	70466
+SC	4202305	Biguaçu	70471
+MA	2104800	Grajaú	70692
+BA	2906006	Campo Formoso	71754
+MG	3164704	São Sebastião do Paraíso	71915
+SC	4205902	Gaspar	71925
+GO	5208608	Goianésia	72045
+PR	4104907	Castro	72125
+SC	4207502	Indaial	72346
+RS	4322608	Venâncio Aires	72373
+MG	3135100	Janaúba	72374
+RS	4300406	Alegrete	72493
+MG	3124104	Esmeraldas	72512
+CE	2303501	Cascavel	72706
+PA	1506500	Santa Izabel do Pará	72856
+SC	4214805	Rio do Sul	72931
+BA	2907202	Casa Nova	73092
+MA	2110005	Santa Luzia	73105
+SP	3501905	Amparo	73145
+AL	2706307	Palmeira dos Índios	73452
+MA	2102325	Buriticupu	73595
+RS	4307906	Farroupilha	73758
+RS	4317202	Santa Rosa	73882
+BA	2914604	Irecê	74050
+CE	2309607	Pacajus	74145
+RN	2402600	Ceará-Mirim	74268
+GO	5205497	Cidade Ocidental	74370
+SP	3512803	Cosmópolis	74662
+MG	3146107	Ouro Preto	74824
+PA	1505304	Oriximiná	74921
+CE	2304103	Crateús	75241
+PE	2601201	Arcoverde	75295
+CE	2301109	Aracati	75392
+RS	4317103	Sant'Ana do Livramento	75647
+AL	2707701	Rio Largo	75662
+SP	3522604	Itapira	75683
+SC	4204301	Concórdia	75683
+MG	3115300	Cataguases	75942
+PA	1506708	Santana do Araguaia	75995
+GO	5219753	Santo Antônio do Descoberto	76871
+PE	2601706	Belo Jardim	76930
+CE	2313401	Tianguá	77111
+RJ	3306107	Valença	77202
+SP	3539301	Pirassununga	77330
+BA	2916401	Itapetinga	77408
+CE	2302800	Canindé	77484
+RS	4317509	Santo Ângelo	77544
+SP	3506102	Bebedouro	77612
+SP	3524303	Jaboticabal	78029
+PA	1505064	Novo Repartimento	78488
+PI	2208007	Picos	78627
+SP	3527108	Lins	78978
+SP	3509205	Cajamar	79034
+CE	2311801	Russas	79550
+BA	2930105	Senhor do Bonfim	79813
+MG	3171303	Viçosa	79910
+SC	4203006	Caçador	80017
+SP	3519709	Ibiúna	80062
+PE	2606200	Goiana	80345
+RS	4319901	Sapiranga	80514
+MG	3169307	Três Corações	80561
+PR	4127106	Telêmaco Borba	80588
+MA	2103208	Chapadinha	80705
+ES	3205101	Viana	80735
+BA	2917508	Jacobina	80749
+MG	3136207	João Monlevade	80903
+MG	3101607	Alfenas	80973
+MG	3120904	Curvelo	81085
+SP	3556701	Vinhedo	81516
+RS	4303004	Cachoeira do Sul	81552
+CE	2301000	Aquiraz	81581
+BA	2930501	Serrinha	81693
+CE	2311405	Quixeramobim	82455
+RJ	3306008	Três Rios	82468
+RN	2407104	Macaíba	82828
+SP	3513405	Cruzeiro	82895
+RS	4307708	Esteio	83352
+BA	2910057	Dias d'Ávila	83705
+RJ	3305554	Seropédica	83841
+RS	4310207	Ijuí	84041
+SP	3529302	Matão	84069
+MA	2108603	Pinheiro	84160
+PA	1504703	Moju	84251
+PR	4118501	Pato Branco	84779
+PR	4105508	Cianorte	84980
+PE	2604007	Carpina	85131
+PE	2601102	Araripina	85301
+PE	2606408	Gravatá	85309
+BA	2911709	Guanambi	85353
+MG	3170404	Unaí	85461
+CE	2309706	Pacatuba	85647
+SC	4211306	Navegantes	85734
+RS	4311403	Lajeado	86005
+SC	4215802	São Bento do Sul	86317
+PA	1506138	Redenção	86326
+SP	3509601	Campo Limpo Paulista	86407
+RO	1100049	Cacoal	86416
+AM	1301209	Coari	86713
+SC	4203204	Camboriú	87179
+PE	2613909	Serra Talhada	87467
+BA	2906501	Candeias	87820
+TO	1709500	Gurupi	88428
+MA	2101608	Barra do Corda	88895
+CE	2311306	Quixadá	88899
+PR	4118402	Paranavaí	89454
+SP	3527207	Lorena	89532
+AC	1200203	Cruzeiro do Sul	89760
+MA	2109908	Santa Inês	89927
+MG	3162500	São João del Rei	90897
+MG	3168705	Timóteo	91268
+GO	5217609	Planaltina	91345
+SP	3550704	São Sebastião	91637
+SP	3504503	Avaré	91792
+RJ	3305505	Saquarema	91938
+MG	3139409	Manhuaçu	92074
+SE	2806701	São Cristóvão	92090
+MG	3148103	Patrocínio	92116
+SP	3549102	São João da Boa Vista	92315
+SP	3503901	Arujá	92453
+BA	2919553	Luís Eduardo Magalhães	92671
+SP	3555406	Ubatuba	92819
+SP	3550605	São Roque	93076
+MG	3113404	Caratinga	93124
+PR	4108403	Francisco Beltrão	93308
+SP	3530805	Mogi Mirim	94098
+MG	3133808	Itaúna	94455
+MG	3147006	Paracatu	94539
+MT	5107925	Sorriso	94941
+GO	5204508	Caldas Novas	95183
+SP	3522406	Itapeva	95241
+MS	5006606	Ponta Porã	95320
+MT	5102504	Cáceres	95339
+MG	3147105	Pará de Minas	95616
+SP	3508504	Caçapava	95752
+PR	4104303	Campo Mourão	96102
+SP	3557105	Votuporanga	96106
+SE	2802908	Itabaiana	96839
+MA	2101400	Balsas	96951
+MG	3144805	Nova Lima	97378
+PB	2501807	Bayeux	97519
+MG	3132404	Itajubá	97782
+BA	2932903	Valença	97873
+RS	4309308	Guaíba	98331
+PR	4126256	Sarandi	98888
+PE	2607208	Ipojuca	99101
+AM	1302504	Manacapuru	99613
+PE	2600054	Abreu e Lima	100698
+RJ	3300308	Barra do Piraí	101139
+PA	1503606	Itaituba	101541
+BA	2928703	Santo Antônio de Jesus	103204
+GO	5211909	Jataí	103221
+CE	2305506	Iguatu	103633
+SP	3528502	Mairiporã	103645
+PR	4107652	Fazenda Rio Grande	103750
+SP	3509007	Caieiras	104044
+AM	1301902	Itacoatiara	104046
+PA	1501808	Breves	104280
+SP	3522109	Itanhaém	104351
+RJ	3302205	Itaperuna	104354
+RO	1100304	Vilhena	104517
+RN	2412005	São Gonçalo do Amarante	104919
+ES	3200607	Aracruz	104942
+MA	2101202	Bacabal	105094
+SP	3526704	Leme	105273
+MG	3138203	Lavras	105756
+SP	3504008	Assis	105768
+MG	3134202	Ituiutaba	105818
+SE	2803500	Lagarto	106015
+RJ	3302270	Japeri	106296
+GO	5211503	Itumbiara	106845
+SC	4218707	Tubarão	107143
+RS	4307005	Erechim	107368
+RJ	3305208	São Pedro da Aldeia	107556
+MT	5107958	Tangará da Serra	107631
+PR	4103701	Cambé	108126
+MG	3145208	Nova Serrana	108241
+MG	3104007	Araxá	108403
+PB	2510808	Patos	108766
+MG	3143906	Muriaé	109997
+MG	3119401	Coronel Fabriciano	110709
+RO	1100023	Ariquemes	111148
+PA	1507953	Tailândia	111554
+PE	2612505	Santa Cruz do Capibaribe	111812
+MS	5003207	Corumbá	112669
+GO	5205109	Catalão	113091
+PR	4128104	Umuarama	113416
+MA	2100055	Açailândia	113783
+SP	3536505	Paulínia	114508
+PE	2613701	São Lourenço da Mata	114910
+SP	3534708	Ourinhos	115139
+BA	2910727	Eunápolis	115360
+PA	1505502	Paragominas	115838
+MG	3147907	Passos	115970
+PA	1508100	Tucuruí	116605
+PR	4119509	Piraquara	116852
+PA	1500602	Altamira	117320
+MG	3169901	Ubá	117995
+MG	3103504	Araguari	118361
+BA	2924009	Paulo Afonso	119213
+SP	3539806	Poá	119221
+GO	5215231	Novo Gama	119649
+PE	2606804	Igarassu	119690
+SP	3545209	Salto	120779
+PR	4100400	Almirante Tamandaré	121420
+GO	5220454	Senador Canedo	121447
+RS	4301602	Bagé	121518
+MG	3131703	Itabira	121717
+RS	4302105	Bento Gonçalves	123090
+SP	3511102	Catanduva	123114
+SP	3518404	Guaratinguetá	123192
+MA	2103307	Codó	123368
+SP	3505500	Barretos	123546
+SP	3554003	Tatuí	124134
+SP	3523404	Itatiba	124254
+SP	3556503	Várzea Paulista	124269
+ES	3201506	Colatina	124283
+SP	3557006	Votorantim	124468
+AP	1600600	Santana	124808
+MS	5008305	Três Lagoas	125137
+SP	3510500	Caraguatatuba	125194
+SP	3543303	Ribeirão Pires	125238
+GO	5208004	Formosa	125705
+SP	3506508	Birigui	126094
+PR	4101507	Arapongas	126545
+RS	4322400	Uruguaiana	126766
+SP	3525003	Jandira	127734
+SP	3551702	Sertãozinho	128432
+ES	3202405	Guarapari	128504
+PA	1501303	Barcarena	129333
+PA	1501709	Bragança	130122
+MG	3118304	Conselheiro Lafaiete	130584
+RO	1100122	Ji-Paraná	131026
+CE	2307700	Maranguape	131677
+CE	2306405	Itapipoca	131687
+MG	3171204	Vespasiano	131849
+GO	5221403	Trindade	132006
+RS	4303103	Cachoeirinha	132144
+RS	4316808	Santa Cruz do Sul	132271
+SP	3513504	Cubatão	132521
+SP	3556206	Valinhos	133169
+RJ	3304201	Resende	133244
+CE	2304202	Crato	133913
+ES	3204906	São Mateus	134629
+PR	4119152	Pinhais	134788
+PR	4104204	Campo Largo	135678
+PA	1507300	São Félix do Xingu	135732
+PA	1504422	Marituba	135812
+RJ	3300209	Araruama	136109
+RJ	3302007	Itaguaí	136547
+SP	3503307	Araras	136739
+BA	2930709	Simões Filho	137117
+PR	4101408	Apucarana	137438
+MG	3170701	Varginha	137608
+MG	3156700	Sabará	137877
+PB	2513703	Santa Rita	138093
+MG	3105608	Barbacena	139061
+PE	2616407	Vitória de Santo Antão	140389
+SC	4202909	Brusque	140597
+PA	1502103	Cametá	140814
+MG	3168606	Teófilo Otoni	141269
+PE	2606002	Garanhuns	141347
+RS	4320008	Sapucaia do Sul	142508
+PR	4127700	Toledo	144601
+SP	3547304	Santana de Parnaíba	145073
+SP	3504107	Atibaia	145378
+PR	4101804	Araucária	148522
+MT	5107909	Sinop	148960
+SC	4202008	Balneário Camboriú	149227
+SP	3507506	Botucatu	149718
+RJ	3304144	Queimados	152311
+BA	2925303	Porto Seguro	152529
+BA	2900702	Alagoinhas	153023
+SP	3525300	Jaú	153463
+PI	2207702	Parnaíba	153863
+SP	3530706	Mogi Guaçu	154146
+MG	3152501	Pouso Alegre	154293
+MG	3148004	Patos de Minas	154641
+BA	2918001	Jequié	156277
+SC	4209300	Lages	157158
+PR	4118204	Paranaguá	157378
+BA	2913606	Ilhéus	157639
+BA	2903201	Barreiras	158432
+SP	3516408	Franco da Rocha	158438
+RJ	3304524	Rio das Ostras	159529
+PE	2603454	Camaragibe	159945
+PA	1500107	Abaetetuba	160439
+SP	3548807	São Caetano do Sul	162763
+RJ	3303203	Nilópolis	162893
+BA	2931350	Teixeira de Freitas	164290
+MA	2103000	Caxias	166159
+SP	3522307	Itapetininga	167106
+RJ	3302700	Maricá	167668
+MG	3151800	Poços de Caldas	169838
+MA	2112209	Timon	171317
+SP	3538006	Pindamonhangaba	171885
+SP	3507605	Bragança Paulista	172346
+GO	5221858	Valparaíso de Goiás	175720
+RJ	3302858	Mesquita	177016
+SP	3523909	Itu	177150
+SC	4211900	Palhoça	178679
+SP	3516309	Francisco Morato	179372
+SP	3522208	Itapecerica da Serra	179574
+ES	3203205	Linhares	179755
+MA	2111201	São José de Ribamar	180345
+PR	4109401	Guarapuava	183755
+MG	3129806	Ibirité	184030
+SC	4208906	Jaraguá do Sul	184579
+RJ	3300407	Barra Mansa	185237
+RJ	3305802	Teresópolis	185820
+TO	1702109	Araguaína	186245
+SE	2804805	Nossa Senhora do Socorro	187733
+RJ	3303401	Nova Friburgo	191664
+SP	3545803	Santa Bárbara d'Oeste	195278
+SP	3515707	Ferraz de Vasconcelos	198661
+SP	3502804	Araçatuba	199210
+BA	2919207	Lauro de Freitas	204669
+PA	1502400	Castanhal	205667
+RS	4314100	Passo Fundo	206103
+SP	3543907	Rio Claro	209548
+RJ	3300100	Angra dos Reis	210171
+PE	2602902	Cabo de Santo Agostinho	210796
+ES	3201209	Cachoeiro de Itapemirim	212172
+RS	4300604	Alvorada	212352
+CE	2312908	Sobral	212437
+RS	4315602	Rio Grande	212881
+BA	2914802	Itabuna	214123
+GO	5212501	Luziânia	214645
+PA	1505536	Parauapebas	218787
+SC	4204608	Criciúma	219393
+BA	2918407	Juazeiro	219544
+MG	3157807	Santa Luzia	221705
+GO	5200258	Águas Lindas de Goiás	222850
+SC	4208203	Itajaí	226617
+SC	4204202	Chapecó	227587
+MS	5003702	Dourados	227990
+CE	2307650	Maracanaú	230986
+SP	3541406	Presidente Prudente	231953
+RJ	3300704	Cabo Frio	234077
+AL	2700300	Arapiraca	234309
+SP	3524402	Jacareí	237119
+SP	3519071	Hortolândia	237570
+MT	5107602	Rondonópolis	239613
+RS	4318705	São Leopoldo	240378
+SP	3503208	Araraquara	240542
+SP	3529005	Marília	242249
+MG	3122306	Divinópolis	242505
+MG	3167202	Sete Lagoas	243950
+SP	3522505	Itapevi	244131
+SP	3501608	Americana	244370
+RJ	3301900	Itaboraí	244416
+GO	5218805	Rio Verde	247259
+RS	4313409	Novo Hamburgo	247303
+RJ	3302502	Magé	247741
+PR	4105805	Colombo	249277
+SC	4216602	São José	253705
+SP	3548906	São Carlos	256915
+RS	4323002	Viamão	257330
+SP	3513009	Cotia	257882
+PR	4108304	Foz do Iguaçu	257971
+MA	2105302	Imperatriz	259980
+SP	3520509	Indaiatuba	260690
+RJ	3302403	Macaé	266136
+MG	3131307	Ipatinga	267333
+RN	2403251	Parnamirim	272490
+RJ	3306305	Volta Redonda	274925
+CE	2307304	Juazeiro do Norte	278264
+SP	3515004	Embu das Artes	279264
+SP	3505708	Barueri	279704
+MG	3127701	Governador Valadares	282164
+RS	4316907	Santa Maria	285159
+RS	4309209	Gravataí	285564
+PA	1504208	Marabá	287664
+SP	3552403	Sumaré	289875
+MT	5108402	Várzea Grande	290383
+SP	3552809	Taboão da Serra	297528
+SP	3552502	Suzano	303397
+RN	2408003	Mossoró	303792
+RJ	3303906	Petrópolis	307144
+PA	1506807	Santarém	308339
+BA	2905701	Camaçari	309208
+SP	3526902	Limeira	310783
+TO	1721000	Palmas	313349
+SP	3554102	Taubaté	320820
+SP	3518701	Guarujá	324977
+PR	4125506	São José dos Pinhais	334620
+PR	4104808	Cascavel	336073
+SP	3541000	Praia Grande	336454
+PE	2610707	Paulista	336919
+MG	3170107	Uberaba	340277
+MG	3154606	Ribeirão das Neves	341415
+BA	2933307	Vitória da Conquista	343643
+RS	4314407	Pelotas	343826
+RS	4304606	Canoas	349728
+SP	3516200	Franca	358539
+PR	4119905	Ponta Grossa	358838
+PE	2611101	Petrolina	359372
+SC	4202404	Blumenau	366418
+CE	2303709	Caucaia	368918
+PE	2604106	Caruaru	369343
+ES	3205309	Vitória	369534
+SP	3551009	São Vicente	370839
+SP	3523107	Itaquaquecetuba	379082
+SP	3506003	Bauru	381706
+ES	3201308	Cariacica	386495
+PE	2609600	Olinda	393734
+GO	5201108	Anápolis	396526
+SP	3510609	Carapicuíba	405375
+SP	3538709	Piracicaba	410275
+PB	2504009	Campina Grande	413830
+MG	3143302	Montes Claros	417478
+AC	1200401	Rio Branco	419452
+SP	3525904	Jundiaí	426935
+SP	3513801	Diadema	429550
+SP	3548500	Santos	433991
+PR	4115200	Maringá	436472
+RR	1400100	Boa Vista	436591
+MG	3106705	Betim	450024
+SP	3530607	Mogi das Cruzes	455587
+SP	3549805	São José do Rio Preto	469173
+RJ	3305109	São João de Meriti	473385
+SP	3529401	Mauá	481725
+ES	3205200	Vila Velha	508655
+RJ	3301009	Campos dos Goytacazes	514643
+RJ	3300456	Belford Roxo	515239
+SC	4205407	Florianópolis	516524
+RJ	3303302	Niterói	516981
+AP	1600303	Macapá	522357
+RS	4305108	Caxias do Sul	523716
+ES	3205002	Serra	536765
+PA	1500800	Ananindeua	540410
+MG	3136702	Juiz de Fora	577532
+PR	4113700	Londrina	580870
+GO	5201405	Aparecida de Goiânia	601844
+SC	4209102	Joinville	604708
+MT	5103403	Cuiabá	623614
+BA	2910800	Feira de Santana	624107
+SE	2800308	Aracaju	672614
+MG	3118601	Contagem	673849
+SP	3552205	Sorocaba	695328
+SP	3534401	Osasco	701428
+MG	3170206	Uberlândia	706597
+PE	2607901	Jaboatão dos Guararapes	711330
+SP	3543402	Ribeirão Preto	720116
+SP	3547809	Santo André	723889
+SP	3549904	São José dos Campos	737310
+RJ	3303500	Nova Iguaçu	825388
+PB	2507507	João Pessoa	825796
+SP	3548708	São Bernardo do Campo	849874
+PI	2211001	Teresina	871126
+RN	2408102	Natal	896708
+MS	5002704	Campo Grande	916001
+RJ	3301702	Duque de Caxias	929449
+AL	2704302	Maceió	1031597
+RJ	3304904	São Gonçalo	1098357
+MA	2111300	São Luís	1115932
+SP	3509502	Campinas	1223237
+SP	3518800	Guarulhos	1404694
+RS	4314902	Porto Alegre	1492530
+PA	1501402	Belém	1506420
+GO	5208707	Goiânia	1555626
+PE	2611606	Recife	1661017
+PR	4106902	Curitiba	1963726
+AM	1302603	Manaus	2255903
+MG	3106200	Belo Horizonte	2530701
+CE	2304400	Fortaleza	2703391
+BA	2927408	Salvador	2900319
+DF	5300108	Brasília	3094325
+RJ	3304557	Rio de Janeiro	6775561
+SP	3550308	São Paulo	12396372
+AM	1303403	Parintins	116439
+PE	2605509	Ferreiros	12216
+MA	2107506	Paço do Lumiar	125265
+AM	1302306	Jutaí	13462
+AM	1300839	Caapiranga	13482
+BA	2909208	Coronel João Sá	15549
+AM	1304302	Urucará	16007
+AM	1301654	Guajará	17193
+AM	1304401	Urucurituba	24098
+AM	1303601	Santa Isabel do Rio Negro	26566
+AM	1302553	Manaquiri	33981
+BA	2933208	Vera Cruz	44185
+AM	1300607	Benjamin Constant	44873
+AM	1302405	Lábrea	47685
+RO	1100205	Porto Velho	548952
+PA	1503754	Jacareacanga	6952
+AM	1304062	Tabatinga	68502
+BA	2912004	Ibiassucê	8849
+BA	2927101	Rodelas	9548
